@@ -1,0 +1,963 @@
+1
+ROOT
+employs
+ROOT
+employs
+nsubj ccomp
+technique mixing
+det amod punct punct punct nsubj 
+A similar , LightLDA , Hastings 
+
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+1
+ROOT
+employs
+ROOT
+employs
+nsubj ccomp punct
+technique mixing .
+det amod punct punct punct nsubj
+A similar , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+ROOT
+employs
+ROOT
+employs
+subj obj
+technique mixing
+mod punct nsubj
+similar  , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+
+2
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp punct
+employs , it expensive .
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp punct
+employs , it expensive .
+subj obj mod advmod xcomp
+analysis features widely computationally integrate
+compound mod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+3
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provides .
+pobj compound aux neg dobj prep
+contrast error does not guarantees on
+prep pobj
+to margins
+pobj det compound prep
+BlinkDB the error for
+pobj
+results
+ROOT
+support
+ROOT
+support
+prep punct aux neg dobj punct cc conj punct
+In , does not constraints , and provides .
+pobj compound subj obj neg prep aux
+contrast error SciBORQ guarantees not on does
+prep pobj
+to margins
+pobj det compound prep
+BlinkDB the error for
+pobj
+results
+
+4
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct npadvmod punct
+Crowdsourcing solving , 21 .
+det amod npadvmod punct dobj punct punct punct punct relcl
+a new problem - paradigm[3 ] [ ] , blended
+nsubjpass aux auxpass prep
+which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+ROOT
+provides
+ROOT
+provides
+subj obj mod
+Crowdsourcing solving 21
+obj mod mod punct punct punct punct relcl
+paradigm[3 new problem  - ] [ ] , blended
+nsubjpass aux auxpass prep
+which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+1
+ROOT
+provides
+ROOT
+provides
+advmod punct nsubj dobj punct
+However , approach advantages .
+poss amod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+ROOT
+provides
+ROOT
+provides
+subj obj mod
+approach advantages However
+poss mod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+1
+ROOT
+employs
+ROOT
+employs
+nsubj ccomp
+technique mixing
+det amod punct punct punct nsubj
+A similar , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+ROOT
+employs
+ROOT
+employs
+subj obj
+technique mixing
+mod punct nsubj
+similar  , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+1
+ROOT
+employs
+ROOT
+employs
+nsubj ccomp
+technique mixing
+det amod punct punct punct nsubj
+A similar , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+ROOT
+employs
+ROOT
+employs
+subj obj
+technique mixing
+mod punct nsubj
+similar  , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+2
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp
+employs , it expensive
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp
+employs , it expensive
+subj obj mod advmod xcomp
+analysis features widely computationally integrate
+compound mod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+3
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provides .
+pobj compound aux neg dobj prep
+contrast error does not guarantees on
+prep pobj
+to margins
+pobj det compound prep
+BlinkDB the error for
+pobj
+results
+ROOT
+support
+ROOT
+support
+prep punct aux neg dobj punct cc conj punct
+In , does not constraints , and provides .
+pobj compound subj obj neg prep aux
+contrast error SciBORQ guarantees not on does
+prep pobj
+to margins
+pobj det compound prep
+BlinkDB the error for
+pobj
+results
+4
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct npadvmod punct
+Crowdsourcing solving , 21 .
+det amod npadvmod punct dobj punct punct punct punct relcl
+a new problem - paradigm[3 ] [ ] , blended
+nsubjpass aux auxpass prep
+which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+ROOT
+provides
+ROOT
+provides
+subj obj mod
+Crowdsourcing solving 21
+obj mod mod punct punct punct punct relcl
+paradigm[3 new problem  - ] [ ] , blended
+nsubjpass aux auxpass prep
+which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+5
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Section comparison .
+nummod det amod prep
+5 a detailed with
+pobj
+algorithm
+poss
+our
+ROOT
+provides
+ROOT
+provides
+subj obj prep
+Section comparison with
+mod mod pobj
+5 detailed algorithm
+poss
+our
+6
+ROOT
+provides
+ROOT
+provides
+advmod punct nsubj dobj punct
+However , approach advantages .
+poss amod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+ROOT
+provides
+ROOT
+provides
+subj obj mod
+approach advantages However
+poss mod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+7.
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+LSD framework .
+det amod punct relcl
+an extensible , employs
+nsubj dobj
+which matchers
+amod amod
+several based
+npadvmod punct
+schema -
+ROOT
+is
+ROOT
+is
+nsubj punct relcl
+LSD . employs
+subj obj
+framework matchers
+mod punct mod
+extensible ,  several based
+8.
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct punct
+showed : al types ranking ) .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct punct
+showed : al types ranking ) .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod subj obj prep punct nummod
+Recent retrieval ranking for ( 2
+mod compound pobj
+structured answer questions
+compound
+factoid
+9.
+ROOT
+improves
+ROOT
+improves
+nsubj prep dobj
+smoothing on technique
+compound punct pobj punct det compound punct
+HMM - work , the Learning .
+det amod compound compound
+the related Structural Correspondence
+advmod advmod
+most closely
+ROOT
+improves
+ROOT
+improves
+subj obj prep
+smoothing technique on
+compound punct compound punct pobj
+HMM - Learning  , . work
+compound compound det amod
+Structural Correspondence the related
+advmod advmod
+most closely
+10.
+ROOT
+improves
+ROOT
+improves
+nsubj dobj punct
+model precision .
+det amod preconj cc conj amod
+The bidirectional both and recall relative
+prep
+to
+pobj
+technique
+det amod compound punct appos
+all heuristic combination , inc
+ROOT
+improves
+ROOT
+improves
+subj obj
+model precision
+mod mod conj cc preconj
+bidirectional relative recall and both
+prep
+to
+pobj
+technique
+det amod compound punct appos
+all heuristic combination , inc
+11.
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al quality by .
+punct compound compound punct npadvmod punct compound prep pcomp
+( Son et , 2012 ) translation of using
+pobj dobj
+model language
+compound det amod amod
+translation a bilingual neural
+amod
+gram
+dep
+-
+dep
+n
+ROOT
+improves
+ROOT
+improves
+subj obj prep
+al quality by
+mod compound punct prep compound pcomp
+2012  Son et  ( , ) of translation using
+pobj dobj
+model language
+compound det amod amod
+translation a bilingual neural
+amod
+gram
+dep
+-
+dep
+n
+12.
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+Calvin system .
+appos det amod compound relcl
+21 a distributed database uses
+punct punct compound nsubj dobj
+[ ] memory that strategy
+amod punct det amod compound
+main - a deterministic execution
+ROOT
+is
+ROOT
+is
+nsubj punct relcl
+Calvin . uses
+appos subj obj
+21 system strategy
+punct punct mod compound mod compound
+[ ] distributed database deterministic execution
+compound
+memory
+amod punct
+main -
+13.
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound mark nsubj aux neg prep advmod
+Popular that sketches can not with all
+compound advmod
+proof at
+14.
+ROOT
+enables
+ROOT
+enables
+csubj preconj dobj xcomp punct
+Modeling not us make .
+dobj advmod aux dobj
+positions only to predictions
+det prep amod amod
+the of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+ROOT
+enables
+ROOT
+enables
+subj obj xcomp preconj
+Modeling us make not
+obj aux dobj advmod
+positions to predictions only
+det prep amod amod
+the of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+15.
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct cc conj punct
+SemTag base5 , and employs .
+det compound compound dobj advcl
+the TAP knowledge similarity compute
+det amod prep aux dobj prep punct advcl
+the cosine with to degree between , achieving
+pobj det compound pobj dobj
+scheme the match mention accuracy
+compound compound det cc conj det prep
+IDF weighting a and entity an of
+compound punct det pobj
+TF - an ™
+nummod
+82%â€
+quantmod
+around
+ROOT
+uses
+ROOT
+uses
+dobj punct cc conj punct
+base5 , and employs .
+det compound compound subj obj advcl prep
+the TAP knowledge SemTag similarity compute with
+mod aux dobj prep punct advcl pobj
+cosine to degree between , achieving scheme
+det compound pobj dobj compound compound
+the match mention accuracy IDF weighting
+det cc conj det prep compound punct
+a and entity an of TF -
+det pobj
+an ™
+nummod
+82%â€
+quantmod
+around
+16.
+ROOT
+stress
+ROOT
+stress
+nsubj ccomp punct
+We improves .
+mark prep nsubj dobj
+that out method baseline
+det amod
+a supervised
+ROOT
+stress
+ROOT
+stress
+nsubj ccomp punct
+We improves .
+subj obj prep
+method baseline out
+mod
+supervised
+17.
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound subj obj prep
+parser our parsing we accuracy for
+det amod mod pobj
+an standard best parser
+compound punct nmod amod
+arc - model based
+amod punct npadvmod punct
+single - transition -
+18.
+ROOT
+revealed
+ROOT
+revealed
+npadvmod punct ccomp punct
+2007 ) improves .
+punct mark csubj dobj prep
+( that adding quality in
+dobj compound pobj
+rules translation setting
+amod det
+minimal this
+dep
+-
+dep
+non
+ROOT
+revealed
+ROOT
+revealed
+npadvmod punct ccomp punct
+2007 ) improves .
+punct mark csubj dobj prep
+( that adding quality in
+obj compound pobj
+rules translation setting
+mod det
+minimal this
+dep
+-
+dep
+non
+19.
+ROOT
+improves
+ROOT
+improves
+punct nsubj advmod prep punct
+( Detroit substantially over .
+compound punct appos punct pobj
+CBS , 2011 ) approaches
+prep amod
+11 prior
+punct nummod punct
+- 02 -
+ROOT
+improves
+ROOT
+improves
+subj mod prep
+Detroit substantially over
+appos compound punct pobj
+2011 CBS  , ) approaches
+prep amod
+11 prior
+punct nummod punct
+- 02 -
+1
+ROOT
+SciBORQ
+ROOT
+SciBORQ
+prep punct dobj punct
+In , constraints .
+pobj aux neg det compound punct cc conj
+contrast does not any error , and provides
+prep compound dobj
+to support guarantees
+pobj det prep
+BlinkDB no on
+pobj
+margins
+det compound prep
+the error for
+pobj
+results
+ROOT
+SciBORQ
+ROOT
+SciBORQ
+prep punct dobj punct
+In , constraints .
+pobj aux neg det compound punct cc conj
+contrast does not any error , and provides
+prep compound dobj
+to support guarantees
+pobj det prep
+BlinkDB no on
+pobj
+margins
+det compound prep
+the error for
+pobj
+results
+1
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provides .
+pobj compound dobj
+contrast error guarantees
+prep det prep
+to no on
+pobj pobj
+BlinkDB margins
+det compound prep
+the error for
+pobj
+results
+ROOT
+support
+ROOT
+support
+subj obj neg conj cc prep aux
+SciBORQ constraints not provides and In does
+compound dobj pobj
+error guarantees contrast
+det prep prep
+no on to
+pobj pobj
+margins BlinkDB
+det compound prep
+the error for
+pobj
+results
+1
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provides .
+pobj compound dobj
+contrast error guarantees
+prep det prep
+to no on
+pobj pobj
+BlinkDB margins
+det compound prep
+the error for
+pobj
+results
+1
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provides .
+pobj compound dobj
+contrast error guarantees
+prep det prep
+to no on
+pobj pobj
+BlinkDB margins
+det compound prep
+the error for
+pobj
+results
+ROOT
+support
+ROOT
+support
+prep punct aux neg dobj punct cc conj punct
+In , does not constraints , and provides .
+pobj compound subj obj
+contrast error SciBORQ guarantees
+prep prep
+to on
+pobj pobj
+BlinkDB margins
+det compound prep
+the error for
+pobj
+results
+1
+ROOT
+provides
+ROOT
+provides
+nsubj dobj prep punct
+She cat with .
+det pobj
+the food
+ROOT
+provides
+ROOT
+provides
+subj obj prep
+She cat with
+pobj
+food
+1
+ROOT
+provided
+ROOT
+provided
+nsubjpass auxpass dobj agent punct
+cat was food by .
+det pobj
+The lady
+det amod compound
+an old church
+
+1
+ROOT
+came
+ROOT
+came
+prep punct nsubj advmod prep punct
+After , children home from .
+pobj det pobj
+rang the school
+det compound
+the bell
+ROOT
+came
+ROOT
+came
+subj mod prep
+children home Afterfrom
+1
+ROOT
+came
+ROOT
+came
+prep punct nsubj advmod prep punct
+After , children home from .
+pobj det pobj
+rang the school
+det compound
+the bell
+ROOT
+came
+ROOT
+came
+prep punct nsubj advmod prep punct
+After , children home from .
+pobj det pobj
+rang the school
+det compound
+the bell

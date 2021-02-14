@@ -1,0 +1,76 @@
+1
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing
+employs
+( similar technique LightLDA ; cycle-based Metropolis Hastings mixing ), ( LightLDA ; cycle-based Metropolis Hastings mixing)
+2
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate
+employs
+( PAS analysis; global and sentence-wide features )
+3
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+provides
+( subj: SciBoRQ; obj: gaurantees on the error margins)
+4
+Crowdsourcing provides a new problem-solving paradigm[3], [21], which has been blended into several research communities, including database and data mining.
+provides
+(subj: Crowdsourcing ; obj: a new problem-solving paradigm [ 3 )
+5
+Section 5 provides a detailed comparison with our algorithm.
+provides
+( subj: Section5; obj:detailed comparison)
+6
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.
+provides
+(subj:our approach; obj: more advantages over linear result)
+7.
+LSD is an extensible framework, which employs several schema-based matchers.
+employs
+( LSD ; several schema-based matchers )
+8.
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking).
+improves
+(structured retrieval answer ranking)
+9.
+HMM-smoothing improves on the most closely related work, the Structural Correspondence Learning technique.
+improves
+(HMM-smoothing; Structural Correspondence Leaerning techniques)
+10.
+The bidirectional model improves both precision and recall relative to all heuristic combination technique, inc.
+improves
+(bidirectional model, precision and recall relative)
+11.
+(Son et al, 2012) improves translation quality of n-gram translation model by using a bilingual neural language.
+improves
+(Son et al 2012, translation quality of n-gram translation model)
+12.
+Calvin [21] is a distributed main-memory database system that uses a deterministic execution strategy.
+uses
+( distributed main-memory database system ; deterministic execution strategy ).
+13.
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+enables
+( Doing so ; SECOA).
+14.
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions.
+enables
+( Modeling the positions of moving objects as functions of time ; us )
+15.
+SemTag uses the TAP knowledge base5, and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%’. 
+employs
+obj: ‘SemTag’ sub: ‘cosine similarity’ prep: ‘with TF-IDF weighting scheme, achieving an accuracy of around 82%’
+16.
+We stress that out method improves a supervised baseline.
+improves
+(our method, baseline)
+17.
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+achieved
+(we; best accuracy for single model transition-based parser)
+18.
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.
+adding
+(translation quality; rules)
+19.
+(CBS Detroit, 2011-02-11) improves substantially over prior approaches.
+improves
+relation:

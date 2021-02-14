@@ -1,0 +1,369 @@
+1
+
+verb: employs
+subj
+technique
+subj
+technique
+mod punct
+similar  , LightLDA ,
+obj
+mixing
+obj
+mixing
+nsubj
+Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+2
+
+verb: employs
+subj
+analysis
+subj
+analysis
+compound
+PAS
+obj
+features
+obj
+features
+mod
+global
+cc conj
+and wide
+npadvmod punct
+sentence -
+3
+growth2 used
+verb: provides
+subj
+SciBORQ
+subj
+SciBORQ
+obj
+guarantees
+obj
+guarantees
+4
+
+verb: provides
+subj
+Crowdsourcing
+subj
+Crowdsourcing
+obj
+solving
+obj
+solving
+obj mod mod punct
+paradigm[3 new problem  - ]
+5
+
+verb: provides
+subj
+Section
+subj
+Section
+mod
+5
+obj
+comparison
+obj
+comparison
+mod
+detailed
+6
+
+verb: provides
+subj
+approach
+subj
+approach
+poss
+our
+
+obj
+advantages
+obj
+advantages
+mod prep
+more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+7.
+growth1 used
+verb: employs
+subj
+framework
+subj
+framework
+mod punct
+extensible ,
+obj
+matchers
+obj
+matchers
+mod
+ several based
+8.
+
+verb: improves
+subj
+retrieval
+subj
+retrieval
+mod
+structured
+obj
+ranking
+obj
+ranking
+compound
+answer
+9.
+
+verb: improves
+subj
+smoothing
+subj
+smoothing
+compound punct
+HMM -
+obj
+technique
+obj
+technique
+compound punct
+Learning  , .
+compound compound
+Structural Correspondence
+10.
+
+verb: improves
+subj
+model
+subj
+model
+mod
+bidirectional
+obj
+precision
+obj
+precision
+mod conj cc preconj
+relative recall and both
+prep
+to
+pobj
+technique
+det amod compound punct appos
+all heuristic combination , inc
+11.
+
+verb: improves
+subj
+al
+subj
+al
+mod compound punct
+2012  Son et  ( , )
+obj
+quality
+obj
+quality
+prep compound
+of translation
+pobj
+model
+compound
+translation
+amod
+gram
+dep
+-
+dep
+n
+12.
+growth1 used
+verb: uses
+subj
+system
+subj
+system
+mod compound
+distributed database
+compound
+memory
+amod punct
+main -
+obj
+strategy
+obj
+strategy
+mod compound
+deterministic execution
+13.
+no verb: enablesin sentence 13.
+14.
+
+verb: enables
+subj
+Modeling
+subj
+Modeling
+obj
+positions
+det prep
+the of
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+obj
+us
+obj
+us
+15.
+growth2 used
+verb: employs
+subj
+SemTag
+subj
+SemTag
+obj
+similarity
+obj
+similarity
+mod
+cosine
+16.
+
+verb: improves
+subj
+method
+subj
+method
+obj
+baseline
+obj
+baseline
+mod
+supervised
+17.
+
+verb: achieved
+subj
+we
+subj
+we
+obj
+accuracy
+obj
+accuracy
+mod
+best
+18.
+
+verb: adding
+obj
+rules
+obj
+rules
+mod
+minimal
+dep
+-
+dep
+non
+19.
+
+verb: improves
+subj
+Detroit
+subj
+Detroit
+appos compound punct
+2011 CBS  , )
+prep
+11
+punct nummod punct
+- 02 -
+1
+
+verb: support
+1
+
+verb: support
+subj
+SciBORQ
+subj
+SciBORQ
+obj
+constraints
+obj
+constraints
+compound
+error
+1
+no verb: providein sentence 1
+1
+growth2 used
+verb: provides
+subj
+SciBORQ
+subj
+SciBORQ
+obj
+guarantees
+obj
+guarantees
+prep
+on
+pobj
+margins
+det compound prep
+the error for
+pobj
+results
+1
+
+verb: provides
+subj
+She
+subj
+She
+obj
+cat
+obj
+cat
+1
+
+1
+
+verb: came
+subj
+children
+subj
+children
+1
+
+verb: rang
