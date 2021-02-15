@@ -45,7 +45,7 @@ class Tree:
 
     #Tree traversals
 
-    #traverses the tree
+    #traverses the tree in level order, write to file tf
     def levelTraversal(self, tf):
         frontier=[self.root]
         tf.write(self.root.dep)
@@ -64,7 +64,7 @@ class Tree:
                     next_level.append(child)
             frontier = next_level
 
-    #traverses the tree
+    #traverses the tree from obj node, write to file f
     def levelTraversal2(self, f):
         frontier = []
         for n in self.verb.children:
@@ -85,6 +85,8 @@ class Tree:
                 for child in n.children:
                     next_level.append(child)
             frontier = next_level
+         
+    #traverse the tree from subj node, write to file f
     def levelTraversal3(self, f):
         frontier = []
         for n in self.verb.children:
