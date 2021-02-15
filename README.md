@@ -13,3 +13,12 @@
 - a tree has: root, verb(word to do relation extraction)
 - travere funtions: There are 3 traverse functions that print out the tree to a file in the arguments
 - transformations rules: There are 13 rules, some are applied together
+
+# extractVerb
+this takes in a file called "sentences.txt" that has a list of sentences\
+outputs a file called "examples.txt" that follows the format:\
+**sentence number**\
+**sentence**\
+**verb to perform RE on**\
+**relation or some comment you might have space holder:[relation]**\
+
