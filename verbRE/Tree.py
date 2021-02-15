@@ -45,7 +45,7 @@ class Tree:
 
     #Tree traversals
 
-    #traverses the tree in level order, write to file tf
+    #traverses the tree
     def levelTraversal(self, tf):
         frontier=[self.root]
         tf.write(self.root.dep)
@@ -64,7 +64,7 @@ class Tree:
                     next_level.append(child)
             frontier = next_level
 
-    #traverses the tree from obj node, write to file f
+    #traverses the tree
     def levelTraversal2(self, f):
         frontier = []
         for n in self.verb.children:
@@ -85,8 +85,6 @@ class Tree:
                 for child in n.children:
                     next_level.append(child)
             frontier = next_level
-         
-    #traverse the tree from subj node, write to file f
     def levelTraversal3(self, f):
         frontier = []
         for n in self.verb.children:
@@ -204,17 +202,23 @@ class Tree:
                 hasSubjChild = True
                 break
 
+        returnVal = False
         if not hasObjChild:
             for child in verb.children:
                 if child.dep == "ccomp" or child.dep == "xcomp":
                     child.dep = "dobj"
+                    returnVal = True
                 if child.dep == "prep" and child.text == "in":
                     child.dep = "dobj"
+                    returnVal = True
 
         if not hasSubjChild:
             for child in verb.children:
                 if child.dep == "ccomp" or child.dep == "xcomp":
                     child.dep = "nsubj"
+                    returnVal = True
+
+        return returnVal
 
     #This needs some debugging
     # If no obj-like child edge exists, a subj-like child edge exists, and the head edge is of the subj-like type, move the head node as to be
@@ -250,6 +254,7 @@ class Tree:
     #this needs some debugging
     # For any two child with same incoming edge type, remove the duplicate edge.
     def reduction6(self, verb):
+        returnVal = False
         for child in verb.children:
             print(child.dep)
             edge_types[child.dep].append(child)
@@ -257,6 +262,7 @@ class Tree:
         verb.children = []
         for e in edge_types:
             if len(edge_types[e]) > 1:
+                returnVal = True
                 text = ""
                 for i in edge_types[e]:
                     text = text + i.text
@@ -267,18 +273,22 @@ class Tree:
                 verb.children.append(edge_types[e][0])
             edge_types[e] = []
 
+        return returnVal
 
     #Remove tags of type punct, mark, '', meta
     #TODO This is done is a format where the node is the removed and the parent take on the children of the removed node
     def reduction7(self, verb):
-        tags = ["punct", "mark", " ", "meta"]
+        returnVal = False
+        tags = ["punct", "mark", "", "meta"]
         for child in verb.children:
             if child.dep in tags:
+                returnVal = True
                 for c in child.children:
                     verb.children.append(c)
                     c.parent = verb
                 verb.children.remove(child)
                 del child
+        return returnVal
 
     #transform all obj-like relations into obj/
     # all subj-like relations into subj/
@@ -287,6 +297,7 @@ class Tree:
     #and all subj-like relations into one subj node.
     #this seems to include rule12
     def reduction8to9(self, verb):
+        returnVal = False
         obj_nodes = []
         subj_nodes = []
         text = ""
@@ -295,14 +306,16 @@ class Tree:
             if child.dep in objects:
                 obj_nodes.append(child)
                 child.dep = "obj"
-                #verb.children.remove(child)
+                returnVal = True
+
             elif child.dep in subjects:
                 subj_nodes.append(child)
                 child.dep = "subj"
-                #verb.children.remove(child)
+                returnVal = True
 
             #setting tags of mods to general one
             elif child.dep in mods:
+                returnVal = True
                 child.dep = "mod"
 
         #merging obj nodes to general one
@@ -328,16 +341,20 @@ class Tree:
                 text = text + " " + s.text
                 for c in s.children:
                     children.append(c)
-                verb.children.remove(o)
+                verb.children.remove(s)
                 del s
             new_node = Node(verb, "subj", text, "NONE")
             verb.children.append(new_node)
             for c in children:
                 new_node.children.append(c)
 
+        return returnVal
+
 
     #for any two child with same type of incoming edge remove the duplicate
     def subj_obj10(self, verb):
+        returnVal = False
+
         for n in verb.children:
             if n.dep == "obj" or n.dep == "subj":
                 for child in n.children:
@@ -346,6 +363,7 @@ class Tree:
                 n.children = []
                 for e in edge_types:
                     if len(edge_types[e]) > 1:
+                        returnVal = True
                         text = ""
                         for i in edge_types[e]:
                             text = text + " " + i.text
@@ -356,35 +374,48 @@ class Tree:
                         n.children.append(edge_types[e][0])
                     edge_types[e] = []
 
+        return returnVal
+
     #TODO finish this
     #remove tags of det and " "
     def subj_obj11(self, verb):
-        tags = ["det", " "]
+        returnVal = False
+        tags = ["det", ""]
         for n in verb.children:
             if n.dep == "obj" or n.dep == "subj":
                 for child in n.children:
-                    if child.dep in tags:
+                    #keep no to check for negation
+                    if (child.dep == "det" and not child.text=="no") or child.dep =="":
+                        returnVal = True
+                    #if child.dep in tags:
                         for c in child.children:
                             n.children.append(c)
                             c.parent = n
                         n.children.remove(child)
                         del child
+        return returnVal
 
 
     def subj_obj12(self, verb):
+        returnVal = False
         for n in verb.children:
             if n.dep == "obj" or n.dep == "subj":
                 for child in n.children:
                     if child.dep in objects:
                         child.dep = "obj"
+                        returnVal = True
                     elif child.dep in subjects:
                         child.deo = "subj"
+                        returnVal = True
                     #setting tags of mods to general one
                     elif child.dep in mods:
                         child.dep = "mod"
+                        returnVal = True
+        return returnVal
 
     #TODO check this
     def subj_obj13(self, verb):
+        returnVal = False
         tags=["relcl","acl","advcl"]
         tokens = ["by", "to", "for", "with", "whereby"]
         for n in verb.children:
@@ -394,3 +425,20 @@ class Tree:
                         n.children.remove(child)
                         verb.children.append(child)
                         child.parent = verb
+                        returnVal = True
+        return returnVal
+
+
+    def check_negation(self, verb):
+        #check negation for verb
+        if not verb.parent == None:
+            for child in verb.parent.children:
+                if child.dep == "neg":
+                    return True
+        #check negation for obj/ subj
+        for child in verb.children:
+            if child.dep == "obj" or child.dep == "subj":
+                for child_child in child.children:
+                    if child_child.text == "no":
+                        return True
+        return False

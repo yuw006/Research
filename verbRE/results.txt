@@ -1,0 +1,252 @@
+0
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: employs
+
+: subj:
+subj
+technique
+subj
+technique
+mod punct
+similar  , LightLDA ,
+
+: obj:
+obj
+mixing
+obj
+mixing
+nsubj
+Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+
+Negation: False
+1
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
+reduction7 used
+reduction8to9 used
+
+verb: based
+
+: subj:
+
+: obj:
+
+Negation: False
+2
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: employs
+
+: subj:
+subj
+analysis
+subj
+analysis
+compound
+PAS
+
+: obj:
+obj
+features
+obj
+features
+mod
+global
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+Negation: False
+3
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+
+verb: integrate
+
+: subj:
+
+: obj:
+
+Negation: False
+4
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+reduction6 used
+reduction7 used
+reduction8to9 used
+
+verb: support
+
+: subj:
+subj
+SciBORQ
+subj
+SciBORQ
+
+: obj:
+obj
+constraints
+obj
+constraints
+compound
+error
+
+Negation: False
+5
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+growth2 used
+reduction8to9 used
+
+verb: provides
+
+: subj:
+subj
+SciBORQ
+subj
+SciBORQ
+
+: obj:
+obj
+guarantees
+obj
+guarantees
+
+Negation: True
+0
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: employs
+
+: subj:
+subj
+technique
+subj
+technique
+mod punct
+similar  , LightLDA ,
+
+: obj:
+obj
+mixing
+obj
+mixing
+nsubj
+Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+
+Negation: False
+1
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
+reduction7 used
+reduction8to9 used
+
+verb: based
+
+: subj:
+
+: obj:
+
+Negation: False
+2
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: employs
+
+: subj:
+subj
+analysis
+subj
+analysis
+compound
+PAS
+
+: obj:
+obj
+features
+obj
+features
+mod
+global
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+Negation: False
+3
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+
+verb: integrate
+
+: subj:
+
+: obj:
+
+Negation: False
+4
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+reduction6 used
+reduction7 used
+reduction8to9 used
+
+verb: support
+
+: subj:
+subj
+SciBORQ
+subj
+SciBORQ
+
+: obj:
+obj
+constraints
+obj
+constraints
+compound
+error
+
+Negation: False
+5
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+growth2 used
+reduction8to9 used
+
+verb: provides
+
+: subj:
+subj
+SciBORQ
+subj
+SciBORQ
+
+: obj:
+obj
+guarantees
+obj
+guarantees
+
+Negation: True

@@ -1,0 +1,202 @@
+0
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.    verb: employs
+initial Tree:
+ROOT
+employs
+ROOT
+employs
+nsubj ccomp punct
+technique mixing .
+det amod punct punct punct nsubj
+A similar , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+
+
+transformed Tree:
+ROOT
+employs
+ROOT
+employs
+subj obj
+technique mixing
+mod punct nsubj
+similar  , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+
+1
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.    verb: based
+initial Tree:
+ROOT
+employs
+ROOT
+employs
+nsubj ccomp punct
+technique mixing .
+det amod punct punct punct nsubj
+A similar , LightLDA , Hastings
+amod compound
+based Metropolis
+npadvmod punct
+cycle -
+
+
+transformed Tree:
+ROOT
+employs
+ROOT
+employs
+nsubj ccomp punct
+technique mixing .
+det amod punct punct punct nsubj
+A similar , LightLDA , Hastings
+amod compound
+based Metropolis
+mod
+cycle
+
+2
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.    verb: employs
+initial Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp punct
+employs , it expensive .
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp punct
+employs , it expensive .
+subj obj mod advmod xcomp
+analysis features widely computationally integrate
+compound mod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+3
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.    verb: integrate
+initial Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp punct
+employs , it expensive .
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp punct
+employs , it expensive .
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+4
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.    verb: support
+initial Tree:
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provides .
+pobj compound aux neg dobj prep
+contrast error does not guarantees on
+prep pobj
+to margins
+pobj det compound prep
+BlinkDB the error for
+pobj
+results
+
+
+transformed Tree:
+ROOT
+support
+ROOT
+support
+subj obj neg conj cc prep aux
+SciBORQ constraints not provides and In does
+compound aux neg dobj prep pobj
+error does not guarantees on contrast
+pobj prep
+margins to
+det compound prep pobj
+the error for BlinkDB
+pobj
+results
+
+5
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.    verb: provides
+initial Tree:
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provides .
+pobj compound aux neg dobj prep
+contrast error does not guarantees on
+prep pobj
+to margins
+pobj det compound prep
+BlinkDB the error for
+pobj
+results
+
+
+transformed Tree:
+ROOT
+support
+ROOT
+support
+prep punct aux neg dobj punct cc conj punct
+In , does not constraints , and provides .
+pobj compound subj obj neg prep aux
+contrast error SciBORQ guarantees not on does
+prep pobj
+to margins
+pobj det compound prep
+BlinkDB the error for
+pobj
+results
+
