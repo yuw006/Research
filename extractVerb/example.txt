@@ -1,0 +1,24 @@
+0
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
+employs
+relation
+1
+A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
+based
+relation
+2
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+employs
+relation
+3
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+integrate
+relation
+4
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+support
+relation
+5
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+provides
+relation
