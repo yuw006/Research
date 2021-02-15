@@ -20,5 +20,5 @@ outputs a file called "examples.txt" that follows the format:\
 **sentence number**\
 **sentence**\
 **verb to perform RE on**\
-**relation or some comment you might have space holder:[relation]**\
+**relation or some comment you might have space holder:[relation]**
 
