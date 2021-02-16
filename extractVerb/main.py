@@ -1,5 +1,5 @@
 import spacy
-readfile = open("sentences.txt","r")
+readfile = open("sentences.txt", encoding="utf-8")
 writefile = open("examples.txt","a")
 nlp = spacy.load("en_core_web_lg")
 i = 0
