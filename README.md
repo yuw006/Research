@@ -5,7 +5,7 @@
  &nbsp;&nbsp;*examples.txt produced from extractVerb*\
  &nbsp;&nbsp;*typed sentence and verb*
  - applies rules
- - the output functions
+ - the output functions\
  &nbsp;&nbsp;*results.txt the sentence, verb, subj, obj, negation*
  
  <details>
@@ -40,7 +40,7 @@ Negation: True
 </details>
  
  &nbsp;&nbsp;*stats.txt the rules and which sentences used the rules*\
- &nbsp;&nbsp;*trees.txt parse tree pre/post transformed*\ 
+ &nbsp;&nbsp;*trees.txt parse tree pre/post transformed* 
  
  <details>
  <summary>example</summary>
