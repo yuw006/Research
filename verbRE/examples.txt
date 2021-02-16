@@ -1,24 +1,780 @@
 0
+Trump withdrew his sponsorship after the second Tour de Trump in 1990 because his business ventures were experiencing financial woes.
+withdrew
+relation
+1
+Trump withdrew his sponsorship after the second Tour de Trump in 1990 because his business ventures were experiencing financial woes.
+experiencing
+relation
+2
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+will
+relation
+3
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+announce
+relation
+4
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+refunding
+relation
+5
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+will
+relation
+6
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+delayed
+relation
+7
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+fail
+relation
+8
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+increase
+relation
+9
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+nominated
+relation
+10
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+replace
+relation
+11
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+confirmed
+relation
+12
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+becoming
+relation
+13
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.
+may
+relation
+14
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.
+penetrate
+relation
+15
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.
+can
+relation
+16
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.
+pressed
+relation
+17
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.
+extract
+relation
+18
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.
+wins
+relation
+19
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.
+will
+relation
+20
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.
+elected
+relation
+21
+The pilot announced that there had to be made a special technical check of the aeroplane.
+announced
+relation
+22
+The pilot announced that there had to be made a special technical check of the aeroplane.
+made
+relation
+23
+Obama criticized leaders who refuse to step off.
+criticized
+relation
+24
+Obama criticized leaders who refuse to step off.
+refuse
+relation
+25
+Obama criticized leaders who refuse to step off.
+step
+relation
+26
+Obama brought attention to the New York City Subway System , which was in a bad condition at the time.
+brought
+relation
+27
+He returned to Kenya for a visit to his father's birthplace, a village near Kisumu in rural western Kenya.
+returned
+relation
+28
+Obama has talked about using alcohol, marijuana, and cocaine.
+talked
+relation
+29
+Obama has talked about using alcohol, marijuana, and cocaine.
+using
+relation
+30
+Opening the drawer, he took out a revolver.
+Opening
+relation
+31
+Opening the drawer, he took out a revolver.
+took
+relation
+32
+Fearing that the police would recognize him, he never went out in daylight.
+Fearing
+relation
+33
+Fearing that the police would recognize him, he never went out in daylight.
+would
+relation
+34
+Fearing that the police would recognize him, he never went out in daylight.
+recognize
+relation
+35
+Fearing that the police would recognize him, he never went out in daylight.
+went
+relation
+36
+Obama's election as the first black president of the Harvard Law Review gained national media attention.
+gained
+relation
+37
+Obama formally announced his candidacy in January 2003.
+announced
+relation
+38
+Obama delivered the keynote address at the 2004 Democratic National Convention.
+delivered
+relation
+39
+Google announced the setting up of its largest campus outside the United States.
+announced
+relation
+40
+Obama commissioned a poll to assess his prospects in a 2004 U.S. Senate race.
+commissioned
+relation
+41
+Obama commissioned a poll to assess his prospects in a 2004 U.S. Senate race.
+assess
+relation
+42
+Obama served on the boards of directors of the Woods Fund of Chicago.
+served
+relation
+43
+His mother spent most of the next two decades in Indonesia.
+spent
+relation
+44
+His remarks were made to a group of Marines preparing for deployment to Afghanistan.
+made
+relation
+45
+His remarks were made to a group of Marines preparing for deployment to Afghanistan.
+preparing
+relation
+46
+Obama would become the first President to have been born in Hawaii.
+would
+relation
+47
+Obama would become the first President to have been born in Hawaii.
+become
+relation
+48
+Obama would become the first President to have been born in Hawaii.
+born
+relation
+49
+This took place in July 2011.
+took
+relation
+50
+Radio France is headquartered in Paris' 16th arrondissement.
+headquartered
+relation
+51
+Obama won with 70 percent of the vote.
+won
+relation
+52
+Obama’s parents divorced in March 1964.
+divorced
+relation
+53
+Obama and Joe Biden were formally nominated by former President Bill Clinton.
+nominated
+relation
+54
+It is the subdivision responsible for providing emergency services.
+providing
+relation
+55
+The council plays a largely passive role in the city government.
+plays
+relation
+56
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.
+suggested
+relation
+57
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.
+discovered
+relation
+58
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.
+may
+relation
+59
+He helped set up a job training program, a college preparatory tutoring program, and a tenants’ rights organization in Altgeld Gardens.
+helped
+relation
+60
+He helped set up a job training program, a college preparatory tutoring program, and a tenants’ rights organization in Altgeld Gardens.
+set
+relation
+61
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+fell
+relation
+62
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+rose
+relation
+63
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+simmered
+relation
+64
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+said
+relation
+65
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+becoming
+relation
+0
+Bergsma et al (2013) show that large-scale clustering of user names improves gender, ethnicity and location classification on Twitter.
+show
+relation
+1
+Bergsma et al (2013) show that large-scale clustering of user names improves gender, ethnicity and location classification on Twitter.
+improves
+relation
+2
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.
+improves
+relation
+3
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.
+combining
+relation
+4
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.
+combined
+relation
+5
+By partitioning the velocity space, the Bdual -tree improves the query performance of the B x -tree.
+partitioning
+relation
+6
+By partitioning the velocity space, the Bdual -tree improves the query performance of the B x -tree.
+improves
+relation
+7
+Japan’s Toshiba Corp said it had nominated Satoshi Tsunakawa, a former head of its medical equipment division, to be its next chief executive officer.
+said
+relation
+8
+Japan’s Toshiba Corp said it had nominated Satoshi Tsunakawa, a former head of its medical equipment division, to be its next chief executive officer.
+nominated
+relation
+9
+We stress that our method improves a supervised baseline.
+stress
+relation
+10
+We stress that our method improves a supervised baseline.
+improves
+relation
+11
+We stress that our method improves a supervised baseline.
+supervised
+relation
+12
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+demonstrate
+relation
+13
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+adding
+relation
+14
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+counts
+relation
+15
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+improves
+relation
+16
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+showed
+relation
+17
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+improves
+relation
+18
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+parsing
+relation
+19
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+achieved
+relation
+20
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+based
+relation
+21
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.
+revealed
+relation
+22
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.
+adding
+relation
+23
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.
+improves
+relation
+24
+(CBS Detroit, 2011-02-11) improves substantially over prior approaches.
+improves
+relation
+25
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+showed
+relation
+26
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+improves
+relation
+27
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+ranking
+relation
+28
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+expected
+relation
+29
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+improves
+relation
+30
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+answer
+relation
+31
+HMM-smoothing improves on the most closely related work, the Structural Correspondence Learning technique.
+improves
+relation
+32
+The bidirectional model improves both precision and recall relative to all heuristic combination techniques, inc.
+improves
+relation
+33
+The bidirectional model improves both precision and recall relative to all heuristic combination techniques, inc.
+recall
+relation
+34
+(Son et al, 2012) improves translation quality of n-gram translation model by using a bilingual neural language.
+improves
+relation
+35
+(Son et al, 2012) improves translation quality of n-gram translation model by using a bilingual neural language.
+using
+relation
+36
+MACK uses articulated graphical embodiment with ability to gesture.
+uses
+relation
+37
+MACK uses articulated graphical embodiment with ability to gesture.
+articulated
+relation
+38
+Our work not only improves the CPU efficiency by three orders of magnitude, but also reduces the memory consumption.
+improves
+relation
+39
+Our work not only improves the CPU efficiency by three orders of magnitude, but also reduces the memory consumption.
+reduces
+relation
+40
+Calvin [21] is a distributed main-memory database system that uses a deterministic execution strategy.
+distributed
+relation
+41
+Calvin [21] is a distributed main-memory database system that uses a deterministic execution strategy.
+uses
+relation
+42
+It uses the exponential mechanism to recursively bisect each interval into subintervals.
+uses
+relation
+43
+It uses the exponential mechanism to recursively bisect each interval into subintervals.
+bisect
+relation
+44
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+provides
+relation
+45
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+solving
+relation
+46
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+blended
+relation
+47
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+including
+relation
+48
+Section 5 provides a detailed comparison with our algorithm.
+provides
+relation
+49
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.
+provides
+relation
+50
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.
+set
+relation
+51
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.
+highlighted
+relation
+52
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.
+support
+relation
+53
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.
+provide
+relation
+54
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+uses
+relation
+55
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+employs
+relation
+56
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+compute
+relation
+57
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+achieving
+relation
+58
+LSD is an extensible framework, which employs several schema-based matchers.
+employs
+relation
+59
+LSD is an extensible framework, which employs several schema-based matchers.
+based
+relation
+60
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate
+employs
+relation
+61
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate
+integrate
+relation
+62
 A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
 employs
 relation
-1
+63
 A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
 based
 relation
+64
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
+Modeling
+relation
+65
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
+moving
+relation
+66
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
+enables
+relation
+67
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
+make
+relation
+68
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+Doing
+relation
+69
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+enables
+relation
+70
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+answer
+relation
+71
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+can
+relation
+72
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+deal
+relation
+0
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.
+waiting
+relation
+1
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.
+bringing
+relation
 2
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
-employs
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.
+calls
 relation
 3
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
-integrate
+It has been an odd omission in the Cloud Gaming narrative so far but that should be changing in the near future.
+should
 relation
 4
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
-support
+It has been an odd omission in the Cloud Gaming narrative so far but that should be changing in the near future.
+changing
 relation
 5
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
-provides
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+announced
+relation
+6
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+would
+relation
+7
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+added
+relation
+8
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+starting
+relation
+9
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+see
+relation
+10
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+meeting
+relation
+11
+During the past couple of weeks, Microsoft has rolled out ‘Cloud Gaming’, via the browser, to a large group of users inside of Microsoft.
+rolled
+relation
+12
+To date, this is the largest group of cloud gaming beta testers for the PC iteration of the service and this is one of the last steps before it is offered publicly in a preview state.
+offered
+relation
+13
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+testing
+relation
+14
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+report
+relation
+15
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+’s
+relation
+16
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+expected
+relation
+17
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+works
+relation
+18
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+will
+relation
+19
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+need
+relation
+20
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+change
+relation
+21
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+browsing
+relation
+22
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+want
+relation
+23
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+use
+relation
+24
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+stand
+relation
+25
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+going
+relation
+26
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+exist
+relation
+27
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+makes
+relation
+28
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+leaked
+relation
+29
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+allowed
+relation
+30
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+play
+relation
+31
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+may
+relation
+32
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+going
+relation
+33
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+could
+relation
+34
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+choose
+relation
+35
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+offer
+relation
+36
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+could
+relation
+37
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+moving
+relation
+38
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+should
+relation
+39
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+allow
+relation
+40
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+meet
+relation
+41
+That being said, the iOS iteration of the service does not appear to be as far along in the testing phases as the PC but that solution is a bit more complicated thanks to Apple’s store policies.
+said
+relation
+42
+That being said, the iOS iteration of the service does not appear to be as far along in the testing phases as the PC but that solution is a bit more complicated thanks to Apple’s store policies.
+appear
+relation
+43
+xCloud initially launched on Android and those users can stream games today.
+launched
+relation
+44
+xCloud initially launched on Android and those users can stream games today.
+can
+relation
+45
+xCloud initially launched on Android and those users can stream games today.
+stream
+relation
+46
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+enabling
+relation
+47
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+stream
+relation
+48
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+will
+relation
+49
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+open
+relation
+0
+No cat would eat Tastey Bites.
+eat
+relation
+1
+Sasha never tries to do well in Calculus.
+tries
+relation
+2
+The computer uses no Intel chips.
+uses
+relation
+3
+Never had a person play checkers so well.
+play
+relation
+4
+Lily tries to not bother her teacher.
+tries
+relation
+5
+Lily tries to not bother her teacher.
+bother
 relation

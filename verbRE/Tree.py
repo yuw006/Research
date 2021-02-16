@@ -385,7 +385,7 @@ class Tree:
             if n.dep == "obj" or n.dep == "subj":
                 for child in n.children:
                     #keep no to check for negation
-                    if (child.dep == "det" and not child.text=="no") or child.dep =="":
+                    if (child.dep == "det" and not (child.text=="no" or child.text=="No")) or child.dep =="":
                         returnVal = True
                     #if child.dep in tags:
                         for c in child.children:
@@ -431,14 +431,51 @@ class Tree:
 
     def check_negation(self, verb):
         #check negation for verb
-        if not verb.parent == None:
-            for child in verb.parent.children:
-                if child.dep == "neg":
-                    return True
+        #if not verb.parent == None:
+        #    for child in verb.parent.children:
+        #        if child.dep == "neg":
+        #            return True
+        for child in verb.children:
+            if child.dep == "neg":
+                return True
         #check negation for obj/ subj
         for child in verb.children:
             if child.dep == "obj" or child.dep == "subj":
                 for child_child in child.children:
-                    if child_child.text == "no":
+                    if child_child.text == "no" or child_child.text=="No":
                         return True
         return False
+
+
+    # growth2 recursed version, not used
+    def growth2_2(self, verb):
+        # If the current node is part of a conj relation through its head edge,
+        if verb.dep == "conj":
+
+            # and no subj-like child node exists
+            hasSubjChild = False
+            for i, child in enumerate(verb.children):
+                if (child.dep in subjects):
+                    hasSubjChild = True
+
+            # search for a subj-like child node in the parent (a sibling node)
+            if not hasSubjChild:
+                node, subj = self.growth2_recurse(self, verb.parent)
+                if not node == None:
+                    node.children.remove(subj)
+                    subj.parent = verb
+                    verb.children.append(subj)
+                    # checking
+                    return True
+        return False
+
+    def growth2_recurse(self, node):
+        if node == None:
+            return None, None
+        hasSubjChild = False
+        for i, child in enumerate(node.children):
+            if (child.dep in subjects):
+                hasSubjChild = True
+                return node, child
+        if not hasSubjChild:
+            return self.growth2_recurse(node.parent)

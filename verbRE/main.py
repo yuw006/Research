@@ -3,7 +3,7 @@ from Tree import Tree, Node
 nlp = spacy.load("en_core_web_lg")
 
 #number of sentences
-i = 19
+i = 1
 
 #files
 readfile = open("examples.txt","r")
@@ -12,10 +12,14 @@ readfile = open("examples.txt","r")
 # sentence
 # verb
 # relation/ comment
-
+statfile = open("stats.txt","a")
 treefile = open("trees.txt","a")
 resultfile = open("results.txt","a")
-
+rules = {
+    "growth1":[],"growth2":[],"growth3to4":[],"growth5":[],\
+    "reduction6":[],"reduction7":[],"reduction8to9":[],\
+    "subj_obj10":[],"subj_obj11":[],"subj_obj12":[],"subj_obj13":[]
+}
 while i > 0:
     sentence_num = readfile.readline()
 
@@ -23,14 +27,14 @@ while i > 0:
         break
 
     # for reading from file
-    sentence = readfile.readline().strip("\n")
-    doc = nlp( sentence )
-    verb = readfile.readline().strip("\n")
+    #sentence = readfile.readline().strip("\n")
+    #doc = nlp( sentence )
+    #verb = readfile.readline().strip("\n")
 
     #individual tests
-    #sentence = "After the bell rang, the children came home from school."
-    #doc = nlp(sentence)
-    #verb = "rang"
+    sentence = "Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies."
+    doc = nlp(sentence)
+    verb = "is"
 
     tree = None
     root = None
@@ -56,7 +60,7 @@ while i > 0:
 
     #occasionally the tree isn't completely built so this catches it
     if( tree.verb == None):
-        resultfile.write("no verb: " + verb + "in sentence " + sentence_num)
+        resultfile.write("no verb: " + verb + " in sentence " + sentence_num)
 
 
     else:
@@ -64,39 +68,49 @@ while i > 0:
         #rules
         if tree.growth1(tree.verb):
             resultfile.write("growth1 used\n")
-
+            rules["growth1"].append(sentence_num)
         # this says to recurse but I haven't had a situation where I needed that
         # so I have that on file but it is not tested
         if tree.growth2(tree.verb):
             resultfile.write("growth2 used\n")
+            rules["growth2"].append(sentence_num)
 
         if tree.growth3to4(tree.verb):
             resultfile.write("growth3to4 used\n")
+            rules["growth3to4"].append(sentence_num)
 
         #this doesn't seem to be used so I don't know if this is right
         if tree.growth5(tree.verb):
             resultfile.write("growth5 used\n")
+            rules["growth5"].append(sentence_num)
 
         if tree.reduction6(tree.verb):
             resultfile.write("reduction6 used\n")
+            rules["reduction6"].append(sentence_num)
 
         if tree.reduction7(tree.verb):
             resultfile.write("reduction7 used\n")
+            rules["reduction7"].append(sentence_num)
 
         if tree.reduction8to9(tree.verb):
             resultfile.write("reduction8to9 used\n")
+            rules["reduction8to9"].append(sentence_num)
 
         if tree.subj_obj10(tree.verb):
             resultfile.write("subj_obj10 used\n")
+            rules["subj_obj10"].append(sentence_num)
 
         if tree.subj_obj11(tree.verb):
             resultfile.write("subj_obj11 used\n")
+            rules["subj_obj11"].append(sentence_num)
 
         if tree.subj_obj12(tree.verb):
             resultfile.write("subj_obj12 used\n")
+            rules["subj_obj12"].append(sentence_num)
 
         if tree.subj_obj13(tree.verb):
             resultfile.write("subj_obj13 used\n")
+            rules["subj_obj13"].append(sentence_num)
 
         #check for negation
         negation = tree.check_negation(tree.verb)
@@ -125,3 +139,10 @@ while i > 0:
 readfile.close()
 resultfile.close()
 treefile.close()
+
+for key in rules:
+    statfile.write(key + "\n")
+    for i in rules[key]:
+        statfile.write(i + "\n")
+
+statfile.close()

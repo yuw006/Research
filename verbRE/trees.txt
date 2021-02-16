@@ -1,4 +1,4598 @@
 0
+Trump withdrew his sponsorship after the second Tour de Trump in 1990 because his business ventures were experiencing financial woes.    verb: withdrew
+initial Tree:
+ROOT
+withdrew
+ROOT
+withdrew
+nsubj dobj prep prep advcl punct
+Trump sponsorship after in experiencing .
+poss pobj pobj mark nsubj aux dobj
+his Trump 1990 because ventures were woes
+det amod nmod compound poss compound amod
+the second Tour de his business financial
+
+
+transformed Tree:
+ROOT
+withdrew
+ROOT
+withdrew
+subj obj advcl prep
+Trump sponsorship experiencing afterin
+poss mark nsubj aux dobj
+his because ventures were woes
+poss compound amod
+his business financial
+
+1
+Trump withdrew his sponsorship after the second Tour de Trump in 1990 because his business ventures were experiencing financial woes.    verb: experiencing
+initial Tree:
+ROOT
+withdrew
+ROOT
+withdrew
+nsubj dobj prep prep advcl punct
+Trump sponsorship after in experiencing .
+poss pobj pobj mark nsubj aux dobj
+his Trump 1990 because ventures were woes
+det amod nmod compound poss compound amod
+the second Tour de his business financial
+
+
+transformed Tree:
+ROOT
+withdrew
+ROOT
+withdrew
+nsubj dobj prep prep advcl punct
+Trump sponsorship after in experiencing .
+poss pobj pobj subj obj aux
+his Trump 1990 ventures woes were
+det amod nmod compound poss compound mod
+the second Tour de his business financial
+
+2
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.    verb: will
+initial Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+
+transformed Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+3
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.    verb: announce
+initial Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+
+transformed Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+subj obj prep aux det mark nsubj xcomp
+Treasury details on will the if Congress increase
+prep pobj cc conj aux dobj
+of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+4
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.    verb: refunding
+initial Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+
+transformed Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+5
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.    verb: will
+initial Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+
+transformed Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+6
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.    verb: delayed
+initial Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+
+transformed Tree:
+ROOT
+delayed
+ROOT
+delayed
+subj advcl aux auxpass
+funding announcefail will be
+
+7
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.    verb: fail
+initial Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+
+transformed Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det subj obj
+Although Treasury will details on the Congress increase
+det prep pobj conj cc obj aux
+the of Monday Bush and capacity to
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+8
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.    verb: increase
+initial Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj aux dobj
+the of Monday and Bush to capacity
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+
+transformed Tree:
+ROOT
+delayed
+ROOT
+delayed
+advcl punct nsubjpass aux auxpass advcl punct
+announce , funding will be fail .
+mark nsubj aux dobj prep det mark nsubj xcomp
+Although Treasury will details on the if Congress increase
+det prep pobj cc conj obj aux
+the of Monday and Bush capacity to
+pobj compound poss compound
+refunding President Treasury borrowing
+det compound det case
+the November the 's
+
+9
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.    verb: nominated
+initial Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+ccomp punct nsubjpass auxpass prep punct advcl punct
+nominated ; she was on , becoming .
+nsubj dobj prep advcl pobj attr
+He Sotomayor on replace August Justice
+compound pobj aux dobj nummod punct nummod det amod compound prep
+Sonia May to Souter 6 , 2009 the first Court of
+nummod punct nummod compound compound pobj
+26 , 2009 David Supreme descent
+amod
+Hispanic
+
+
+transformed Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+ccomp punct nsubjpass auxpass prep punct advcl punct
+nominated ; she was on , becoming .
+subj obj advcl prep pobj attr
+He Sotomayor replace on August Justice
+compound aux dobj pobj nummod punct nummod det amod compound prep
+Sonia to Souter May 6 , 2009 the first Court of
+compound nummod punct nummod compound pobj
+David 26 , 2009 Supreme descent
+amod
+Hispanic
+
+10
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.    verb: replace
+initial Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+ccomp punct nsubjpass auxpass prep punct advcl punct
+nominated ; she was on , becoming .
+nsubj dobj prep advcl pobj attr
+He Sotomayor on replace August Justice
+compound pobj aux dobj nummod punct nummod det amod compound prep
+Sonia May to Souter 6 , 2009 the first Court of
+nummod punct nummod compound compound pobj
+26 , 2009 David Supreme descent
+amod
+Hispanic
+
+
+transformed Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+ccomp punct nsubjpass auxpass prep punct advcl punct
+nominated ; she was on , becoming .
+nsubj dobj prep advcl pobj attr
+He Sotomayor on replace August Justice
+compound pobj obj aux nummod punct nummod det amod compound prep
+Sonia May Souter to 6 , 2009 the first Court of
+nummod punct nummod compound compound pobj
+26 , 2009 David Supreme descent
+amod
+Hispanic
+
+11
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.    verb: confirmed
+initial Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+ccomp punct nsubjpass auxpass prep punct advcl punct
+nominated ; she was on , becoming .
+nsubj dobj prep advcl pobj attr
+He Sotomayor on replace August Justice
+compound pobj aux dobj nummod punct nummod det amod compound prep
+Sonia May to Souter 6 , 2009 the first Court of
+nummod punct nummod compound compound pobj
+26 , 2009 David Supreme descent
+amod
+Hispanic
+
+
+transformed Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+subj obj advcl prep auxpass advcl
+she nominated becoming on was replace
+nsubj obj prep attr pobj aux dobj
+He Sotomayor on Justice August to Souter
+compound pobj det amod compound prep nummod punct nummod compound
+Sonia May the first Court of 6 , 2009 David
+nummod punct nummod compound pobj
+26 , 2009 Supreme descent
+amod
+Hispanic
+
+12
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.    verb: becoming
+initial Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+ccomp punct nsubjpass auxpass prep punct advcl punct
+nominated ; she was on , becoming .
+nsubj dobj prep advcl pobj attr
+He Sotomayor on replace August Justice
+compound pobj aux dobj nummod punct nummod det amod compound prep
+Sonia May to Souter 6 , 2009 the first Court of
+nummod punct nummod compound compound pobj
+26 , 2009 David Supreme descent
+amod
+Hispanic
+
+
+transformed Tree:
+ROOT
+confirmed
+ROOT
+confirmed
+ccomp punct nsubjpass auxpass prep punct advcl punct
+nominated ; she was on , becoming .
+nsubj dobj prep advcl pobj obj
+He Sotomayor on replace August Justice
+compound pobj aux dobj nummod punct nummod mod prep compound
+Sonia May to Souter 6 , 2009 first of Court
+nummod punct nummod compound pobj compound
+26 , 2009 David descent Supreme
+amod
+Hispanic
+
+13
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.    verb: may
+initial Tree:
+ROOT
+be
+ROOT
+be
+nsubj aux attr punct cc conj
+Japan may market , and is
+det amod advcl nsubj advmod prep prep punct
+a tough penetrate U.S. hopelessly behind in .
+mark nsubj aux det pobj pobj
+for outsiders to the Japan technologies
+amod
+certain
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+nsubj aux attr punct cc conj
+Japan may market , and is
+det amod advcl nsubj advmod prep prep punct
+a tough penetrate U.S. hopelessly behind in .
+mark nsubj aux det pobj pobj
+for outsiders to the Japan technologies
+amod
+certain
+
+14
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.    verb: penetrate
+initial Tree:
+ROOT
+be
+ROOT
+be
+nsubj aux attr punct cc conj
+Japan may market , and is
+det amod advcl nsubj advmod prep prep punct
+a tough penetrate U.S. hopelessly behind in .
+mark nsubj aux det pobj pobj
+for outsiders to the Japan technologies
+amod
+certain
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+nsubj aux attr punct cc conj
+Japan may market , and is
+det amod advcl nsubj advmod prep prep punct
+a tough penetrate U.S. hopelessly behind in .
+subj aux det pobj pobj
+outsiders to the Japan technologies
+amod
+certain
+
+15
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.    verb: can
+initial Tree:
+ROOT
+pressed
+ROOT
+pressed
+nsubjpass aux auxpass xcomp punct
+seeds can be extract .
+det prep aux dobj
+The of to oil
+pobj compound
+sativus seed
+punct compound punct compound
+" Raphanus " radish
+
+
+transformed Tree:
+ROOT
+pressed
+ROOT
+pressed
+nsubjpass aux auxpass xcomp punct
+seeds can be extract .
+det prep aux dobj
+The of to oil
+pobj compound
+sativus seed
+punct compound punct compound
+" Raphanus " radish
+
+16
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.    verb: pressed
+initial Tree:
+ROOT
+pressed
+ROOT
+pressed
+nsubjpass aux auxpass xcomp punct
+seeds can be extract .
+det prep aux dobj
+The of to oil
+pobj compound
+sativus seed
+punct compound punct compound
+" Raphanus " radish
+
+
+transformed Tree:
+ROOT
+pressed
+ROOT
+pressed
+subj obj aux auxpass
+seeds extract can be
+prep obj aux
+of oil to
+pobj compound
+sativus seed
+punct compound punct compound
+" Raphanus " radish
+
+17
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.    verb: extract
+initial Tree:
+ROOT
+pressed
+ROOT
+pressed
+nsubjpass aux auxpass xcomp punct
+seeds can be extract .
+det prep aux dobj
+The of to oil
+pobj compound
+sativus seed
+punct compound punct compound
+" Raphanus " radish
+
+
+transformed Tree:
+ROOT
+pressed
+ROOT
+pressed
+nsubjpass aux auxpass xcomp punct
+seeds can be extract .
+det prep obj aux
+The of oil to
+pobj compound
+sativus seed
+punct compound punct compound
+" Raphanus " radish
+
+18
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.    verb: wins
+initial Tree:
+ROOT
+elected
+ROOT
+elected
+advcl punct nsubjpass aux auxpass oprd prep punct
+wins , Romney will be President in .
+mark nsubj dobj compound compound pobj
+If he states candidate Mitt 2008
+nummod amod amod
+five key Republican
+
+
+transformed Tree:
+ROOT
+elected
+ROOT
+elected
+advcl punct nsubjpass aux auxpass oprd prep punct
+wins , Romney will be President in .
+subj obj compound compound pobj
+he states candidate Mitt 2008
+mod mod amod
+five key Republican
+
+19
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.    verb: will
+initial Tree:
+ROOT
+elected
+ROOT
+elected
+advcl punct nsubjpass aux auxpass oprd prep punct
+wins , Romney will be President in .
+mark nsubj dobj compound compound pobj
+If he states candidate Mitt 2008
+nummod amod amod
+five key Republican
+
+
+transformed Tree:
+ROOT
+elected
+ROOT
+elected
+advcl punct nsubjpass aux auxpass oprd prep punct
+wins , Romney will be President in .
+mark nsubj dobj compound compound pobj
+If he states candidate Mitt 2008
+nummod amod amod
+five key Republican
+
+20
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.    verb: elected
+initial Tree:
+ROOT
+elected
+ROOT
+elected
+advcl punct nsubjpass aux auxpass oprd prep punct
+wins , Romney will be President in .
+mark nsubj dobj compound compound pobj
+If he states candidate Mitt 2008
+nummod amod amod
+five key Republican
+
+
+transformed Tree:
+ROOT
+elected
+ROOT
+elected
+subj obj advcl prep aux auxpass
+Romney President wins in will be
+compound mark nsubj dobj pobj
+ candidate Mitt If he states 2008
+nummod amod
+five key
+
+21
+The pilot announced that there had to be made a special technical check of the aeroplane.    verb: announced
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+nsubj ccomp punct
+pilot had .
+det mark expl xcomp
+The that there made
+aux auxpass oprd
+to be check
+det amod amod prep
+a special technical of
+pobj
+aeroplane
+det
+the
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+subj obj
+pilot had
+expl xcomp mark
+there made that
+aux auxpass oprd
+to be check
+det amod amod prep
+a special technical of
+pobj
+aeroplane
+det
+the
+
+22
+The pilot announced that there had to be made a special technical check of the aeroplane.    verb: made
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+nsubj ccomp punct
+pilot had .
+det mark expl xcomp
+The that there made
+aux auxpass oprd
+to be check
+det amod amod prep
+a special technical of
+pobj
+aeroplane
+det
+the
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+nsubj ccomp punct
+pilot had .
+det mark expl xcomp
+The that there made
+obj aux auxpass
+check to be
+mod prep
+ special technical of
+pobj
+aeroplane
+det
+the
+
+23
+Obama criticized leaders who refuse to step off.    verb: criticized
+initial Tree:
+ROOT
+criticized
+ROOT
+criticized
+nsubj dobj punct
+Obama leaders .
+relcl
+refuse
+nsubj xcomp
+who step
+aux prt
+to off
+
+
+transformed Tree:
+ROOT
+criticized
+ROOT
+criticized
+subj obj relcl
+Obama leaders refuse
+nsubj xcomp
+who step
+aux prt
+to off
+
+24
+Obama criticized leaders who refuse to step off.    verb: refuse
+initial Tree:
+ROOT
+criticized
+ROOT
+criticized
+nsubj dobj punct
+Obama leaders .
+relcl
+refuse
+nsubj xcomp
+who step
+aux prt
+to off
+
+
+transformed Tree:
+ROOT
+criticized
+ROOT
+criticized
+nsubj dobj punct
+Obama leaders .
+relcl
+refuse
+subj obj
+who step
+aux prt
+to off
+
+25
+Obama criticized leaders who refuse to step off.    verb: step
+initial Tree:
+ROOT
+criticized
+ROOT
+criticized
+nsubj dobj punct
+Obama leaders .
+relcl
+refuse
+nsubj xcomp
+who step
+aux prt
+to off
+
+
+transformed Tree:
+ROOT
+criticized
+ROOT
+criticized
+nsubj dobj punct
+Obama leaders .
+relcl
+refuse
+nsubj xcomp
+who step
+aux prt
+to off
+
+26
+Obama brought attention to the New York City Subway System , which was in a bad condition at the time.    verb: brought
+initial Tree:
+ROOT
+brought
+ROOT
+brought
+nsubj dobj prep punct
+Obama attention to .
+pobj
+System
+det compound compound punct relcl
+the City Subway , was
+compound nsubj prep prep
+York which in at
+compound pobj pobj
+New condition time
+det amod det
+a bad the
+
+
+transformed Tree:
+ROOT
+brought
+ROOT
+brought
+subj obj prep
+Obama attention to
+pobj
+System
+det compound compound punct relcl
+the City Subway , was
+compound nsubj prep prep
+York which in at
+compound pobj pobj
+New condition time
+det amod det
+a bad the
+
+27
+He returned to Kenya for a visit to his father's birthplace, a village near Kisumu in rural western Kenya.    verb: returned
+initial Tree:
+ROOT
+returned
+ROOT
+returned
+nsubj prep prep punct
+He to for .
+pobj pobj
+Kenya visit
+det prep
+a to
+pobj
+birthplace
+poss punct appos
+father , village
+poss case det prep prep
+his 's a near in
+pobj pobj
+Kisumu Kenya
+amod amod
+rural western
+
+
+transformed Tree:
+ROOT
+returned
+ROOT
+returned
+subj prep
+He tofor
+
+28
+Obama has talked about using alcohol, marijuana, and cocaine.    verb: talked
+initial Tree:
+ROOT
+talked
+ROOT
+talked
+nsubj aux prep punct
+Obama has about .
+pcomp
+using
+dobj
+alcohol
+punct conj
+, marijuana
+punct cc conj
+, and cocaine
+
+
+transformed Tree:
+ROOT
+talked
+ROOT
+talked
+subj prep aux
+Obama about has
+pcomp
+using
+dobj
+alcohol
+punct conj
+, marijuana
+punct cc conj
+, and cocaine
+
+29
+Obama has talked about using alcohol, marijuana, and cocaine.    verb: using
+initial Tree:
+ROOT
+talked
+ROOT
+talked
+nsubj aux prep punct
+Obama has about .
+pcomp
+using
+dobj
+alcohol
+punct conj
+, marijuana
+punct cc conj
+, and cocaine
+
+
+transformed Tree:
+ROOT
+talked
+ROOT
+talked
+nsubj aux prep punct
+Obama has about .
+pcomp
+using
+obj
+alcohol
+conj punct
+marijuana ,
+punct cc conj
+, and cocaine
+
+30
+Opening the drawer, he took out a revolver.    verb: Opening
+initial Tree:
+ROOT
+took
+ROOT
+took
+advcl punct nsubj prt dobj punct
+Opening , he out revolver .
+dobj det
+drawer a
+det
+the
+
+
+transformed Tree:
+ROOT
+took
+ROOT
+took
+advcl punct nsubj prt dobj punct
+Opening , he out revolver .
+obj det
+drawer a
+
+31
+Opening the drawer, he took out a revolver.    verb: took
+initial Tree:
+ROOT
+took
+ROOT
+took
+advcl punct nsubj prt dobj punct
+Opening , he out revolver .
+dobj det
+drawer a
+det
+the
+
+
+transformed Tree:
+ROOT
+took
+ROOT
+took
+subj obj advcl prt
+he revolver Opening out
+dobj
+drawer
+det
+the
+
+32
+Fearing that the police would recognize him, he never went out in daylight.    verb: Fearing
+initial Tree:
+ROOT
+went
+ROOT
+went
+advcl punct nsubj neg prt prep punct
+Fearing , he never out in .
+ccomp pobj
+recognize daylight
+mark nsubj aux dobj
+that police would him
+det
+the
+
+
+transformed Tree:
+ROOT
+went
+ROOT
+went
+advcl punct nsubj neg prt prep punct
+Fearing , he never out in .
+obj pobj
+recognize daylight
+nsubj obj aux mark
+police him would that
+det
+the
+
+33
+Fearing that the police would recognize him, he never went out in daylight.    verb: would
+initial Tree:
+ROOT
+went
+ROOT
+went
+advcl punct nsubj neg prt prep punct
+Fearing , he never out in .
+ccomp pobj
+recognize daylight
+mark nsubj aux dobj
+that police would him
+det
+the
+
+
+transformed Tree:
+ROOT
+went
+ROOT
+went
+advcl punct nsubj neg prt prep punct
+Fearing , he never out in .
+ccomp pobj
+recognize daylight
+mark nsubj aux dobj
+that police would him
+det
+the
+
+34
+Fearing that the police would recognize him, he never went out in daylight.    verb: recognize
+initial Tree:
+ROOT
+went
+ROOT
+went
+advcl punct nsubj neg prt prep punct
+Fearing , he never out in .
+ccomp pobj
+recognize daylight
+mark nsubj aux dobj
+that police would him
+det
+the
+
+
+transformed Tree:
+ROOT
+went
+ROOT
+went
+advcl punct nsubj neg prt prep punct
+Fearing , he never out in .
+ccomp pobj
+recognize daylight
+subj obj aux
+police him would
+
+35
+Fearing that the police would recognize him, he never went out in daylight.    verb: went
+initial Tree:
+ROOT
+went
+ROOT
+went
+advcl punct nsubj neg prt prep punct
+Fearing , he never out in .
+ccomp pobj
+recognize daylight
+mark nsubj aux dobj
+that police would him
+det
+the
+
+
+transformed Tree:
+ROOT
+went
+ROOT
+went
+subj obj advcl neg prt
+he in Fearing never out
+obj ccomp
+daylight recognize
+mark nsubj aux dobj
+that police would him
+det
+the
+
+36
+Obama's election as the first black president of the Harvard Law Review gained national media attention.    verb: gained
+initial Tree:
+ROOT
+gained
+ROOT
+gained
+nsubj dobj punct
+election attention .
+poss prep amod compound
+Obama as national media
+case pobj
+'s president
+det amod amod prep
+the first black of
+pobj
+Review
+det compound compound
+the Harvard Law
+
+
+transformed Tree:
+ROOT
+gained
+ROOT
+gained
+subj obj
+election attention
+poss prep mod compound
+Obama as national media
+case pobj
+'s president
+det amod amod prep
+the first black of
+pobj
+Review
+det compound compound
+the Harvard Law
+
+37
+Obama formally announced his candidacy in January 2003.    verb: announced
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+nsubj advmod dobj prep punct
+Obama formally candidacy in .
+poss pobj
+his January
+nummod
+2003
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+subj obj mod prep
+Obama candidacy formally in
+poss pobj
+his January
+nummod
+2003
+
+38
+Obama delivered the keynote address at the 2004 Democratic National Convention.    verb: delivered
+initial Tree:
+ROOT
+delivered
+ROOT
+delivered
+nsubj dobj prep punct
+Obama address at .
+det amod pobj
+the keynote Convention
+det nummod compound compound
+the 2004 Democratic National
+
+
+transformed Tree:
+ROOT
+delivered
+ROOT
+delivered
+subj obj prep
+Obama address at
+mod pobj
+keynote Convention
+det nummod compound compound
+the 2004 Democratic National
+
+39
+Google announced the setting up of its largest campus outside the United States.    verb: announced
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+nsubj dobj punct
+Google setting .
+det prt prep
+the up of
+pobj
+campus
+poss amod prep
+its largest outside
+pobj
+States
+det compound
+the United
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+subj obj
+Google setting
+prep prt
+of up
+pobj
+campus
+poss amod prep
+its largest outside
+pobj
+States
+det compound
+the United
+
+40
+Obama commissioned a poll to assess his prospects in a 2004 U.S. Senate race.    verb: commissioned
+initial Tree:
+ROOT
+commissioned
+ROOT
+commissioned
+nsubj dobj advcl punct
+Obama poll assess .
+det aux dobj
+a to prospects
+poss prep
+his in
+pobj
+race
+det nummod compound
+a 2004 Senate
+compound
+U.S.
+
+
+transformed Tree:
+ROOT
+commissioned
+ROOT
+commissioned
+subj obj advcl
+Obama poll assess
+aux dobj
+to prospects
+poss prep
+his in
+pobj
+race
+det nummod compound
+a 2004 Senate
+compound
+U.S.
+
+41
+Obama commissioned a poll to assess his prospects in a 2004 U.S. Senate race.    verb: assess
+initial Tree:
+ROOT
+commissioned
+ROOT
+commissioned
+nsubj dobj advcl punct
+Obama poll assess .
+det aux dobj
+a to prospects
+poss prep
+his in
+pobj
+race
+det nummod compound
+a 2004 Senate
+compound
+U.S.
+
+
+transformed Tree:
+ROOT
+commissioned
+ROOT
+commissioned
+nsubj dobj advcl punct
+Obama poll assess .
+det obj aux
+a prospects to
+poss prep
+his in
+pobj
+race
+det nummod compound
+a 2004 Senate
+compound
+U.S.
+
+42
+Obama served on the boards of directors of the Woods Fund of Chicago.    verb: served
+initial Tree:
+ROOT
+served
+ROOT
+served
+nsubj prep punct
+Obama on .
+pobj
+boards
+det prep
+the of
+pobj
+directors
+prep
+of
+pobj
+Fund
+det compound prep
+the Woods of
+pobj
+Chicago
+
+
+transformed Tree:
+ROOT
+served
+ROOT
+served
+subj prep
+Obama on
+pobj
+boards
+det prep
+the of
+pobj
+directors
+prep
+of
+pobj
+Fund
+det compound prep
+the Woods of
+pobj
+Chicago
+
+43
+His mother spent most of the next two decades in Indonesia.    verb: spent
+initial Tree:
+ROOT
+spent
+ROOT
+spent
+nsubj dobj prep punct
+mother most in .
+poss prep pobj
+His of Indonesia
+pobj
+decades
+det amod nummod
+the next two
+
+
+transformed Tree:
+ROOT
+spent
+ROOT
+spent
+subj obj prep
+mother most in
+poss prep pobj
+His of Indonesia
+pobj
+decades
+det amod nummod
+the next two
+
+44
+His remarks were made to a group of Marines preparing for deployment to Afghanistan.    verb: made
+initial Tree:
+ROOT
+made
+ROOT
+made
+nsubjpass auxpass prep punct
+remarks were to .
+poss pobj
+His group
+det prep
+a of
+pobj
+Marines
+acl
+preparing
+prep
+for
+pobj
+deployment
+prep
+to
+pobj
+Afghanistan
+
+
+transformed Tree:
+ROOT
+made
+ROOT
+made
+subj prep auxpass
+remarks to were
+poss pobj
+His group
+det prep
+a of
+pobj
+Marines
+acl
+preparing
+prep
+for
+pobj
+deployment
+prep
+to
+pobj
+Afghanistan
+
+45
+His remarks were made to a group of Marines preparing for deployment to Afghanistan.    verb: preparing
+initial Tree:
+ROOT
+made
+ROOT
+made
+nsubjpass auxpass prep punct
+remarks were to .
+poss pobj
+His group
+det prep
+a of
+pobj
+Marines
+acl
+preparing
+prep
+for
+pobj
+deployment
+prep
+to
+pobj
+Afghanistan
+
+
+transformed Tree:
+ROOT
+made
+ROOT
+made
+nsubjpass auxpass prep punct
+remarks were to .
+poss pobj
+His group
+det prep
+a of
+pobj
+Marines
+acl
+preparing
+prep
+for
+pobj
+deployment
+prep
+to
+pobj
+Afghanistan
+
+46
+Obama would become the first President to have been born in Hawaii.    verb: would
+initial Tree:
+ROOT
+become
+ROOT
+become
+nsubj aux attr punct
+Obama would President .
+det amod relcl
+the first born
+aux aux auxpass prep
+to have been in
+pobj
+Hawaii
+
+
+transformed Tree:
+ROOT
+become
+ROOT
+become
+nsubj aux attr punct
+Obama would President .
+det amod relcl
+the first born
+aux aux auxpass prep
+to have been in
+pobj
+Hawaii
+
+47
+Obama would become the first President to have been born in Hawaii.    verb: become
+initial Tree:
+ROOT
+become
+ROOT
+become
+nsubj aux attr punct
+Obama would President .
+det amod relcl
+the first born
+aux aux auxpass prep
+to have been in
+pobj
+Hawaii
+
+
+transformed Tree:
+ROOT
+become
+ROOT
+become
+subj obj aux relcl
+Obama President would born
+mod aux aux auxpass prep
+first to have been in
+pobj
+Hawaii
+
+48
+Obama would become the first President to have been born in Hawaii.    verb: born
+initial Tree:
+ROOT
+become
+ROOT
+become
+nsubj aux attr punct
+Obama would President .
+det amod relcl
+the first born
+aux aux auxpass prep
+to have been in
+pobj
+Hawaii
+
+
+transformed Tree:
+ROOT
+become
+ROOT
+become
+nsubj aux punct relcl
+Obama would . born
+subj obj aux auxpass
+President in tohave been
+mod obj
+first Hawaii
+
+49
+This took place in July 2011.    verb: took
+initial Tree:
+ROOT
+took
+ROOT
+took
+nsubj dobj prep punct
+This place in .
+pobj
+July
+nummod
+2011
+
+
+transformed Tree:
+ROOT
+took
+ROOT
+took
+subj obj prep
+This place in
+pobj
+July
+nummod
+2011
+
+50
+Radio France is headquartered in Paris' 16th arrondissement.    verb: headquartered
+initial Tree:
+ROOT
+headquartered
+ROOT
+headquartered
+nsubjpass auxpass prep punct
+France is in .
+compound pobj
+Radio arrondissement
+poss amod
+Paris 16th
+case
+'
+
+
+transformed Tree:
+ROOT
+headquartered
+ROOT
+headquartered
+subj obj auxpass
+France in is
+compound obj
+Radio arrondissement
+poss amod
+Paris 16th
+case
+'
+
+51
+Obama won with 70 percent of the vote.    verb: won
+initial Tree:
+ROOT
+won
+ROOT
+won
+nsubj prep punct
+Obama with .
+pobj
+percent
+nummod prep
+70 of
+pobj
+vote
+det
+the
+
+
+transformed Tree:
+ROOT
+won
+ROOT
+won
+subj prep
+Obama with
+pobj
+percent
+nummod prep
+70 of
+pobj
+vote
+det
+the
+
+52
+Obama’s parents divorced in March 1964.    verb: divorced
+initial Tree:
+ROOT
+parents
+ROOT
+parents
+poss acl punct
+Obama divorced .
+case prep
+’s in
+pobj
+March
+nummod
+1964
+
+
+transformed Tree:
+ROOT
+parents
+ROOT
+parents
+poss acl punct
+Obama divorced .
+case obj
+’s in
+obj
+March
+nummod
+1964
+
+53
+Obama and Joe Biden were formally nominated by former President Bill Clinton.    verb: nominated
+initial Tree:
+ROOT
+nominated
+ROOT
+nominated
+nsubjpass auxpass advmod agent punct
+Obama were formally by .
+cc conj pobj
+and Biden Clinton
+compound compound compound
+Joe President Bill
+amod
+former
+
+
+transformed Tree:
+ROOT
+nominated
+ROOT
+nominated
+mod auxpass subj
+formally were  Obama by
+obj conj cc
+Clinton Biden and
+compound compound compound
+President Bill Joe
+amod
+former
+
+54
+It is the subdivision responsible for providing emergency services.    verb: providing
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+It subdivision .
+det amod
+the responsible
+prep
+for
+pcomp
+providing
+dobj
+services
+compound
+emergency
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+It subdivision .
+det amod
+the responsible
+prep
+for
+pcomp
+providing
+obj
+services
+compound
+emergency
+
+55
+The council plays a largely passive role in the city government.    verb: plays
+initial Tree:
+ROOT
+plays
+ROOT
+plays
+nsubj dobj punct
+council role .
+det det amod prep
+The a passive in
+advmod pobj
+largely government
+det compound
+the city
+
+
+transformed Tree:
+ROOT
+plays
+ROOT
+plays
+subj obj
+council role
+mod prep
+passive in
+advmod pobj
+largely government
+det compound
+the city
+
+56
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.    verb: suggested
+initial Tree:
+ROOT
+suggested
+ROOT
+suggested
+nsubj ccomp punct
+survey been .
+det nummod prep mark nsubj aux aux attr
+A 1997 of that feature may have scar
+pobj det amod compound acl det compound
+records a certain surface discovered an impact
+amod amod cc conj amod agent prep
+early astronomical and drawings dark by in
+pobj pobj
+Cassini 1690
+compound compound
+astronomer Giovanni
+
+
+transformed Tree:
+ROOT
+suggested
+ROOT
+suggested
+subj obj
+survey been
+mod prep nsubj obj aux mark
+1997 of feature scar  may have that
+pobj det amod compound acl det compound
+records a certain surface discovered an impact
+amod amod cc conj amod agent prep
+early astronomical and drawings dark by in
+pobj pobj
+Cassini 1690
+compound compound
+astronomer Giovanni
+
+57
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.    verb: discovered
+initial Tree:
+ROOT
+suggested
+ROOT
+suggested
+nsubj ccomp punct
+survey been .
+det nummod prep mark nsubj aux aux attr
+A 1997 of that feature may have scar
+pobj det amod compound acl det compound
+records a certain surface discovered an impact
+amod amod cc conj amod agent prep
+early astronomical and drawings dark by in
+pobj pobj
+Cassini 1690
+compound compound
+astronomer Giovanni
+
+
+transformed Tree:
+ROOT
+suggested
+ROOT
+suggested
+nsubj ccomp punct
+survey been .
+det nummod prep mark nsubj aux aux attr
+A 1997 of that feature may have scar
+pobj det amod compound acl det compound
+records a certain surface discovered an impact
+amod amod cc conj amod subj obj
+early astronomical and drawings dark by in
+obj obj
+Cassini 1690
+compound compound
+astronomer Giovanni
+
+58
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.    verb: may
+initial Tree:
+ROOT
+suggested
+ROOT
+suggested
+nsubj ccomp punct
+survey been .
+det nummod prep mark nsubj aux aux attr
+A 1997 of that feature may have scar
+pobj det amod compound acl det compound
+records a certain surface discovered an impact
+amod amod cc conj amod agent prep
+early astronomical and drawings dark by in
+pobj pobj
+Cassini 1690
+compound compound
+astronomer Giovanni
+
+
+transformed Tree:
+ROOT
+suggested
+ROOT
+suggested
+nsubj ccomp punct
+survey been .
+det nummod prep mark nsubj aux aux attr
+A 1997 of that feature may have scar
+pobj det amod compound acl det compound
+records a certain surface discovered an impact
+amod amod cc conj amod agent prep
+early astronomical and drawings dark by in
+pobj pobj
+Cassini 1690
+compound compound
+astronomer Giovanni
+
+59
+He helped set up a job training program, a college preparatory tutoring program, and a tenants’ rights organization in Altgeld Gardens.    verb: helped
+initial Tree:
+ROOT
+helped
+ROOT
+helped
+nsubj xcomp punct
+He set .
+prt dobj
+up program
+det compound punct appos
+a training , program
+compound det nmod amod compound punct cc conj
+job a college preparatory tutoring , and organization
+poss compound prep
+tenants rights in
+det case pobj
+a ’ Gardens
+compound
+Altgeld
+
+
+transformed Tree:
+ROOT
+helped
+ROOT
+helped
+subj obj
+He set
+obj prt
+program up
+det compound punct appos
+a training , program
+compound det nmod amod compound punct cc conj
+job a college preparatory tutoring , and organization
+poss compound prep
+tenants rights in
+det case pobj
+a ’ Gardens
+compound
+Altgeld
+
+60
+He helped set up a job training program, a college preparatory tutoring program, and a tenants’ rights organization in Altgeld Gardens.    verb: set
+initial Tree:
+ROOT
+helped
+ROOT
+helped
+nsubj xcomp punct
+He set .
+prt dobj
+up program
+det compound punct appos
+a training , program
+compound det nmod amod compound punct cc conj
+job a college preparatory tutoring , and organization
+poss compound prep
+tenants rights in
+det case pobj
+a ’ Gardens
+compound
+Altgeld
+
+
+transformed Tree:
+ROOT
+helped
+ROOT
+helped
+nsubj xcomp punct
+He set .
+obj prt
+program up
+appos compound punct
+program training ,
+det nmod amod compound punct cc conj compound
+a college preparatory tutoring , and organization job
+poss compound prep
+tenants rights in
+det case pobj
+a ’ Gardens
+compound
+Altgeld
+
+61
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.    verb: fell
+initial Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep mark nsubj mark nsubj ccomp
+the to highs in as worries after official becoming
+pobj prep det amod compound nsubj aux punct acomp
+afternoon about a senior Pyongyang U.S. is “ vicious
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+
+transformed Tree:
+ROOT
+fell
+ROOT
+fell
+subj mod conj cc prep
+stocks anew rose and On
+mod nsubj advcl advcl punct advcl punct pobj
+Asian yen session simmered , said . Monday
+det aux dobj prep mark nsubj mark nsubj ccomp
+the to highs in as worries after official becoming
+pobj prep det amod compound nsubj aux punct acomp
+afternoon about a senior Pyongyang U.S. is “ vicious
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+62
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.    verb: rose
+initial Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep mark nsubj mark nsubj ccomp
+the to highs in as worries after official becoming
+pobj prep det amod compound nsubj aux punct acomp
+afternoon about a senior Pyongyang U.S. is “ vicious
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+
+transformed Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod subj advcl
+Monday Asian yen sessionsimmeredsaid
+
+63
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.    verb: simmered
+initial Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep mark nsubj mark nsubj ccomp
+the to highs in as worries after official becoming
+pobj prep det amod compound nsubj aux punct acomp
+afternoon about a senior Pyongyang U.S. is “ vicious
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+
+transformed Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep subj mark nsubj ccomp
+the to highs in worries after official becoming
+pobj prep det amod compound nsubj aux punct acomp
+afternoon about a senior Pyongyang U.S. is “ vicious
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+64
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.    verb: said
+initial Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep mark nsubj mark nsubj ccomp
+the to highs in as worries after official becoming
+pobj prep det amod compound nsubj aux punct acomp
+afternoon about a senior Pyongyang U.S. is “ vicious
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+
+transformed Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep mark nsubj subj obj
+the to highs in as worries official becoming
+pobj prep mod compound nsubj acomp aux punct
+afternoon about senior Pyongyang U.S. vicious is “
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+65
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.    verb: becoming
+initial Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep mark nsubj mark nsubj ccomp
+the to highs in as worries after official becoming
+pobj prep det amod compound nsubj aux punct acomp
+afternoon about a senior Pyongyang U.S. is “ vicious
+det pobj det advmod cc conj punct prep
+the Korea the more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+
+transformed Tree:
+ROOT
+fell
+ROOT
+fell
+prep punct nsubj advmod cc conj
+On , stocks anew and rose
+pobj amod nsubj advcl advcl punct advcl punct
+Monday Asian yen session simmered , said .
+det aux dobj prep mark nsubj mark nsubj ccomp
+the to highs in as worries after official becoming
+pobj prep det amod compound subj acomp aux
+afternoon about a senior Pyongyang U.S. vicious is
+det pobj advmod cc conj punct prep
+the Korea more and aggressive ” under
+compound advmod pobj
+North more Trump
+compound compound
+President Donald
+
+0
+Bergsma et al (2013) show that large-scale clustering of user names improves gender, ethnicity and location classification on Twitter.    verb: show
+initial Tree:
+ROOT
+show
+ROOT
+show
+nsubj ccomp punct
+al improves .
+compound compound appos punct mark nsubj dobj prep
+Bergsma et 2013 ) that clustering gender on
+punct compound prep punct conj pobj
+( scale of , ethnicity Twitter
+amod punct pobj cc conj
+large - names and classification
+compound compound
+user location
+
+
+transformed Tree:
+ROOT
+show
+ROOT
+show
+subj obj
+al improves
+appos compound punct nsubj obj prep mark
+2013  Bergsma et ) clustering gender on that
+punct compound prep punct conj pobj
+( scale of , ethnicity Twitter
+amod punct pobj cc conj
+large - names and classification
+compound compound
+user location
+
+1
+Bergsma et al (2013) show that large-scale clustering of user names improves gender, ethnicity and location classification on Twitter.    verb: improves
+initial Tree:
+ROOT
+show
+ROOT
+show
+nsubj ccomp punct
+al improves .
+compound compound appos punct mark nsubj dobj prep
+Bergsma et 2013 ) that clustering gender on
+punct compound prep punct conj pobj
+( scale of , ethnicity Twitter
+amod punct pobj cc conj
+large - names and classification
+compound compound
+user location
+
+
+transformed Tree:
+ROOT
+show
+ROOT
+show
+nsubj ccomp punct
+al improves .
+compound compound appos punct subj obj prep
+Bergsma et 2013 ) clustering gender on
+punct prep compound conj punct pobj
+( of scale ethnicity , Twitter
+pobj amod punct cc conj
+names large - and classification
+compound compound
+user location
+
+2
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al method by .
+punct compound compound punct appos punct det amod pcomp
+( Stolcke et , 2000 ) the original combining
+dobj prep
+alternatives from
+amod pobj
+multiple system
+det amod
+each combined
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+subj obj prep
+al method by
+appos compound punct mod pcomp
+2000  Stolcke et  ( , ) original combining
+dobj prep
+alternatives from
+amod pobj
+multiple system
+det amod
+each combined
+
+3
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.    verb: combining
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al method by .
+punct compound compound punct appos punct det amod pcomp
+( Stolcke et , 2000 ) the original combining
+dobj prep
+alternatives from
+amod pobj
+multiple system
+det amod
+each combined
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al method by .
+punct compound compound punct appos punct det amod pcomp
+( Stolcke et , 2000 ) the original combining
+obj prep
+alternatives from
+mod pobj
+multiple system
+det amod
+each combined
+
+4
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.    verb: combined
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al method by .
+punct compound compound punct appos punct det amod pcomp
+( Stolcke et , 2000 ) the original combining
+dobj prep
+alternatives from
+amod pobj
+multiple system
+det amod
+each combined
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al method by .
+punct compound compound punct appos punct det amod pcomp
+( Stolcke et , 2000 ) the original combining
+dobj prep
+alternatives from
+amod pobj
+multiple system
+det amod
+each combined
+
+5
+By partitioning the velocity space, the Bdual -tree improves the query performance of the B x -tree.    verb: partitioning
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+prep punct nsubj dobj punct
+By , -tree performance .
+pcomp det compound det compound prep
+partitioning the Bdual the query of
+dobj pobj
+space -tree
+det compound det compound
+the velocity the B
+punct
+x
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+prep punct nsubj dobj punct
+By , -tree performance .
+pcomp det compound det compound prep
+partitioning the Bdual the query of
+obj pobj
+space -tree
+compound det compound
+velocity the B
+punct
+x
+
+6
+By partitioning the velocity space, the Bdual -tree improves the query performance of the B x -tree.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+prep punct nsubj dobj punct
+By , -tree performance .
+pcomp det compound det compound prep
+partitioning the Bdual the query of
+dobj pobj
+space -tree
+det compound det compound
+the velocity the B
+punct
+x
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+subj obj prep
+-tree performance By
+compound prep compound pcomp
+Bdual of query partitioning
+pobj dobj
+-tree space
+det compound det compound
+the B the velocity
+punct
+x
+
+7
+Japan’s Toshiba Corp said it had nominated Satoshi Tsunakawa, a former head of its medical equipment division, to be its next chief executive officer.    verb: said
+initial Tree:
+ROOT
+said
+ROOT
+said
+nsubj ccomp punct
+Corp nominated .
+poss compound nsubj aux dobj
+Japan Toshiba it had Tsunakawa
+case compound punct appos punct relcl
+’s Satoshi , head , be
+det amod prep aux attr
+a former of to officer
+pobj poss amod amod amod
+division its next chief executive
+poss compound
+its equipment
+amod
+medical
+
+
+transformed Tree:
+ROOT
+said
+ROOT
+said
+subj obj
+Corp nominated
+poss compound nsubj obj aux
+Japan Toshiba it Tsunakawa had
+case compound punct appos punct relcl
+’s Satoshi , head , be
+det amod prep aux attr
+a former of to officer
+pobj poss amod amod amod
+division its next chief executive
+poss compound
+its equipment
+amod
+medical
+
+8
+Japan’s Toshiba Corp said it had nominated Satoshi Tsunakawa, a former head of its medical equipment division, to be its next chief executive officer.    verb: nominated
+initial Tree:
+ROOT
+said
+ROOT
+said
+nsubj ccomp punct
+Corp nominated .
+poss compound nsubj aux dobj
+Japan Toshiba it had Tsunakawa
+case compound punct appos punct relcl
+’s Satoshi , head , be
+det amod prep aux attr
+a former of to officer
+pobj poss amod amod amod
+division its next chief executive
+poss compound
+its equipment
+amod
+medical
+
+
+transformed Tree:
+ROOT
+said
+ROOT
+said
+nsubj ccomp punct
+Corp nominated .
+poss compound subj obj aux relcl
+Japan Toshiba it Tsunakawa had be
+case appos compound punct aux attr
+’s head Satoshi  , , to officer
+det amod prep poss amod amod amod
+a former of its next chief executive
+pobj
+division
+poss compound
+its equipment
+amod
+medical
+
+9
+We stress that our method improves a supervised baseline.    verb: stress
+initial Tree:
+ROOT
+stress
+ROOT
+stress
+nsubj ccomp punct
+We improves .
+mark nsubj dobj
+that method baseline
+poss det amod
+our a supervised
+
+
+transformed Tree:
+ROOT
+stress
+ROOT
+stress
+subj obj
+We improves
+nsubj obj mark
+method baseline that
+poss det amod
+our a supervised
+
+10
+We stress that our method improves a supervised baseline.    verb: improves
+initial Tree:
+ROOT
+stress
+ROOT
+stress
+nsubj ccomp punct
+We improves .
+mark nsubj dobj
+that method baseline
+poss det amod
+our a supervised
+
+
+transformed Tree:
+ROOT
+stress
+ROOT
+stress
+nsubj ccomp punct
+We improves .
+subj obj
+method baseline
+poss mod
+our supervised
+
+11
+We stress that our method improves a supervised baseline.    verb: supervised
+initial Tree:
+ROOT
+stress
+ROOT
+stress
+nsubj ccomp punct
+We improves .
+mark nsubj dobj
+that method baseline
+poss det amod
+our a supervised
+
+
+transformed Tree:
+ROOT
+stress
+ROOT
+stress
+nsubj ccomp punct
+We improves .
+mark nsubj dobj
+that method baseline
+poss det amod
+our a supervised
+
+12
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.    verb: demonstrate
+initial Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+nsubj ccomp punct
+2008 improves .
+punct punct mark csubj advmod dobj
+( ) that adding substantially performance
+dobj dobj
+tags counts
+nmod compound
+part frequency
+punct prep aux
+- of to
+punct pobj
+- speech
+
+
+transformed Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+subj obj
+2008 improves
+punct csubj obj mod mark
+ ( ) adding performance substantially that
+dobj dobj
+tags counts
+nmod compound
+part frequency
+punct prep aux
+- of to
+punct pobj
+- speech
+
+13
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.    verb: adding
+initial Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+nsubj ccomp punct
+2008 improves .
+punct punct mark csubj advmod dobj
+( ) that adding substantially performance
+dobj dobj
+tags counts
+nmod compound
+part frequency
+punct prep aux
+- of to
+punct pobj
+- speech
+
+
+transformed Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+nsubj ccomp punct
+2008 improves .
+punct punct mark csubj advmod dobj
+( ) that adding substantially performance
+obj
+tagscounts
+
+14
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.    verb: counts
+initial Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+nsubj ccomp punct
+2008 improves .
+punct punct mark csubj advmod dobj
+( ) that adding substantially performance
+dobj dobj
+tags counts
+nmod compound
+part frequency
+punct prep aux
+- of to
+punct pobj
+- speech
+
+
+transformed Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+nsubj ccomp punct
+2008 improves .
+punct punct mark csubj advmod dobj
+( ) that adding substantially performance
+dobj dobj
+tags counts
+nmod compound
+part frequency
+punct prep aux
+- of to
+punct pobj
+- speech
+
+15
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.    verb: improves
+initial Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+nsubj ccomp punct
+2008 improves .
+punct punct mark csubj advmod dobj
+( ) that adding substantially performance
+dobj dobj
+tags counts
+nmod compound
+part frequency
+punct prep aux
+- of to
+punct pobj
+- speech
+
+
+transformed Tree:
+ROOT
+demonstrate
+ROOT
+demonstrate
+nsubj ccomp punct
+2008 improves .
+punct punct subj obj mod
+( ) adding performance substantially
+obj
+ tags counts
+
+16
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.    verb: showed
+initial Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+
+transformed Tree:
+ROOT
+showed
+ROOT
+showed
+subj obj prep
+Experiments improves with
+nsubj obj mod conj cc mark pobj
+method performance effectively achieved and that parser
+poss compound nsubj dobj punct det amod
+our parsing we accuracy . an standard
+det amod prep compound punct
+the best for arc -
+pobj
+parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+17
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.    verb: improves
+initial Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+
+transformed Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep subj obj mod conj cc
+with method performance effectively achieved and
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+18
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.    verb: parsing
+initial Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+
+transformed Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+19
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.    verb: achieved
+initial Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+
+transformed Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound subj obj prep
+parser our parsing we accuracy for
+det amod mod pobj
+an standard best parser
+compound punct nmod amod
+arc - model based
+amod punct npadvmod punct
+single - transition -
+
+20
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.    verb: based
+initial Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+
+transformed Tree:
+ROOT
+showed
+ROOT
+showed
+nsubj ccomp
+Experiments improves
+prep mark nsubj advmod dobj cc conj
+with that method effectively performance and achieved
+pobj poss compound nsubj dobj punct
+parser our parsing we accuracy .
+det amod det amod prep
+an standard the best for
+compound punct pobj
+arc - parser
+nmod amod
+model based
+amod punct mod
+single - transition
+
+21
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.    verb: revealed
+initial Tree:
+ROOT
+revealed
+ROOT
+revealed
+npadvmod punct ccomp punct
+2007 ) improves .
+punct mark csubj dobj prep
+( that adding quality in
+dobj compound pobj
+rules translation setting
+amod det
+minimal this
+dep
+-
+dep
+non
+
+
+transformed Tree:
+ROOT
+revealed
+ROOT
+revealed
+obj mod
+improves 2007
+csubj obj prep mark punct
+adding quality in that (
+dobj compound pobj
+rules translation setting
+amod det
+minimal this
+dep
+-
+dep
+non
+
+22
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.    verb: adding
+initial Tree:
+ROOT
+revealed
+ROOT
+revealed
+npadvmod punct ccomp punct
+2007 ) improves .
+punct mark csubj dobj prep
+( that adding quality in
+dobj compound pobj
+rules translation setting
+amod det
+minimal this
+dep
+-
+dep
+non
+
+
+transformed Tree:
+ROOT
+revealed
+ROOT
+revealed
+npadvmod punct ccomp punct
+2007 ) improves .
+punct mark csubj dobj prep
+( that adding quality in
+obj compound pobj
+rules translation setting
+mod det
+minimal this
+dep
+-
+dep
+non
+
+23
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.    verb: improves
+initial Tree:
+ROOT
+revealed
+ROOT
+revealed
+npadvmod punct ccomp punct
+2007 ) improves .
+punct mark csubj dobj prep
+( that adding quality in
+dobj compound pobj
+rules translation setting
+amod det
+minimal this
+dep
+-
+dep
+non
+
+
+transformed Tree:
+ROOT
+revealed
+ROOT
+revealed
+npadvmod punct ccomp punct
+2007 ) improves .
+punct subj obj prep
+( adding quality in
+obj compound pobj
+rules translation setting
+amod det
+minimal this
+dep
+-
+dep
+non
+
+24
+(CBS Detroit, 2011-02-11) improves substantially over prior approaches.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+punct nsubj advmod prep punct
+( Detroit substantially over .
+compound punct appos punct pobj
+CBS , 2011 ) approaches
+prep amod
+11 prior
+punct nummod punct
+- 02 -
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+subj mod prep
+Detroit substantially over
+appos compound punct pobj
+2011 CBS  , ) approaches
+prep amod
+11 prior
+punct nummod punct
+- 02 -
+
+25
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.    verb: showed
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+subj obj aux compound compound appos cc det amod compound compound
+work improves has Bilotti et question and the expected answer answer
+mod nsubj obj mark punct nummod
+Recent retrieval ranking that ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+26
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod subj obj prep punct nummod
+Recent retrieval ranking for ( 2
+mod compound pobj
+structured answer questions
+compound
+factoid
+
+27
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.    verb: ranking
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+28
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.    verb: expected
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+29
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod subj obj prep punct nummod
+Recent retrieval ranking for ( 2
+mod compound pobj
+structured answer questions
+compound
+factoid
+
+30
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.    verb: answer
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+ccomp punct nsubj nsubj dobj punct
+showed : al types ranking .
+nsubj aux ccomp compound compound appos cc det amod compound compound
+work has improves Bilotti et question and the expected answer answer
+amod mark nsubj dobj punct nummod
+Recent that retrieval ranking ( 2
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+31
+HMM-smoothing improves on the most closely related work, the Structural Correspondence Learning technique.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj prep dobj
+smoothing on technique
+compound punct pobj punct det compound punct
+HMM - work , the Learning .
+det amod compound compound
+the related Structural Correspondence
+advmod advmod
+most closely
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+subj obj prep
+smoothing technique on
+compound punct compound punct pobj
+HMM - Learning  , . work
+compound compound det amod
+Structural Correspondence the related
+advmod advmod
+most closely
+
+32
+The bidirectional model improves both precision and recall relative to all heuristic combination techniques, inc.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj punct
+model precision .
+det amod preconj cc conj amod
+The bidirectional both and recall relative
+prep
+to
+pobj
+techniques
+det amod compound punct appos
+all heuristic combination , inc
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+subj obj
+model precision
+mod mod conj cc preconj
+bidirectional relative recall and both
+prep
+to
+pobj
+techniques
+det amod compound punct appos
+all heuristic combination , inc
+
+33
+The bidirectional model improves both precision and recall relative to all heuristic combination techniques, inc.    verb: recall
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj punct
+model precision .
+det amod preconj cc conj amod
+The bidirectional both and recall relative
+prep
+to
+pobj
+techniques
+det amod compound punct appos
+all heuristic combination , inc
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj punct
+model precision .
+det amod preconj cc conj amod
+The bidirectional both and recall relative
+prep
+to
+pobj
+techniques
+det amod compound punct appos
+all heuristic combination , inc
+
+34
+(Son et al, 2012) improves translation quality of n-gram translation model by using a bilingual neural language.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al quality by .
+punct compound compound punct npadvmod punct compound prep pcomp
+( Son et , 2012 ) translation of using
+pobj dobj
+model language
+compound det amod amod
+translation a bilingual neural
+amod
+gram
+dep
+-
+dep
+n
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+subj obj prep
+al quality by
+mod compound punct prep compound pcomp
+2012  Son et  ( , ) of translation using
+pobj dobj
+model language
+compound det amod amod
+translation a bilingual neural
+amod
+gram
+dep
+-
+dep
+n
+
+35
+(Son et al, 2012) improves translation quality of n-gram translation model by using a bilingual neural language.    verb: using
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al quality by .
+punct compound compound punct npadvmod punct compound prep pcomp
+( Son et , 2012 ) translation of using
+pobj dobj
+model language
+compound det amod amod
+translation a bilingual neural
+amod
+gram
+dep
+-
+dep
+n
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj dobj prep punct
+al quality by .
+punct compound compound punct npadvmod punct compound prep pcomp
+( Son et , 2012 ) translation of using
+pobj obj
+model language
+compound mod
+translation  bilingual neural
+amod
+gram
+dep
+-
+dep
+n
+
+36
+MACK uses articulated graphical embodiment with ability to gesture.    verb: uses
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj prep punct
+MACK embodiment with .
+amod amod pobj
+articulated graphical ability
+prep
+to
+pobj
+gesture
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+subj obj prep
+MACK embodiment with
+mod pobj
+ articulated graphical ability
+prep
+to
+pobj
+gesture
+
+37
+MACK uses articulated graphical embodiment with ability to gesture.    verb: articulated
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj prep punct
+MACK embodiment with .
+amod amod pobj
+articulated graphical ability
+prep
+to
+pobj
+gesture
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj prep punct
+MACK embodiment with .
+amod amod pobj
+articulated graphical ability
+prep
+to
+pobj
+gesture
+
+38
+Our work not only improves the CPU efficiency by three orders of magnitude, but also reduces the memory consumption.    verb: improves
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj preconj dobj prep punct cc conj punct
+work not efficiency by , but reduces .
+poss advmod det compound pobj advmod dobj
+Our only the CPU orders also consumption
+nummod prep det compound
+three of the memory
+pobj
+magnitude
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+subj obj conj cc preconj prep
+work efficiency reduces but not by
+poss compound advmod dobj advmod pobj
+Our CPU also consumption only orders
+det compound nummod prep
+the memory three of
+pobj
+magnitude
+
+39
+Our work not only improves the CPU efficiency by three orders of magnitude, but also reduces the memory consumption.    verb: reduces
+initial Tree:
+ROOT
+improves
+ROOT
+improves
+nsubj preconj dobj prep punct cc conj punct
+work not efficiency by , but reduces .
+poss advmod det compound pobj advmod dobj
+Our only the CPU orders also consumption
+nummod prep det compound
+three of the memory
+pobj
+magnitude
+
+
+transformed Tree:
+ROOT
+improves
+ROOT
+improves
+preconj dobj prep punct cc conj punct
+not efficiency by , but reduces .
+advmod det compound pobj subj obj mod
+only the CPU orders work consumption also
+nummod prep poss compound
+three of Our memory
+pobj
+magnitude
+
+40
+Calvin [21] is a distributed main-memory database system that uses a deterministic execution strategy.    verb: distributed
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+Calvin system .
+appos det amod compound relcl
+21 a distributed database uses
+punct punct compound nsubj dobj
+[ ] memory that strategy
+amod punct det amod compound
+main - a deterministic execution
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+Calvin system .
+appos det amod compound relcl
+21 a distributed database uses
+punct punct compound nsubj dobj
+[ ] memory that strategy
+amod punct det amod compound
+main - a deterministic execution
+
+41
+Calvin [21] is a distributed main-memory database system that uses a deterministic execution strategy.    verb: uses
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+Calvin system .
+appos det amod compound relcl
+21 a distributed database uses
+punct punct compound nsubj dobj
+[ ] memory that strategy
+amod punct det amod compound
+main - a deterministic execution
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj punct relcl
+Calvin . uses
+appos subj obj
+21 system strategy
+punct punct mod compound mod compound
+[ ] distributed database deterministic execution
+compound
+memory
+amod punct
+main -
+
+42
+It uses the exponential mechanism to recursively bisect each interval into subintervals.    verb: uses
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj xcomp punct
+It mechanism bisect .
+det amod aux advmod dobj prep
+the exponential to recursively interval into
+det pobj
+each subintervals
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+subj obj xcomp
+It mechanism bisect
+mod aux advmod dobj prep
+exponential to recursively interval into
+det pobj
+each subintervals
+
+43
+It uses the exponential mechanism to recursively bisect each interval into subintervals.    verb: bisect
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj xcomp punct
+It mechanism bisect .
+det amod aux advmod dobj prep
+the exponential to recursively interval into
+det pobj
+each subintervals
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj xcomp punct
+It mechanism bisect .
+det amod obj mod prep aux
+the exponential interval recursively into to
+pobj
+subintervals
+
+44
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.    verb: provides
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Crowdsourcing paradigm .
+det amod amod appos punct appos punct relcl
+a new solving 3 , 21 , blended
+npadvmod punct punct punct punct punct nsubjpass aux auxpass prep
+problem - [ ] [ ] which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+subj obj relcl
+Crowdsourcing paradigm blended
+appos mod punct nsubjpass aux auxpass prep
+ 3 21  new solving  , , which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+
+45
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.    verb: solving
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Crowdsourcing paradigm .
+det amod amod appos punct appos punct relcl
+a new solving 3 , 21 , blended
+npadvmod punct punct punct punct punct nsubjpass aux auxpass prep
+problem - [ ] [ ] which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Crowdsourcing paradigm .
+det amod amod appos punct appos punct relcl
+a new solving 3 , 21 , blended
+mod punct punct punct punct nsubjpass aux auxpass prep
+problem [ ] [ ] which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+
+46
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.    verb: blended
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Crowdsourcing paradigm .
+det amod amod appos punct appos punct relcl
+a new solving 3 , 21 , blended
+npadvmod punct punct punct punct punct nsubjpass aux auxpass prep
+problem - [ ] [ ] which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj punct relcl
+Crowdsourcing . blended
+subj prep aux auxpass
+paradigm into has been
+appos mod punct pobj
+ 3 21  new solving  , , communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+
+47
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.    verb: including
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Crowdsourcing paradigm .
+det amod amod appos punct appos punct relcl
+a new solving 3 , 21 , blended
+npadvmod punct punct punct punct punct nsubjpass aux auxpass prep
+problem - [ ] [ ] which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+pobj
+database
+cc conj
+and mining
+compound
+data
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Crowdsourcing paradigm .
+det amod amod appos punct appos punct relcl
+a new solving 3 , 21 , blended
+npadvmod punct punct punct punct punct nsubjpass aux auxpass prep
+problem - [ ] [ ] which has been into
+pobj
+communities
+amod compound punct prep
+several research , including
+obj
+database
+conj cc
+mining and
+compound
+data
+
+48
+Section 5 provides a detailed comparison with our algorithm.    verb: provides
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+nsubj dobj punct
+Section comparison .
+nummod det amod prep
+5 a detailed with
+pobj
+algorithm
+poss
+our
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+subj obj prep
+Section comparison with
+mod mod pobj
+5 detailed algorithm
+poss
+our
+
+49
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.    verb: provides
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+advmod punct nsubj dobj punct
+However , approach advantages .
+poss amod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+subj obj mod
+approach advantages However
+poss mod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+
+50
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.    verb: set
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+advmod punct nsubj dobj punct
+However , approach advantages .
+poss amod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+advmod punct nsubj dobj punct
+However , approach advantages .
+poss amod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+
+51
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.    verb: highlighted
+initial Tree:
+ROOT
+provides
+ROOT
+provides
+advmod punct nsubj dobj punct
+However , approach advantages .
+poss amod prep
+our more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+
+
+transformed Tree:
+ROOT
+provides
+ROOT
+provides
+advmod punct nsubj dobj punct
+However , approach advantages .
+poss amod prep
+our more over
+pobj
+result
+det amod relcl
+a linear highlighted
+subj obj neg auxpass
+set in not are
+obj
+evaluations
+det
+these
+
+52
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.    verb: support
+initial Tree:
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provide .
+pobj compound aux neg dobj
+contrast error does not guarantees
+prep prep
+to on
+pobj pobj
+BlinkDB margins
+det compound prep
+the error for
+pobj
+results
+
+
+transformed Tree:
+ROOT
+support
+ROOT
+support
+subj obj neg conj cc prep aux
+SciBORQ constraints not provide and In does
+compound aux neg dobj pobj
+error does not guarantees contrast
+prep prep
+on to
+pobj pobj
+margins BlinkDB
+det compound prep
+the error for
+pobj
+results
+
+53
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.    verb: provide
+initial Tree:
+ROOT
+support
+ROOT
+support
+prep punct nsubj aux neg dobj punct cc conj punct
+In , SciBORQ does not constraints , and provide .
+pobj compound aux neg dobj
+contrast error does not guarantees
+prep prep
+to on
+pobj pobj
+BlinkDB margins
+det compound prep
+the error for
+pobj
+results
+
+
+transformed Tree:
+ROOT
+support
+ROOT
+support
+prep punct aux neg dobj punct cc conj punct
+In , does not constraints , and provide .
+pobj compound subj obj neg aux
+contrast error SciBORQ guarantees not does
+prep prep
+to on
+pobj pobj
+BlinkDB margins
+det compound prep
+the error for
+pobj
+results
+
+54
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%    verb: uses
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct cc conj
+SemTag base5 , and employs
+det compound compound dobj advcl
+the TAP knowledge similarity compute
+det amod prep aux dobj prep punct advcl
+the cosine with to degree between , achieving
+pobj det compound pobj dobj
+scheme the match mention accuracy
+compound compound det cc conj det prep
+IDF weighting a and entity an of
+compound punct det pobj
+TF - an %
+nummod
+82
+quantmod
+around
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+subj obj conj cc
+SemTag base5 employs and
+compound dobj advcl
+ TAP knowledge similarity compute
+det amod prep aux dobj prep punct advcl
+the cosine with to degree between , achieving
+pobj det compound pobj dobj
+scheme the match mention accuracy
+compound compound det cc conj det prep
+IDF weighting a and entity an of
+compound punct det pobj
+TF - an %
+nummod
+82
+quantmod
+around
+
+55
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%    verb: employs
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct cc conj
+SemTag base5 , and employs
+det compound compound dobj advcl
+the TAP knowledge similarity compute
+det amod prep aux dobj prep punct advcl
+the cosine with to degree between , achieving
+pobj det compound pobj dobj
+scheme the match mention accuracy
+compound compound det cc conj det prep
+IDF weighting a and entity an of
+compound punct det pobj
+TF - an %
+nummod
+82
+quantmod
+around
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+dobj punct cc conj
+base5 , and employs
+det compound compound subj obj advcl prep
+the TAP knowledge SemTag similarity compute with
+mod aux dobj prep punct advcl pobj
+cosine to degree between , achieving scheme
+det compound pobj dobj compound compound
+the match mention accuracy IDF weighting
+det cc conj det prep compound punct
+a and entity an of TF -
+det pobj
+an %
+nummod
+82
+quantmod
+around
+
+56
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%    verb: compute
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct cc conj
+SemTag base5 , and employs
+det compound compound dobj advcl
+the TAP knowledge similarity compute
+det amod prep aux dobj prep punct advcl
+the cosine with to degree between , achieving
+pobj det compound pobj dobj
+scheme the match mention accuracy
+compound compound det cc conj det prep
+IDF weighting a and entity an of
+compound punct det pobj
+TF - an %
+nummod
+82
+quantmod
+around
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct cc conj
+SemTag base5 , and employs
+det compound compound dobj advcl
+the TAP knowledge similarity compute
+det amod prep obj advcl prep aux
+the cosine with degree achieving between to
+pobj compound dobj pobj
+scheme match accuracy mention
+compound compound det prep det cc conj
+IDF weighting an of a and entity
+compound punct pobj det
+TF - % an
+nummod
+82
+quantmod
+around
+
+57
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%    verb: achieving
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct cc conj
+SemTag base5 , and employs
+det compound compound dobj advcl
+the TAP knowledge similarity compute
+det amod prep aux dobj prep punct advcl
+the cosine with to degree between , achieving
+pobj det compound pobj dobj
+scheme the match mention accuracy
+compound compound det cc conj det prep
+IDF weighting a and entity an of
+compound punct det pobj
+TF - an %
+nummod
+82
+quantmod
+around
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct cc conj
+SemTag base5 , and employs
+det compound compound dobj advcl
+the TAP knowledge similarity compute
+det amod prep aux dobj prep punct advcl
+the cosine with to degree between , achieving
+pobj det compound pobj obj
+scheme the match mention accuracy
+compound compound det cc conj prep
+IDF weighting a and entity of
+compound punct det pobj
+TF - an %
+nummod
+82
+quantmod
+around
+
+58
+LSD is an extensible framework, which employs several schema-based matchers.    verb: employs
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+LSD framework .
+det amod punct relcl
+an extensible , employs
+nsubj dobj
+which matchers
+amod amod
+several based
+npadvmod punct
+schema -
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj punct relcl
+LSD . employs
+subj obj
+framework matchers
+mod punct mod
+extensible ,  several based
+
+59
+LSD is an extensible framework, which employs several schema-based matchers.    verb: based
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+LSD framework .
+det amod punct relcl
+an extensible , employs
+nsubj dobj
+which matchers
+amod amod
+several based
+npadvmod punct
+schema -
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj attr punct
+LSD framework .
+det amod punct relcl
+an extensible , employs
+nsubj dobj
+which matchers
+amod amod
+several based
+mod
+schema
+
+60
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate    verb: employs
+initial Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp
+employs , it expensive
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp
+employs , it expensive
+subj obj mod advmod xcomp
+analysis features widely computationally integrate
+compound mod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+61
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate    verb: integrate
+initial Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp
+employs , it expensive
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+advcl punct nsubj acomp
+employs , it expensive
+mark nsubj advmod dobj advmod xcomp
+As analysis widely features computationally integrate
+compound amod aux
+PAS global to
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+62
 A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.    verb: employs
 initial Tree:
 ROOT
@@ -29,7 +4623,7 @@ based Metropolis
 npadvmod punct
 cycle -
 
-1
+63
 A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.    verb: based
 initial Tree:
 ROOT
@@ -60,143 +4654,2411 @@ based Metropolis
 mod
 cycle
 
-2
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.    verb: employs
+64
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions    verb: Modeling
 initial Tree:
 ROOT
-is
+enables
 ROOT
-is
-advcl punct nsubj acomp punct
-employs , it expensive .
-mark nsubj advmod dobj advmod xcomp
-As analysis widely features computationally integrate
-compound amod aux
-PAS global to
-cc conj
-and wide
-npadvmod punct
-sentence -
+enables
+csubj preconj dobj xcomp
+Modeling not us make
+dobj advmod aux dobj
+positions only to predictions
+det prep amod amod
+the of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
 
 
 transformed Tree:
 ROOT
-is
+enables
 ROOT
-is
-advcl punct nsubj acomp punct
-employs , it expensive .
-subj obj mod advmod xcomp
-analysis features widely computationally integrate
-compound mod aux
-PAS global to
-cc conj
-and wide
-npadvmod punct
-sentence -
+enables
+csubj preconj dobj xcomp
+Modeling not us make
+obj advmod aux dobj
+positions only to predictions
+prep amod amod
+of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+65
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions    verb: moving
+initial Tree:
+ROOT
+enables
+ROOT
+enables
+csubj preconj dobj xcomp
+Modeling not us make
+dobj advmod aux dobj
+positions only to predictions
+det prep amod amod
+the of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+
+transformed Tree:
+ROOT
+enables
+ROOT
+enables
+csubj preconj dobj xcomp
+Modeling not us make
+dobj advmod aux dobj
+positions only to predictions
+det prep amod amod
+the of tentative future
+pcomp
+moving
+obj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+66
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions    verb: enables
+initial Tree:
+ROOT
+enables
+ROOT
+enables
+csubj preconj dobj xcomp
+Modeling not us make
+dobj advmod aux dobj
+positions only to predictions
+det prep amod amod
+the of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+
+transformed Tree:
+ROOT
+enables
+ROOT
+enables
+subj obj xcomp preconj
+Modeling us make not
+obj aux dobj advmod
+positions to predictions only
+det prep amod amod
+the of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+67
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions    verb: make
+initial Tree:
+ROOT
+enables
+ROOT
+enables
+csubj preconj dobj xcomp
+Modeling not us make
+dobj advmod aux dobj
+positions only to predictions
+det prep amod amod
+the of tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+
+transformed Tree:
+ROOT
+enables
+ROOT
+enables
+csubj preconj dobj xcomp
+Modeling not us make
+dobj advmod obj aux
+positions only predictions to
+det prep mod
+the of  tentative future
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+68
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.    verb: Doing
+initial Tree:
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound mark nsubj aux neg prep advmod
+Popular that sketches can not with all
+compound advmod
+proof at
+
+69
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.    verb: enables
+initial Tree:
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound mark nsubj aux neg prep advmod
+Popular that sketches can not with all
+compound advmod
+proof at
+
+70
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.    verb: answer
+initial Tree:
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound mark nsubj aux neg prep advmod
+Popular that sketches can not with all
+compound advmod
+proof at
+
+71
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.    verb: can
+initial Tree:
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound mark nsubj aux neg prep advmod
+Popular that sketches can not with all
+compound advmod
+proof at
+
+
+transformed Tree:
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound mark nsubj aux neg prep advmod
+Popular that sketches can not with all
+compound advmod
+proof at
+
+72
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.    verb: deal
+initial Tree:
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound mark nsubj aux neg prep advmod
+Popular that sketches can not with all
+compound advmod
+proof at
+
+
+transformed Tree:
+ROOT
+Items
+ROOT
+Items
+punct compound punct appos punct relcl punct
+, Frequent , Items ) deal .
+compound subj mod neg prep aux
+Popular sketches all not with can
+compound advmod
+proof at
+
+0
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.    verb: waiting
+initial Tree:
+ROOT
+bringing
+ROOT
+bringing
+advcl punct nsubj aux dobj punct cc conj punct
+is , it is xCloud , or calls .
+mark expl attr mark nsubj dobj punct npadvmod punct prep
+If there thing as Microsoft it , Gaming , to
+nummod relcl compound pobj
+one waiting Cloud PC
+nsubj aux aux prep det
+fans have been for the
+amod compound pobj
+many Xbox that
+
+
+transformed Tree:
+ROOT
+bringing
+ROOT
+bringing
+advcl punct nsubj aux dobj punct cc conj punct
+is , it is xCloud , or calls .
+mark expl attr mark nsubj dobj punct npadvmod punct prep
+If there thing as Microsoft it , Gaming , to
+nummod relcl compound pobj
+one waiting Cloud PC
+subj prep aux det
+fans for havebeen the
+mod compound pobj
+many Xbox that
+
+1
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.    verb: bringing
+initial Tree:
+ROOT
+bringing
+ROOT
+bringing
+advcl punct nsubj aux dobj punct cc conj punct
+is , it is xCloud , or calls .
+mark expl attr mark nsubj dobj punct npadvmod punct prep
+If there thing as Microsoft it , Gaming , to
+nummod relcl compound pobj
+one waiting Cloud PC
+nsubj aux aux prep det
+fans have been for the
+amod compound pobj
+many Xbox that
+
+
+transformed Tree:
+ROOT
+bringing
+ROOT
+bringing
+subj obj advcl conj cc aux
+it xCloud is calls or is
+mark expl attr mark nsubj dobj punct npadvmod punct prep
+If there thing as Microsoft it , Gaming , to
+nummod relcl compound pobj
+one waiting Cloud PC
+nsubj aux aux prep det
+fans have been for the
+amod compound pobj
+many Xbox that
+
+2
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.    verb: calls
+initial Tree:
+ROOT
+bringing
+ROOT
+bringing
+advcl punct nsubj aux dobj punct cc conj punct
+is , it is xCloud , or calls .
+mark expl attr mark nsubj dobj punct npadvmod punct prep
+If there thing as Microsoft it , Gaming , to
+nummod relcl compound pobj
+one waiting Cloud PC
+nsubj aux aux prep det
+fans have been for the
+amod compound pobj
+many Xbox that
+
+
+transformed Tree:
+ROOT
+bringing
+ROOT
+bringing
+advcl punct nsubj aux dobj punct cc conj punct
+is , it is xCloud , or calls .
+mark expl attr subj obj mod prep punct
+If there thing Microsoft it Gaming to ,,
+nummod relcl compound pobj
+one waiting Cloud PC
+nsubj aux aux prep det
+fans have been for the
+amod compound pobj
+many Xbox that
 
 3
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.    verb: integrate
+It has been an odd omission in the Cloud Gaming narrative so far but that should be changing in the near future.    verb: should
 initial Tree:
 ROOT
-is
+been
 ROOT
-is
-advcl punct nsubj acomp punct
-employs , it expensive .
-mark nsubj advmod dobj advmod xcomp
-As analysis widely features computationally integrate
-compound amod aux
-PAS global to
-cc conj
-and wide
-npadvmod punct
-sentence -
+been
+nsubj aux attr advmod cc conj
+It has omission far but changing
+det amod prep advmod nsubj aux aux prep punct
+an odd in so that should be in .
+pobj pobj
+narrative future
+det compound det amod
+the Gaming the near
+compound
+Cloud
 
 
 transformed Tree:
 ROOT
-is
+been
 ROOT
-is
-advcl punct nsubj acomp punct
-employs , it expensive .
-mark nsubj advmod dobj advmod xcomp
-As analysis widely features computationally integrate
-compound amod aux
-PAS global to
-cc conj
-and wide
-npadvmod punct
-sentence -
+been
+nsubj aux attr advmod cc conj
+It has omission far but changing
+det amod prep advmod nsubj aux aux prep punct
+an odd in so that should be in .
+pobj pobj
+narrative future
+det compound det amod
+the Gaming the near
+compound
+Cloud
 
 4
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.    verb: support
+It has been an odd omission in the Cloud Gaming narrative so far but that should be changing in the near future.    verb: changing
 initial Tree:
 ROOT
-support
+been
 ROOT
-support
-prep punct nsubj aux neg dobj punct cc conj punct
-In , SciBORQ does not constraints , and provides .
-pobj compound aux neg dobj prep
-contrast error does not guarantees on
-prep pobj
-to margins
-pobj det compound prep
-BlinkDB the error for
-pobj
-results
+been
+nsubj aux attr advmod cc conj
+It has omission far but changing
+det amod prep advmod nsubj aux aux prep punct
+an odd in so that should be in .
+pobj pobj
+narrative future
+det compound det amod
+the Gaming the near
+compound
+Cloud
 
 
 transformed Tree:
 ROOT
-support
+been
 ROOT
-support
-subj obj neg conj cc prep aux
-SciBORQ constraints not provides and In does
-compound aux neg dobj prep pobj
-error does not guarantees on contrast
-pobj prep
-margins to
-det compound prep pobj
-the error for BlinkDB
-pobj
-results
+been
+nsubj aux attr advmod cc conj
+It has omission far but changing
+det amod prep advmod subj obj aux
+an odd in so that in shouldbe
+pobj obj
+narrative future
+det compound det amod
+the Gaming the near
+compound
+Cloud
 
 5
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.    verb: provides
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.    verb: announced
 initial Tree:
 ROOT
-support
+announced
 ROOT
-support
-prep punct nsubj aux neg dobj punct cc conj punct
-In , SciBORQ does not constraints , and provides .
-pobj compound aux neg dobj prep
-contrast error does not guarantees on
-prep pobj
-to margins
-pobj det compound prep
-BlinkDB the error for
-pobj
-results
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
 
 
 transformed Tree:
 ROOT
-support
+announced
 ROOT
-support
-prep punct aux neg dobj punct cc conj punct
-In , does not constraints , and provides .
-pobj compound subj obj neg prep aux
-contrast error SciBORQ guarantees not on does
-prep pobj
-to margins
-pobj det compound prep
-BlinkDB the error for
+announced
+subj obj mod prep
+Microsoft added Back to
+nsubjpass conj cc aux auxpass mark prep pobj
+iOS starting and would be that in experience
+cc conj advmod nsubj aux xcomp pobj det compound prep
+and PC now we are see December the xCloud in
+aux dobj prep pobj
+to bit towards spring
+det amod prep pcomp det prep
+a little of meeting the of
+pobj dobj pobj
+progress objective 2021
+det
+that
+
+6
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.    verb: would
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+7
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.    verb: added
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep subj conj cc prep aux auxpass
+in iOS starting and to would be
+pobj conj cc advmod nsubj aux xcomp pobj
+December PC and now we are see experience
+aux dobj prep det compound prep
+to bit towards the xCloud in
+det amod prep pcomp pobj
+a little of meeting spring
+pobj dobj det prep
+progress objective the of
+det pobj
+that 2021
+
+8
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.    verb: starting
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj subj obj mod aux
+December and PC experience we see now are
+det compound prep obj prep aux
+the xCloud in bit towards to
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+9
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.    verb: see
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep obj prep aux
+the xCloud in bit towards to
+pobj mod prep pcomp
+spring little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+10
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.    verb: meeting
+initial Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj dobj
+the of progress objective
+pobj det
+2021 that
+
+
+transformed Tree:
+ROOT
+announced
+ROOT
+announced
+advmod punct nsubj ccomp punct
+Back , Microsoft added .
+prep mark nsubjpass aux auxpass prep cc conj
+in that iOS would be to and starting
+pobj cc conj pobj advmod nsubj aux xcomp
+December and PC experience now we are see
+det compound prep aux dobj prep
+the xCloud in to bit towards
+pobj det amod prep pcomp
+spring a little of meeting
+det prep pobj obj
+the of progress objective
 pobj
-results
+2021
+
+11
+During the past couple of weeks, Microsoft has rolled out ‘Cloud Gaming’, via the browser, to a large group of users inside of Microsoft.    verb: rolled
+initial Tree:
+ROOT
+rolled
+ROOT
+rolled
+prep punct nsubj aux prt punct dobj punct prep punct prep punct
+During , Microsoft has out ‘ Gaming , via , to .
+pobj compound punct pobj pobj
+couple Cloud ’ browser group
+det amod prep det det amod prep prep
+the past of the a large of inside
+pobj pobj prep
+weeks users of
+pobj
+Microsoft
+
+
+transformed Tree:
+ROOT
+rolled
+ROOT
+rolled
+subj obj prep aux prt
+Microsoft Gaming Duringviato has out
+compound punct
+Cloud ’
+
+12
+To date, this is the largest group of cloud gaming beta testers for the PC iteration of the service and this is one of the last steps before it is offered publicly in a preview state.    verb: offered
+initial Tree:
+ROOT
+is
+ROOT
+is
+prep punct nsubj attr cc conj
+To , this group and is
+pobj det amod prep prep nsubj attr punct
+date the largest of for this one .
+pobj pobj prep
+testers iteration of
+compound compound det compound prep pobj
+gaming beta the PC of steps
+compound pobj det amod advcl
+cloud service the last offered
+det mark nsubjpass auxpass advmod prep
+the before it is publicly in
+pobj
+state
+det compound
+a preview
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+prep punct nsubj attr cc conj
+To , this group and is
+pobj det amod prep prep nsubj attr punct
+date the largest of for this one .
+pobj pobj prep
+testers iteration of
+compound compound det compound prep pobj
+gaming beta the PC of steps
+compound pobj det amod advcl
+cloud service the last offered
+det subj obj mod auxpass
+the it in publicly is
+obj
+state
+det compound
+a preview
+
+13
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.    verb: testing
+initial Tree:
+ROOT
+’s
+ROOT
+’s
+cc nsubj xcomp punct
+but that expected .
+aux auxpass
+to be
+
+14
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.    verb: report
+initial Tree:
+ROOT
+’s
+ROOT
+’s
+cc nsubj xcomp punct
+but that expected .
+aux auxpass
+to be
+
+15
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.    verb: ’s
+initial Tree:
+ROOT
+’s
+ROOT
+’s
+cc nsubj xcomp punct
+but that expected .
+aux auxpass
+to be
+
+
+transformed Tree:
+ROOT
+’s
+ROOT
+’s
+subj obj cc
+that expected but
+aux auxpass
+to be
+
+16
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.    verb: expected
+initial Tree:
+ROOT
+’s
+ROOT
+’s
+cc nsubj xcomp punct
+but that expected .
+aux auxpass
+to be
+
+
+transformed Tree:
+ROOT
+’s
+ROOT
+’s
+cc nsubj xcomp punct
+but that expected .
+aux auxpass
+to be
+
+17
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.    verb: works
+initial Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+
+transformed Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+subj mod prep nmod aux dobj mark nsubj xcomp
+service Alsoonly withat Firefox to habits if they use
+compound cc conj poss compound aux dobj
+streaming and Safari their browsing to service
+det
+the
+
+18
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.    verb: will
+initial Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+
+transformed Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+19
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.    verb: need
+initial Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+
+transformed Tree:
+ROOT
+need
+ROOT
+need
+subj obj advcl aux
+users workschange want will
+mod mark nsubj xcomp
+Firefox if they use
+cc conj aux dobj
+and Safari to service
+det
+the
+
+20
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.    verb: change
+initial Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+
+transformed Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod obj aux mark nsubj xcomp
+Also , service only with at Firefox habits to if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+21
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.    verb: browsing
+initial Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+
+transformed Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+22
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.    verb: want
+initial Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+
+transformed Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj subj obj
+Also , service only with at Firefox to habits they use
+det compound pobj pobj cc conj poss compound obj aux
+the streaming Chrome time and Safari their browsing service to
+cc conj det det
+and Edge this the
+
+23
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.    verb: use
+initial Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound aux dobj
+the streaming Chrome time and Safari their browsing to service
+cc conj det det
+and Edge this the
+
+
+transformed Tree:
+ROOT
+need
+ROOT
+need
+ccomp punct nsubj aux xcomp advcl punct
+works , users will change want .
+advmod punct nsubj advmod prep prep nmod aux dobj mark nsubj xcomp
+Also , service only with at Firefox to habits if they use
+det compound pobj pobj cc conj poss compound obj aux
+the streaming Chrome time and Safari their browsing service to
+cc conj det
+and Edge this
+
+24
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.    verb: stand
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj mark nsubj aux xcomp
+One am time if app is exist
+mark nsubj neg acomp det det nmod prep aux advcl
+that I not sure this the stand for to makes
+advmod prep punct advmod pobj advmod nsubj dobj
+entirely of - alone Gaming when service debut
+compound det poss amod
+Cloud the its public
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj mark nsubj aux xcomp
+One am time if app is exist
+mark nsubj neg acomp det det nmod prep aux advcl
+that I not sure this the stand for to makes
+advmod prep mod pobj advmod nsubj dobj
+entirely of alone Gaming when service debut
+compound det poss amod
+Cloud the its public
+
+25
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.    verb: going
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj mark nsubj aux xcomp
+One am time if app is exist
+mark nsubj neg acomp det det nmod prep aux advcl
+that I not sure this the stand for to makes
+advmod prep punct advmod pobj advmod nsubj dobj
+entirely of - alone Gaming when service debut
+compound det poss amod
+Cloud the its public
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj subj obj aux prep advcl
+One am time app exist is for makes
+mark nsubj neg acomp det mod aux pobj advmod nsubj dobj
+that I not sure this stand to Gaming when service debut
+advmod prep punct advmod compound det poss amod
+entirely of - alone Cloud the its public
+
+26
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.    verb: exist
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj mark nsubj aux xcomp
+One am time if app is exist
+mark nsubj neg acomp det det nmod prep aux advcl
+that I not sure this the stand for to makes
+advmod prep punct advmod pobj advmod nsubj dobj
+entirely of - alone Gaming when service debut
+compound det poss amod
+Cloud the its public
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj mark nsubj aux xcomp
+One am time if app is exist
+mark nsubj neg acomp det det nmod prep advcl aux
+that I not sure this the stand for makes to
+advmod prep punct advmod pobj advmod nsubj dobj
+entirely of - alone Gaming when service debut
+compound det poss amod
+Cloud the its public
+
+27
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.    verb: makes
+initial Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj mark nsubj aux xcomp
+One am time if app is exist
+mark nsubj neg acomp det det nmod prep aux advcl
+that I not sure this the stand for to makes
+advmod prep punct advmod pobj advmod nsubj dobj
+entirely of - alone Gaming when service debut
+compound det poss amod
+Cloud the its public
+
+
+transformed Tree:
+ROOT
+is
+ROOT
+is
+nsubj prep ccomp punct
+thing at going .
+nummod relcl pobj mark nsubj aux xcomp
+One am time if app is exist
+mark nsubj neg acomp det det nmod prep aux advcl
+that I not sure this the stand for to makes
+advmod prep punct advmod pobj subj obj mod
+entirely of - alone Gaming service debut when
+compound mod poss
+Cloud public its
+
+28
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.    verb: leaked
+initial Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl mark nsubj aux aux advmod prep punct
+Late last an leaked allowed that experience may be away in .
+nsubj nsubj ccomp compound pobj
+that that play app favor
+nsubj aux dobj prep advmod prep
+you to xCloud on through of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+
+transformed Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl cc conj relcl
+year , there but going leaked
+advmod amod mark nsubj aux aux advmod prep punct subj relcl
+Late last that experience may be away in . app allowed
+compound pobj nsubj ccomp
+app favor that play
+prep nsubj aux dobj prep advmod
+of you to xCloud on through
+pobj pobj
+solution PC
+det compound poss
+the browser your
+
+29
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.    verb: allowed
+initial Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl mark nsubj aux aux advmod prep punct
+Late last an leaked allowed that experience may be away in .
+nsubj nsubj ccomp compound pobj
+that that play app favor
+nsubj aux dobj prep advmod prep
+you to xCloud on through of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+
+transformed Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl cc conj relcl
+year , there but going allowed
+advmod amod mark nsubj aux aux advmod prep punct subj obj relcl
+Late last that experience may be away in . app play leaked
+compound pobj nsubj obj mod prep aux nsubj
+app favor you xCloud through on to that
+prep pobj
+of PC
+pobj poss
+solution your
+det compound
+the browser
+
+30
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.    verb: play
+initial Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl mark nsubj aux aux advmod prep punct
+Late last an leaked allowed that experience may be away in .
+nsubj nsubj ccomp compound pobj
+that that play app favor
+nsubj aux dobj prep advmod prep
+you to xCloud on through of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+
+transformed Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl mark nsubj aux aux advmod prep punct
+Late last an leaked allowed that experience may be away in .
+nsubj nsubj ccomp compound pobj
+that that play app favor
+subj obj mod prep aux prep
+you xCloud through on to of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+31
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.    verb: may
+initial Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl mark nsubj aux aux advmod prep punct
+Late last an leaked allowed that experience may be away in .
+nsubj nsubj ccomp compound pobj
+that that play app favor
+nsubj aux dobj prep advmod prep
+you to xCloud on through of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+
+transformed Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl mark nsubj aux aux advmod prep punct
+Late last an leaked allowed that experience may be away in .
+nsubj nsubj ccomp compound pobj
+that that play app favor
+nsubj aux dobj prep advmod prep
+you to xCloud on through of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+32
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.    verb: going
+initial Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl mark nsubj aux aux advmod prep punct
+Late last an leaked allowed that experience may be away in .
+nsubj nsubj ccomp compound pobj
+that that play app favor
+nsubj aux dobj prep advmod prep
+you to xCloud on through of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+
+transformed Tree:
+ROOT
+was
+ROOT
+was
+npadvmod punct expl attr cc conj
+year , there app but going
+advmod amod det relcl relcl subj obj mod aux punct
+Late last an leaked allowed experience in away maybe .
+nsubj nsubj ccomp compound obj
+that that play app favor
+nsubj aux dobj prep advmod prep
+you to xCloud on through of
+pobj pobj
+PC solution
+poss det compound
+your the browser
+
+33
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: could
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+34
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: choose
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+subj obj mod aux advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft offer still could after the ‘ ’ a web - substance moving .
+obj aux det mark nsubj aux advmod prep
+solutions to the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+35
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: offer
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+obj aux det mark nsubj aux advmod prep
+solutions to the that Gaming is forward at
+compound prep pobj
+Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+36
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: could
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+37
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: moving
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det subj mod prep aux
+to solutions the Gaming forward at is
+det prep compound pobj
+both on Cloud rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+38
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: should
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+39
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: allow
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep relcl
+both Cloud on allow
+pobj subj obj aux
+PC rate meet should
+det nsubj obj aux
+the Microsoft goal to
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+40
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.    verb: meet
+initial Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+nsubj aux dobj
+Microsoft to goal
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+ccomp punct advmod punct nsubj aux advmod attr cc conj
+choose , all , app could just wrapper but is
+nsubj aux advmod xcomp advmod det punct punct det compound punct nsubj ccomp punct
+Microsoft could still offer after the ‘ ’ a web - substance moving .
+aux dobj det mark nsubj aux advmod prep
+to solutions the that Gaming is forward at
+det compound prep pobj
+both Cloud on rate
+pobj det relcl
+PC a allow
+det nsubj aux ccomp
+the that should meet
+subj obj aux
+Microsoft goal to
+mod poss prep
+stated its of
+pobj
+release
+det compound
+a spring
+
+41
+That being said, the iOS iteration of the service does not appear to be as far along in the testing phases as the PC but that solution is a bit more complicated thanks to Apple’s store policies.    verb: said
+initial Tree:
+ROOT
+appear
+ROOT
+appear
+advcl punct nsubj aux neg xcomp cc conj
+said , iteration does not be but is
+nsubjpass auxpass det amod prep aux advmod nsubj attr punct
+That being the iOS of to far solution thanks .
+pobj advmod prep det amod prep
+service as along that complicated to
+det prep advmod pobj
+the in more policies
+pobj npadvmod poss compound
+phases bit Apple store
+det compound prep det case
+the testing as a ’s
+pobj
+PC
+det
+the
+
+
+transformed Tree:
+ROOT
+appear
+ROOT
+appear
+advcl punct nsubj aux neg xcomp cc conj
+said , iteration does not be but is
+subj auxpass det amod prep aux advmod nsubj attr punct
+That being the iOS of to far solution thanks .
+pobj advmod prep det amod prep
+service as along that complicated to
+det prep advmod pobj
+the in more policies
+pobj npadvmod poss compound
+phases bit Apple store
+det compound prep det case
+the testing as a ’s
+pobj
+PC
+det
+the
+
+42
+That being said, the iOS iteration of the service does not appear to be as far along in the testing phases as the PC but that solution is a bit more complicated thanks to Apple’s store policies.    verb: appear
+initial Tree:
+ROOT
+appear
+ROOT
+appear
+advcl punct nsubj aux neg xcomp cc conj
+said , iteration does not be but is
+nsubjpass auxpass det amod prep aux advmod nsubj attr punct
+That being the iOS of to far solution thanks .
+pobj advmod prep det amod prep
+service as along that complicated to
+det prep advmod pobj
+the in more policies
+pobj npadvmod poss compound
+phases bit Apple store
+det compound prep det case
+the testing as a ’s
+pobj
+PC
+det
+the
+
+
+transformed Tree:
+ROOT
+appear
+ROOT
+appear
+subj obj advcl neg conj cc aux
+iteration be said not is but does
+mod prep mod aux nsubjpass auxpass nsubj attr punct
+iOS of far to That being solution thanks .
+pobj advmod prep det amod prep
+service as along that complicated to
+det prep advmod pobj
+the in more policies
+pobj npadvmod poss compound
+phases bit Apple store
+det compound prep det case
+the testing as a ’s
+pobj
+PC
+det
+the
+
+43
+xCloud initially launched on Android and those users can stream games today.    verb: launched
+initial Tree:
+ROOT
+launched
+ROOT
+launched
+nsubj advmod prep conj
+xCloud initially on stream
+pobj nsubj aux dobj npadvmod punct
+Android users can games today .
+cc det
+and those
+
+
+transformed Tree:
+ROOT
+launched
+ROOT
+launched
+subj mod conj prep
+xCloud initially stream on
+nsubj aux dobj npadvmod punct pobj
+users can games today . Android
+det cc
+those and
+
+44
+xCloud initially launched on Android and those users can stream games today.    verb: can
+initial Tree:
+ROOT
+launched
+ROOT
+launched
+nsubj advmod prep conj
+xCloud initially on stream
+pobj nsubj aux dobj npadvmod punct
+Android users can games today .
+cc det
+and those
+
+
+transformed Tree:
+ROOT
+launched
+ROOT
+launched
+nsubj advmod prep conj
+xCloud initially on stream
+pobj nsubj aux dobj npadvmod punct
+Android users can games today .
+cc det
+and those
+
+45
+xCloud initially launched on Android and those users can stream games today.    verb: stream
+initial Tree:
+ROOT
+launched
+ROOT
+launched
+nsubj advmod prep conj
+xCloud initially on stream
+pobj nsubj aux dobj npadvmod punct
+Android users can games today .
+cc det
+and those
+
+
+transformed Tree:
+ROOT
+launched
+ROOT
+launched
+nsubj advmod prep conj
+xCloud initially on stream
+pobj subj obj mod aux
+Android users games today can
+cc
+and
+
+46
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.    verb: enabling
+initial Tree:
+ROOT
+open
+ROOT
+open
+cc prep punct csubj aux prt dobj prep punct
+But with , enabling will up world to .
+pobj dobj xcomp det prep pobj
+billions platforms stream the of audience
+prep det aux dobj pobj det amod compound
+of these to games Xbox a larger gaming
+pobj det advmod
+users the much
+amod prep
+more on
+pobj
+PC
+cc conj
+and iOS
+
+
+transformed Tree:
+ROOT
+open
+ROOT
+open
+cc prep punct csubj aux prt dobj prep punct
+But with , enabling will up world to .
+pobj subj obj det prep pobj
+billions stream platforms the of audience
+prep obj aux pobj det amod compound
+of games to Xbox a larger gaming
+pobj det advmod
+users the much
+amod prep
+more on
+pobj
+PC
+cc conj
+and iOS
+
+47
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.    verb: stream
+initial Tree:
+ROOT
+open
+ROOT
+open
+cc prep punct csubj aux prt dobj prep punct
+But with , enabling will up world to .
+pobj dobj xcomp det prep pobj
+billions platforms stream the of audience
+prep det aux dobj pobj det amod compound
+of these to games Xbox a larger gaming
+pobj det advmod
+users the much
+amod prep
+more on
+pobj
+PC
+cc conj
+and iOS
+
+
+transformed Tree:
+ROOT
+open
+ROOT
+open
+cc prep punct csubj aux prt dobj prep punct
+But with , enabling will up world to .
+pobj dobj xcomp det prep pobj
+billions platforms stream the of audience
+prep det obj aux pobj det amod compound
+of these games to Xbox a larger gaming
+pobj advmod
+users much
+amod prep
+more on
+pobj
+PC
+cc conj
+and iOS
+
+48
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.    verb: will
+initial Tree:
+ROOT
+open
+ROOT
+open
+cc prep punct csubj aux prt dobj prep punct
+But with , enabling will up world to .
+pobj dobj xcomp det prep pobj
+billions platforms stream the of audience
+prep det aux dobj pobj det amod compound
+of these to games Xbox a larger gaming
+pobj det advmod
+users the much
+amod prep
+more on
+pobj
+PC
+cc conj
+and iOS
+
+
+transformed Tree:
+ROOT
+open
+ROOT
+open
+cc prep punct csubj aux prt dobj prep punct
+But with , enabling will up world to .
+pobj dobj xcomp det prep pobj
+billions platforms stream the of audience
+prep det aux dobj pobj det amod compound
+of these to games Xbox a larger gaming
+pobj det advmod
+users the much
+amod prep
+more on
+pobj
+PC
+cc conj
+and iOS
+
+49
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.    verb: open
+initial Tree:
+ROOT
+open
+ROOT
+open
+cc prep punct csubj aux prt dobj prep punct
+But with , enabling will up world to .
+pobj dobj xcomp det prep pobj
+billions platforms stream the of audience
+prep det aux dobj pobj det amod compound
+of these to games Xbox a larger gaming
+pobj det advmod
+users the much
+amod prep
+more on
+pobj
+PC
+cc conj
+and iOS
+
+
+transformed Tree:
+ROOT
+open
+ROOT
+open
+subj obj cc prep aux prt
+enabling world But withto will up
+obj xcomp prep
+platforms stream of
+det aux dobj pobj
+these to games Xbox
+det
+the
+
+0
+No cat would eat Tastey Bites.    verb: eat
+initial Tree:
+ROOT
+eat
+ROOT
+eat
+nsubj aux dobj punct
+cat would Bites .
+det amod
+No Tastey
+
+
+transformed Tree:
+ROOT
+eat
+ROOT
+eat
+subj obj aux
+cat Bites would
+det mod
+No Tastey
+
+1
+Sasha never tries to do well in Calculus.    verb: tries
+initial Tree:
+ROOT
+tries
+ROOT
+tries
+nsubj neg xcomp punct
+Sasha never do .
+aux advmod prep
+to well in
+pobj
+Calculus
+
+
+transformed Tree:
+ROOT
+tries
+ROOT
+tries
+subj obj neg
+Sasha do never
+mod prep aux
+well in to
+pobj
+Calculus
+
+2
+The computer uses no Intel chips.    verb: uses
+initial Tree:
+ROOT
+uses
+ROOT
+uses
+nsubj dobj punct
+computer chips .
+det det compound
+The no Intel
+
+
+transformed Tree:
+ROOT
+uses
+ROOT
+uses
+subj obj
+computer chips
+det compound
+no Intel
+
+3
+Never had a person play checkers so well.    verb: play
+initial Tree:
+ROOT
+had
+ROOT
+had
+neg ccomp punct
+Never play .
+nsubj dobj advmod
+person checkers well
+det advmod
+a so
+
+
+transformed Tree:
+ROOT
+had
+ROOT
+had
+neg ccomp punct
+Never play .
+subj obj mod
+person checkers well
+advmod
+so
+
+4
+Lily tries to not bother her teacher.    verb: tries
+initial Tree:
+ROOT
+tries
+ROOT
+tries
+nsubj xcomp punct
+Lily bother .
+aux neg dobj
+to not teacher
+poss
+her
+
+
+transformed Tree:
+ROOT
+tries
+ROOT
+tries
+subj obj
+Lily bother
+obj neg aux
+teacher not to
+poss
+her
+
+5
+Lily tries to not bother her teacher.    verb: bother
+initial Tree:
+ROOT
+tries
+ROOT
+tries
+nsubj xcomp punct
+Lily bother .
+aux neg dobj
+to not teacher
+poss
+her
+
+
+transformed Tree:
+ROOT
+tries
+ROOT
+tries
+nsubj xcomp punct
+Lily bother .
+obj neg aux
+teacher not to
+poss
+her
+
+0
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.    verb: be
+initial Tree:
+ROOT
+be
+ROOT
+be
+nsubj aux attr punct cc conj
+Japan may market , and is
+det amod advcl nsubj advmod prep prep punct
+a tough penetrate U.S. hopelessly behind in .
+mark nsubj aux det pobj pobj
+for outsiders to the Japan technologies
+amod
+certain
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+subj obj conj cc aux advcl
+Japan market is and may penetrate
+mod nsubj advmod prep prep punct mark nsubj aux
+tough U.S. hopelessly behind in . for outsiders to
+det pobj pobj
+the Japan technologies
+amod
+certain
+
+0
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.    verb: is
+initial Tree:
+ROOT
+be
+ROOT
+be
+nsubj aux attr punct cc conj
+Japan may market , and is
+det amod advcl nsubj advmod prep prep punct
+a tough penetrate U.S. hopelessly behind in .
+mark nsubj aux det pobj pobj
+for outsiders to the Japan technologies
+amod
+certain
+
+
+transformed Tree:
+ROOT
+be
+ROOT
+be
+nsubj aux attr punct cc conj
+Japan may market , and is
+det amod advcl subj obj mod prep
+a tough penetrate U.S. in hopelessly behind
+mark nsubj aux obj pobj
+for outsiders to technologies Japan
+amod
+certain
 

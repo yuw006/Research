@@ -1,4 +1,2805 @@
 0
+Trump withdrew his sponsorship after the second Tour de Trump in 1990 because his business ventures were experiencing financial woes.
+reduction6 used
+reduction7 used
+reduction8to9 used
+
+verb: withdrew
+
+: subj:
+subj
+Trump
+subj
+Trump
+
+: obj:
+obj
+sponsorship
+obj
+sponsorship
+poss
+his
+
+Negation: False
+1
+Trump withdrew his sponsorship after the second Tour de Trump in 1990 because his business ventures were experiencing financial woes.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: experiencing
+
+: subj:
+subj
+ventures
+subj
+ventures
+poss compound
+his business
+
+: obj:
+obj
+woes
+obj
+woes
+mod
+financial
+
+Negation: False
+2
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+
+verb: will
+
+: subj:
+
+: obj:
+
+Negation: False
+3
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: announce
+
+: subj:
+subj
+Treasury
+subj
+Treasury
+
+: obj:
+obj
+details
+obj
+details
+prep
+of
+pobj
+refunding
+det compound
+the November
+
+Negation: False
+4
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+
+verb: refunding
+
+: subj:
+
+: obj:
+
+Negation: False
+5
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+
+verb: will
+
+: subj:
+
+: obj:
+
+Negation: False
+6
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: delayed
+
+: subj:
+subj
+funding
+subj
+funding
+
+: obj:
+
+Negation: False
+7
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: fail
+
+: subj:
+subj
+Congress
+subj
+Congress
+conj cc
+Bush and
+compound
+President
+
+: obj:
+obj
+increase
+obj
+increase
+obj aux
+capacity to
+poss compound
+Treasury borrowing
+det case
+the 's
+
+Negation: False
+8
+Although the Treasury will announce details of the November refunding on Monday, the funding will be delayed if Congress and President Bush fail to increase the Treasury's borrowing capacity.
+reduction8to9 used
+
+verb: increase
+
+: subj:
+
+: obj:
+obj
+capacity
+obj
+capacity
+poss compound
+Treasury borrowing
+det case
+the 's
+
+Negation: False
+9
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+reduction8to9 used
+
+verb: nominated
+
+: subj:
+subj
+He
+subj
+He
+
+: obj:
+obj
+Sotomayor
+obj
+Sotomayor
+compound
+Sonia
+
+Negation: False
+10
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+reduction8to9 used
+
+verb: replace
+
+: subj:
+
+: obj:
+obj
+Souter
+obj
+Souter
+compound
+David
+
+Negation: False
+11
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+growth3to4 used
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+subj_obj13 used
+
+verb: confirmed
+
+: subj:
+subj
+she
+subj
+she
+
+: obj:
+obj
+nominated
+obj
+nominated
+nsubj obj prep
+He Sotomayor on
+compound pobj
+Sonia May
+nummod punct nummod
+26 , 2009
+
+Negation: False
+12
+He nominated Sonia Sotomayor on May 26, 2009 to replace David Souter; she was confirmed on August 6, 2009, becoming the first Supreme Court Justice of Hispanic descent.
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: becoming
+
+: subj:
+
+: obj:
+obj
+Justice
+obj
+Justice
+mod prep compound
+first of Court
+pobj compound
+descent Supreme
+amod
+Hispanic
+
+Negation: False
+13
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.
+
+verb: may
+
+: subj:
+
+: obj:
+
+Negation: False
+14
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.
+reduction7 used
+reduction8to9 used
+
+verb: penetrate
+
+: subj:
+subj
+outsiders
+subj
+outsiders
+
+: obj:
+
+Negation: False
+15
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.
+
+verb: can
+
+: subj:
+
+: obj:
+
+Negation: False
+16
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: pressed
+
+: subj:
+subj
+seeds
+subj
+seeds
+prep
+of
+pobj
+sativus
+punct compound punct
+" Raphanus "
+
+: obj:
+obj
+extract
+obj
+extract
+obj aux
+oil to
+compound
+seed
+compound
+radish
+
+Negation: False
+17
+The seeds of "Raphanus sativus" can be pressed to extract radish seed oil.
+reduction8to9 used
+
+verb: extract
+
+: subj:
+
+: obj:
+obj
+oil
+obj
+oil
+compound
+seed
+compound
+radish
+
+Negation: False
+18
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: wins
+
+: subj:
+subj
+he
+subj
+he
+
+: obj:
+obj
+states
+obj
+states
+mod mod
+five key
+
+Negation: False
+19
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.
+
+verb: will
+
+: subj:
+
+: obj:
+
+Negation: False
+20
+If he wins five key states, Republican candidate Mitt Romney will be elected President in 2008.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+
+verb: elected
+
+: subj:
+subj
+Romney
+subj
+Romney
+compound
+ candidate Mitt
+
+: obj:
+obj
+President
+obj
+President
+
+Negation: False
+21
+The pilot announced that there had to be made a special technical check of the aeroplane.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: announced
+
+: subj:
+subj
+pilot
+subj
+pilot
+
+: obj:
+obj
+had
+obj
+had
+expl xcomp mark
+there made that
+aux auxpass oprd
+to be check
+det amod amod prep
+a special technical of
+pobj
+aeroplane
+det
+the
+
+Negation: False
+22
+The pilot announced that there had to be made a special technical check of the aeroplane.
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: made
+
+: subj:
+
+: obj:
+obj
+check
+obj
+check
+mod prep
+ special technical of
+pobj
+aeroplane
+det
+the
+
+Negation: False
+23
+Obama criticized leaders who refuse to step off.
+reduction7 used
+reduction8to9 used
+subj_obj13 used
+
+verb: criticized
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+obj
+leaders
+obj
+leaders
+
+Negation: False
+24
+Obama criticized leaders who refuse to step off.
+growth3to4 used
+reduction8to9 used
+
+verb: refuse
+
+: subj:
+subj
+who
+subj
+who
+
+: obj:
+obj
+step
+obj
+step
+aux prt
+to off
+
+Negation: False
+25
+Obama criticized leaders who refuse to step off.
+
+verb: step
+
+: subj:
+
+: obj:
+
+Negation: False
+26
+Obama brought attention to the New York City Subway System , which was in a bad condition at the time.
+reduction7 used
+reduction8to9 used
+
+verb: brought
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+obj
+attention
+obj
+attention
+
+Negation: False
+27
+He returned to Kenya for a visit to his father's birthplace, a village near Kisumu in rural western Kenya.
+reduction6 used
+reduction7 used
+reduction8to9 used
+
+verb: returned
+
+: subj:
+subj
+He
+subj
+He
+
+: obj:
+
+Negation: False
+28
+Obama has talked about using alcohol, marijuana, and cocaine.
+reduction7 used
+reduction8to9 used
+
+verb: talked
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+
+Negation: False
+29
+Obama has talked about using alcohol, marijuana, and cocaine.
+reduction8to9 used
+
+verb: using
+
+: subj:
+
+: obj:
+obj
+alcohol
+obj
+alcohol
+conj punct
+marijuana ,
+punct cc conj
+, and cocaine
+
+Negation: False
+30
+Opening the drawer, he took out a revolver.
+reduction8to9 used
+subj_obj11 used
+
+verb: Opening
+
+: subj:
+
+: obj:
+obj
+drawer
+obj
+drawer
+
+Negation: False
+31
+Opening the drawer, he took out a revolver.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: took
+
+: subj:
+subj
+he
+subj
+he
+
+: obj:
+obj
+revolver
+obj
+revolver
+
+Negation: False
+32
+Fearing that the police would recognize him, he never went out in daylight.
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+
+verb: Fearing
+
+: subj:
+
+: obj:
+obj
+recognize
+obj
+recognize
+nsubj obj aux mark
+police him would that
+det
+the
+
+Negation: False
+33
+Fearing that the police would recognize him, he never went out in daylight.
+
+verb: would
+
+: subj:
+
+: obj:
+
+Negation: False
+34
+Fearing that the police would recognize him, he never went out in daylight.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: recognize
+
+: subj:
+subj
+police
+subj
+police
+
+: obj:
+obj
+him
+obj
+him
+
+Negation: False
+35
+Fearing that the police would recognize him, he never went out in daylight.
+growth3to4 used
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: went
+
+: subj:
+subj
+he
+subj
+he
+
+: obj:
+obj
+in
+obj
+in
+obj
+daylight
+
+Negation: True
+36
+Obama's election as the first black president of the Harvard Law Review gained national media attention.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: gained
+
+: subj:
+subj
+election
+subj
+election
+poss prep
+Obama as
+case pobj
+'s president
+det amod amod prep
+the first black of
+pobj
+Review
+det compound compound
+the Harvard Law
+
+: obj:
+obj
+attention
+obj
+attention
+mod compound
+national media
+
+Negation: False
+37
+Obama formally announced his candidacy in January 2003.
+reduction7 used
+reduction8to9 used
+
+verb: announced
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+obj
+candidacy
+obj
+candidacy
+poss
+his
+
+Negation: False
+38
+Obama delivered the keynote address at the 2004 Democratic National Convention.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: delivered
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+obj
+address
+obj
+address
+mod
+keynote
+
+Negation: False
+39
+Google announced the setting up of its largest campus outside the United States.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: announced
+
+: subj:
+subj
+Google
+subj
+Google
+
+: obj:
+obj
+setting
+obj
+setting
+prep prt
+of up
+pobj
+campus
+poss amod prep
+its largest outside
+pobj
+States
+det compound
+the United
+
+Negation: False
+40
+Obama commissioned a poll to assess his prospects in a 2004 U.S. Senate race.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: commissioned
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+obj
+poll
+obj
+poll
+
+Negation: False
+41
+Obama commissioned a poll to assess his prospects in a 2004 U.S. Senate race.
+reduction8to9 used
+
+verb: assess
+
+: subj:
+
+: obj:
+obj
+prospects
+obj
+prospects
+poss prep
+his in
+pobj
+race
+det nummod compound
+a 2004 Senate
+compound
+U.S.
+
+Negation: False
+42
+Obama served on the boards of directors of the Woods Fund of Chicago.
+reduction7 used
+reduction8to9 used
+
+verb: served
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+
+Negation: False
+43
+His mother spent most of the next two decades in Indonesia.
+reduction7 used
+reduction8to9 used
+
+verb: spent
+
+: subj:
+subj
+mother
+subj
+mother
+poss
+His
+
+: obj:
+obj
+most
+obj
+most
+prep
+of
+pobj
+decades
+det amod nummod
+the next two
+
+Negation: False
+44
+His remarks were made to a group of Marines preparing for deployment to Afghanistan.
+reduction7 used
+reduction8to9 used
+
+verb: made
+
+: subj:
+subj
+remarks
+subj
+remarks
+poss
+His
+
+: obj:
+
+Negation: False
+45
+His remarks were made to a group of Marines preparing for deployment to Afghanistan.
+
+verb: preparing
+
+: subj:
+
+: obj:
+
+Negation: False
+46
+Obama would become the first President to have been born in Hawaii.
+
+verb: would
+
+: subj:
+
+: obj:
+
+Negation: False
+47
+Obama would become the first President to have been born in Hawaii.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: become
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+obj
+President
+obj
+President
+mod
+first
+
+Negation: False
+48
+Obama would become the first President to have been born in Hawaii.
+growth1 used
+growth3to4 used
+reduction6 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: born
+
+: subj:
+subj
+President
+subj
+President
+mod
+first
+
+: obj:
+obj
+in
+obj
+in
+obj
+Hawaii
+
+Negation: False
+49
+This took place in July 2011.
+reduction7 used
+reduction8to9 used
+
+verb: took
+
+: subj:
+subj
+This
+subj
+This
+
+: obj:
+obj
+place
+obj
+place
+
+Negation: False
+50
+Radio France is headquartered in Paris' 16th arrondissement.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: headquartered
+
+: subj:
+subj
+France
+subj
+France
+compound
+Radio
+
+: obj:
+obj
+in
+obj
+in
+obj
+arrondissement
+poss amod
+Paris 16th
+case
+'
+
+Negation: False
+51
+Obama won with 70 percent of the vote.
+reduction7 used
+reduction8to9 used
+
+verb: won
+
+: subj:
+subj
+Obama
+subj
+Obama
+
+: obj:
+
+Negation: False
+52
+Obama’s parents divorced in March 1964.
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+
+verb: divorced
+
+: subj:
+
+: obj:
+obj
+in
+obj
+in
+obj
+March
+nummod
+1964
+
+Negation: False
+53
+Obama and Joe Biden were formally nominated by former President Bill Clinton.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: nominated
+
+: subj:
+subj
+ Obama by
+subj
+ Obama by
+obj conj cc
+Clinton Biden and
+compound compound compound
+President Bill Joe
+amod
+former
+
+: obj:
+
+Negation: False
+54
+It is the subdivision responsible for providing emergency services.
+reduction8to9 used
+
+verb: providing
+
+: subj:
+
+: obj:
+obj
+services
+obj
+services
+compound
+emergency
+
+Negation: False
+55
+The council plays a largely passive role in the city government.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: plays
+
+: subj:
+subj
+council
+subj
+council
+
+: obj:
+obj
+role
+obj
+role
+mod prep
+passive in
+advmod pobj
+largely government
+det compound
+the city
+
+Negation: False
+56
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: suggested
+
+: subj:
+subj
+survey
+subj
+survey
+mod prep
+1997 of
+pobj
+records
+amod amod cc conj
+early astronomical and drawings
+
+: obj:
+obj
+been
+obj
+been
+nsubj obj aux mark
+feature scar  may have that
+det amod compound acl det compound
+a certain surface discovered an impact
+amod agent prep
+dark by in
+pobj pobj
+Cassini 1690
+compound compound
+astronomer Giovanni
+
+Negation: False
+57
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+
+verb: discovered
+
+: subj:
+subj
+by
+subj
+by
+obj
+Cassini
+compound compound
+astronomer Giovanni
+
+: obj:
+obj
+in
+obj
+in
+obj
+1690
+
+Negation: False
+58
+A 1997 survey of early astronomical records and drawings suggested that a certain dark surface feature discovered by astronomer Giovanni Cassini in 1690 may have been an impact scar.
+
+verb: may
+
+: subj:
+
+: obj:
+
+Negation: False
+59
+He helped set up a job training program, a college preparatory tutoring program, and a tenants’ rights organization in Altgeld Gardens.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: helped
+
+: subj:
+subj
+He
+subj
+He
+
+: obj:
+obj
+set
+obj
+set
+obj prt
+program up
+det compound punct appos
+a training , program
+compound det nmod amod compound punct cc conj
+job a college preparatory tutoring , and organization
+poss compound prep
+tenants rights in
+det case pobj
+a ’ Gardens
+compound
+Altgeld
+
+Negation: False
+60
+He helped set up a job training program, a college preparatory tutoring program, and a tenants’ rights organization in Altgeld Gardens.
+reduction8to9 used
+subj_obj11 used
+
+verb: set
+
+: subj:
+
+: obj:
+obj
+program
+obj
+program
+appos compound punct
+program training ,
+det nmod amod compound punct cc conj compound
+a college preparatory tutoring , and organization job
+poss compound prep
+tenants rights in
+det case pobj
+a ’ Gardens
+compound
+Altgeld
+
+Negation: False
+61
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: fell
+
+: subj:
+subj
+stocks
+subj
+stocks
+mod
+Asian
+
+: obj:
+
+Negation: False
+62
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: rose
+
+: subj:
+subj
+yen
+subj
+yen
+
+: obj:
+
+Negation: False
+63
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+reduction7 used
+reduction8to9 used
+
+verb: simmered
+
+: subj:
+subj
+worries
+subj
+worries
+prep
+about
+pobj
+Korea
+compound
+North
+
+: obj:
+
+Negation: False
+64
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: said
+
+: subj:
+subj
+official
+subj
+official
+mod compound
+senior Pyongyang
+
+: obj:
+obj
+becoming
+obj
+becoming
+nsubj acomp aux punct
+U.S. vicious is “
+det advmod cc conj punct prep
+the more and aggressive ” under
+advmod pobj
+more Trump
+compound compound
+President Donald
+
+Negation: False
+65
+On Monday, Asian stocks fell anew and the yen rose to session highs in the afternoon as worries about North Korea simmered, after a senior Pyongyang official said the U.S. is becoming “more vicious and more aggressive” under President Donald Trump.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: becoming
+
+: subj:
+subj
+U.S.
+subj
+U.S.
+
+: obj:
+
+Negation: False
+0
+Bergsma et al (2013) show that large-scale clustering of user names improves gender, ethnicity and location classification on Twitter.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj12 used
+
+verb: show
+
+: subj:
+subj
+al
+subj
+al
+appos compound punct
+2013  Bergsma et )
+punct
+(
+
+: obj:
+obj
+improves
+obj
+improves
+nsubj obj prep mark
+clustering gender on that
+compound prep punct conj pobj
+scale of , ethnicity Twitter
+amod punct pobj cc conj
+large - names and classification
+compound compound
+user location
+
+Negation: False
+1
+Bergsma et al (2013) show that large-scale clustering of user names improves gender, ethnicity and location classification on Twitter.
+reduction7 used
+reduction8to9 used
+
+verb: improves
+
+: subj:
+subj
+clustering
+subj
+clustering
+prep compound
+of scale
+pobj amod punct
+names large -
+compound
+user
+
+: obj:
+obj
+gender
+obj
+gender
+conj punct
+ethnicity ,
+cc conj
+and classification
+compound
+location
+
+Negation: False
+2
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: improves
+
+: subj:
+subj
+al
+subj
+al
+appos compound punct
+2000  Stolcke et  ( , )
+
+: obj:
+obj
+method
+obj
+method
+mod
+original
+
+Negation: False
+3
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.
+reduction8to9 used
+subj_obj12 used
+
+verb: combining
+
+: subj:
+
+: obj:
+obj
+alternatives
+obj
+alternatives
+mod
+multiple
+
+Negation: False
+4
+N-Best ROVER (Stolcke et al, 2000) improves the original method by combining multiple alternatives from each combined system.
+
+verb: combined
+
+: subj:
+
+: obj:
+
+Negation: False
+5
+By partitioning the velocity space, the Bdual -tree improves the query performance of the B x -tree.
+reduction8to9 used
+subj_obj11 used
+
+verb: partitioning
+
+: subj:
+
+: obj:
+obj
+space
+obj
+space
+compound
+velocity
+
+Negation: False
+6
+By partitioning the velocity space, the Bdual -tree improves the query performance of the B x -tree.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: improves
+
+: subj:
+subj
+-tree
+subj
+-tree
+compound
+Bdual
+
+: obj:
+obj
+performance
+obj
+performance
+prep compound
+of query
+pobj
+-tree
+det compound
+the B
+punct
+x
+
+Negation: False
+7
+Japan’s Toshiba Corp said it had nominated Satoshi Tsunakawa, a former head of its medical equipment division, to be its next chief executive officer.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: said
+
+: subj:
+subj
+Corp
+subj
+Corp
+poss compound
+Japan Toshiba
+case
+’s
+
+: obj:
+obj
+nominated
+obj
+nominated
+nsubj obj aux
+it Tsunakawa had
+compound punct appos punct relcl
+Satoshi , head , be
+det amod prep aux attr
+a former of to officer
+pobj poss amod amod amod
+division its next chief executive
+poss compound
+its equipment
+amod
+medical
+
+Negation: False
+8
+Japan’s Toshiba Corp said it had nominated Satoshi Tsunakawa, a former head of its medical equipment division, to be its next chief executive officer.
+reduction8to9 used
+subj_obj10 used
+subj_obj13 used
+
+verb: nominated
+
+: subj:
+subj
+it
+subj
+it
+
+: obj:
+obj
+Tsunakawa
+obj
+Tsunakawa
+appos compound punct
+head Satoshi  , ,
+det amod prep
+a former of
+pobj
+division
+poss compound
+its equipment
+amod
+medical
+
+Negation: False
+9
+We stress that our method improves a supervised baseline.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: stress
+
+: subj:
+subj
+We
+subj
+We
+
+: obj:
+obj
+improves
+obj
+improves
+nsubj obj mark
+method baseline that
+poss det amod
+our a supervised
+
+Negation: False
+10
+We stress that our method improves a supervised baseline.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: improves
+
+: subj:
+subj
+method
+subj
+method
+poss
+our
+
+: obj:
+obj
+baseline
+obj
+baseline
+mod
+supervised
+
+Negation: False
+11
+We stress that our method improves a supervised baseline.
+
+verb: supervised
+
+: subj:
+
+: obj:
+
+Negation: False
+12
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj12 used
+
+verb: demonstrate
+
+: subj:
+subj
+2008
+subj
+2008
+punct
+ ( )
+
+: obj:
+obj
+improves
+obj
+improves
+csubj obj mod mark
+adding performance substantially that
+dobj dobj
+tags counts
+nmod compound
+part frequency
+punct prep aux
+- of to
+punct pobj
+- speech
+
+Negation: False
+13
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+reduction6 used
+reduction8to9 used
+
+verb: adding
+
+: subj:
+
+: obj:
+obj
+tagscounts
+obj
+tagscounts
+
+Negation: False
+14
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+
+verb: counts
+
+: subj:
+
+: obj:
+
+Negation: False
+15
+(2008) demonstrate that adding part-of-speech tags to frequency counts substantially improves performance.
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj12 used
+
+verb: improves
+
+: subj:
+subj
+adding
+subj
+adding
+obj
+ tags counts
+
+: obj:
+obj
+performance
+obj
+performance
+
+Negation: False
+16
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+subj_obj13 used
+
+verb: showed
+
+: subj:
+subj
+Experiments
+subj
+Experiments
+
+: obj:
+obj
+improves
+obj
+improves
+nsubj obj mod conj cc mark
+method performance effectively achieved and that
+poss compound nsubj dobj punct
+our parsing we accuracy .
+det amod prep
+the best for
+pobj
+parser
+nmod amod
+model based
+amod punct npadvmod punct
+single - transition -
+
+Negation: False
+17
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+reduction7 used
+reduction8to9 used
+
+verb: improves
+
+: subj:
+subj
+method
+subj
+method
+poss
+our
+
+: obj:
+obj
+performance
+obj
+performance
+compound
+parsing
+
+Negation: False
+18
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+
+verb: parsing
+
+: subj:
+
+: obj:
+
+Negation: False
+19
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: achieved
+
+: subj:
+subj
+we
+subj
+we
+
+: obj:
+obj
+accuracy
+obj
+accuracy
+mod
+best
+
+Negation: False
+20
+Experiments with an arc-standard parser showed that our method effectively improves parsing performance and we achieved the best accuracy for single-model transition-based parser.
+reduction7 used
+reduction8to9 used
+
+verb: based
+
+: subj:
+
+: obj:
+
+Negation: False
+21
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.
+growth3to4 used
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: revealed
+
+: subj:
+
+: obj:
+obj
+improves
+obj
+improves
+csubj obj prep mark
+adding quality in that
+dobj compound pobj
+rules translation setting
+amod det
+minimal this
+dep
+-
+dep
+non
+
+Negation: False
+22
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.
+reduction8to9 used
+subj_obj12 used
+
+verb: adding
+
+: subj:
+
+: obj:
+obj
+rules
+obj
+rules
+mod
+minimal
+dep
+-
+dep
+non
+
+Negation: False
+23
+(2007) revealed that adding non-minimal rules improves translation quality in this setting.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: improves
+
+: subj:
+subj
+adding
+subj
+adding
+obj
+rules
+amod
+minimal
+dep
+-
+dep
+non
+
+: obj:
+obj
+quality
+obj
+quality
+compound
+translation
+
+Negation: False
+24
+(CBS Detroit, 2011-02-11) improves substantially over prior approaches.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+
+verb: improves
+
+: subj:
+subj
+Detroit
+subj
+Detroit
+appos compound punct
+2011 CBS  , )
+prep
+11
+punct nummod punct
+- 02 -
+
+: obj:
+
+Negation: False
+25
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+
+verb: showed
+
+: subj:
+subj
+work
+subj
+work
+mod
+Recent
+
+: obj:
+obj
+improves
+obj
+improves
+nsubj obj mark
+retrieval ranking that
+amod compound prep
+structured answer for
+pobj
+questions
+compound
+factoid
+
+Negation: False
+26
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+subj_obj13 used
+
+verb: improves
+
+: subj:
+subj
+retrieval
+subj
+retrieval
+mod
+structured
+
+: obj:
+obj
+ranking
+obj
+ranking
+compound
+answer
+
+Negation: False
+27
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+
+verb: ranking
+
+: subj:
+
+: obj:
+
+Negation: False
+28
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+
+verb: expected
+
+: subj:
+
+: obj:
+
+Negation: False
+29
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+subj_obj13 used
+
+verb: improves
+
+: subj:
+subj
+retrieval
+subj
+retrieval
+mod
+structured
+
+: obj:
+obj
+ranking
+obj
+ranking
+compound
+answer
+
+Negation: False
+30
+Recent work has showed that structured retrieval improves answer ranking for factoid questions: Bilotti et al (2 question and the expected answer types improves answer ranking.
+
+verb: answer
+
+: subj:
+
+: obj:
+
+Negation: False
+31
+HMM-smoothing improves on the most closely related work, the Structural Correspondence Learning technique.
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+
+verb: improves
+
+: subj:
+subj
+smoothing
+subj
+smoothing
+compound punct
+HMM -
+
+: obj:
+obj
+technique
+obj
+technique
+compound punct
+Learning  , .
+compound compound
+Structural Correspondence
+
+Negation: False
+32
+The bidirectional model improves both precision and recall relative to all heuristic combination techniques, inc.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: improves
+
+: subj:
+subj
+model
+subj
+model
+mod
+bidirectional
+
+: obj:
+obj
+precision
+obj
+precision
+mod conj cc preconj
+relative recall and both
+prep
+to
+pobj
+techniques
+det amod compound punct appos
+all heuristic combination , inc
+
+Negation: False
+33
+The bidirectional model improves both precision and recall relative to all heuristic combination techniques, inc.
+
+verb: recall
+
+: subj:
+
+: obj:
+
+Negation: False
+34
+(Son et al, 2012) improves translation quality of n-gram translation model by using a bilingual neural language.
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj12 used
+
+verb: improves
+
+: subj:
+subj
+al
+subj
+al
+mod compound punct
+2012  Son et  ( , )
+
+: obj:
+obj
+quality
+obj
+quality
+prep compound
+of translation
+pobj
+model
+compound
+translation
+amod
+gram
+dep
+-
+dep
+n
+
+Negation: False
+35
+(Son et al, 2012) improves translation quality of n-gram translation model by using a bilingual neural language.
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: using
+
+: subj:
+
+: obj:
+obj
+language
+obj
+language
+mod
+ bilingual neural
+
+Negation: False
+36
+MACK uses articulated graphical embodiment with ability to gesture.
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj12 used
+
+verb: uses
+
+: subj:
+subj
+MACK
+subj
+MACK
+
+: obj:
+obj
+embodiment
+obj
+embodiment
+mod
+ articulated graphical
+
+Negation: False
+37
+MACK uses articulated graphical embodiment with ability to gesture.
+
+verb: articulated
+
+: subj:
+
+: obj:
+
+Negation: False
+38
+Our work not only improves the CPU efficiency by three orders of magnitude, but also reduces the memory consumption.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: improves
+
+: subj:
+subj
+work
+subj
+work
+poss
+Our
+
+: obj:
+obj
+efficiency
+obj
+efficiency
+compound
+CPU
+
+Negation: False
+39
+Our work not only improves the CPU efficiency by three orders of magnitude, but also reduces the memory consumption.
+growth2 used
+reduction8to9 used
+subj_obj11 used
+
+verb: reduces
+
+: subj:
+subj
+work
+subj
+work
+poss
+Our
+
+: obj:
+obj
+consumption
+obj
+consumption
+compound
+memory
+
+Negation: False
+40
+Calvin [21] is a distributed main-memory database system that uses a deterministic execution strategy.
+
+verb: distributed
+
+: subj:
+
+: obj:
+
+Negation: False
+41
+Calvin [21] is a distributed main-memory database system that uses a deterministic execution strategy.
+growth1 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: uses
+
+: subj:
+subj
+system
+subj
+system
+mod compound
+distributed database
+compound
+memory
+amod punct
+main -
+
+: obj:
+obj
+strategy
+obj
+strategy
+mod compound
+deterministic execution
+
+Negation: False
+42
+It uses the exponential mechanism to recursively bisect each interval into subintervals.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: uses
+
+: subj:
+subj
+It
+subj
+It
+
+: obj:
+obj
+mechanism
+obj
+mechanism
+mod
+exponential
+
+Negation: False
+43
+It uses the exponential mechanism to recursively bisect each interval into subintervals.
+reduction8to9 used
+subj_obj11 used
+
+verb: bisect
+
+: subj:
+
+: obj:
+obj
+interval
+obj
+interval
+
+Negation: False
+44
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: provides
+
+: subj:
+subj
+Crowdsourcing
+subj
+Crowdsourcing
+
+: obj:
+obj
+paradigm
+obj
+paradigm
+appos mod punct
+ 3 21  new solving  , ,
+
+Negation: False
+45
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+reduction7 used
+reduction8to9 used
+
+verb: solving
+
+: subj:
+
+: obj:
+
+Negation: False
+46
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+growth1 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: blended
+
+: subj:
+subj
+paradigm
+subj
+paradigm
+appos mod punct
+ 3 21  new solving  , ,
+
+: obj:
+
+Negation: False
+47
+Crowdsourcing provides a new problem-solving paradigm [3], [21], which has been blended into several research communities, including database and data mining.
+reduction8to9 used
+
+verb: including
+
+: subj:
+
+: obj:
+obj
+database
+obj
+database
+conj cc
+mining and
+compound
+data
+
+Negation: False
+48
+Section 5 provides a detailed comparison with our algorithm.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: provides
+
+: subj:
+subj
+Section
+subj
+Section
+mod
+5
+
+: obj:
+obj
+comparison
+obj
+comparison
+mod
+detailed
+
+Negation: False
+49
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: provides
+
+: subj:
+subj
+approach
+subj
+approach
+poss
+our
+
+: obj:
+obj
+advantages
+obj
+advantages
+mod prep
+more over
+pobj
+result
+det amod acl
+a linear set
+relcl
+highlighted
+nsubjpass auxpass neg prep
+that are not in
+pobj
+evaluations
+det
+these
+
+Negation: False
+50
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.
+
+verb: set
+
+: subj:
+
+: obj:
+
+Negation: False
+51
+However, our approach provides more advantages over a linear result set that are not highlighted in these evaluations.
+growth1 used
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+
+verb: highlighted
+
+: subj:
+subj
+set
+subj
+set
+
+: obj:
+obj
+in
+obj
+in
+obj
+evaluations
+det
+these
+
+Negation: True
+52
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.
+reduction6 used
+reduction7 used
+reduction8to9 used
+
+verb: support
+
+: subj:
+subj
+SciBORQ
+subj
+SciBORQ
+
+: obj:
+obj
+constraints
+obj
+constraints
+compound
+error
+
+Negation: True
+53
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.
+growth2 used
+reduction8to9 used
+
+verb: provide
+
+: subj:
+subj
+SciBORQ
+subj
+SciBORQ
+
+: obj:
+obj
+guarantees
+obj
+guarantees
+prep
+on
+pobj
+margins
+det compound prep
+the error for
+pobj
+results
+
+Negation: True
+54
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+reduction7 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+
+verb: uses
+
+: subj:
+subj
+SemTag
+subj
+SemTag
+
+: obj:
+obj
+base5
+obj
+base5
+compound
+ TAP knowledge
+
+Negation: False
+55
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+growth2 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: employs
+
+: subj:
+subj
+SemTag
+subj
+SemTag
+
+: obj:
+obj
+similarity
+obj
+similarity
+mod
+cosine
+
+Negation: False
+56
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: compute
+
+: subj:
+
+: obj:
+obj
+degree
+obj
+degree
+compound
+match
+
+Negation: False
+57
+SemTag uses the TAP knowledge base5 , and employs the cosine similarity with TF-IDF weighting scheme to compute the match degree between a mention and an entity, achieving an accuracy of around 82%
+reduction8to9 used
+subj_obj11 used
+
+verb: achieving
+
+: subj:
+
+: obj:
+obj
+accuracy
+obj
+accuracy
+prep
+of
+pobj
+%
+nummod
+82
+quantmod
+around
+
+Negation: False
+58
+LSD is an extensible framework, which employs several schema-based matchers.
+growth1 used
+reduction8to9 used
+subj_obj10 used
+subj_obj11 used
+subj_obj12 used
+
+verb: employs
+
+: subj:
+subj
+framework
+subj
+framework
+mod punct
+extensible ,
+
+: obj:
+obj
+matchers
+obj
+matchers
+mod
+ several based
+
+Negation: False
+59
+LSD is an extensible framework, which employs several schema-based matchers.
+reduction7 used
+reduction8to9 used
+
+verb: based
+
+: subj:
+
+: obj:
+
+Negation: False
+60
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: employs
+
+: subj:
+subj
+analysis
+subj
+analysis
+compound
+PAS
+
+: obj:
+obj
+features
+obj
+features
+mod
+global
+cc conj
+and wide
+npadvmod punct
+sentence -
+
+Negation: False
+61
+As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate
+
+verb: integrate
+
+: subj:
+
+: obj:
+
+Negation: False
+62
 A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
 growth3to4 used
 reduction7 used
@@ -30,7 +2831,7 @@ npadvmod punct
 cycle -
 
 Negation: False
-1
+63
 A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
 reduction7 used
 reduction8to9 used
@@ -42,165 +2843,204 @@ verb: based
 : obj:
 
 Negation: False
-2
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
-reduction7 used
+64
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
+reduction8to9 used
+subj_obj11 used
+
+verb: Modeling
+
+: subj:
+
+: obj:
+obj
+positions
+obj
+positions
+prep
+of
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
+
+Negation: False
+65
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
+reduction8to9 used
+
+verb: moving
+
+: subj:
+
+: obj:
+obj
+objects
+obj
+objects
+
+Negation: False
+66
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
 reduction8to9 used
 subj_obj12 used
 
-verb: employs
+verb: enables
 
 : subj:
 subj
-analysis
+Modeling
 subj
-analysis
-compound
-PAS
+Modeling
+obj
+positions
+det prep
+the of
+pcomp
+moving
+dobj prep
+objects as
+pobj
+functions
+prep
+of
+pobj
+time
 
 : obj:
 obj
-features
+us
 obj
-features
+us
+
+Negation: False
+67
+Modeling the positions of moving objects as functions of time not only enables us to make tentative future predictions
+reduction8to9 used
+subj_obj10 used
+subj_obj12 used
+
+verb: make
+
+: subj:
+
+: obj:
+obj
+predictions
+obj
+predictions
 mod
-global
-cc conj
-and wide
-npadvmod punct
-sentence -
+ tentative future
 
 Negation: False
-3
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+68
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+no verb: Doing in sentence 68
+69
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+no verb: enables in sentence 69
+70
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
+no verb: answer in sentence 70
+71
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
 
-verb: integrate
+verb: can
 
 : subj:
 
 : obj:
 
 Negation: False
-4
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
-reduction6 used
+72
+Doing so enables SECOA to securely answer not only all aggregates in [11] without any false positives or false negatives, but also many other aggregates (such as Max, Top- k , Frequent Items, Popular Items) that proof sketches cannot deal with at all.
 reduction7 used
 reduction8to9 used
 
-verb: support
+verb: deal
 
 : subj:
 subj
-SciBORQ
+sketches
 subj
-SciBORQ
-
-: obj:
-obj
-constraints
-obj
-constraints
+sketches
 compound
-error
-
-Negation: False
-5
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
-growth2 used
-reduction8to9 used
-
-verb: provides
-
-: subj:
-subj
-SciBORQ
-subj
-SciBORQ
+proof
 
 : obj:
-obj
-guarantees
-obj
-guarantees
 
 Negation: True
 0
-A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
-growth3to4 used
-reduction7 used
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.
+reduction6 used
 reduction8to9 used
-subj_obj10 used
-subj_obj11 used
 subj_obj12 used
 
-verb: employs
+verb: waiting
 
 : subj:
 subj
-technique
+fans
 subj
-technique
-mod punct
-similar  , LightLDA ,
+fans
+mod compound
+many Xbox
 
 : obj:
-obj
-mixing
-obj
-mixing
-nsubj
-Hastings
-amod compound
-based Metropolis
-npadvmod punct
-cycle -
 
 Negation: False
 1
-A similar technique, LightLDA, employs cycle-based Metropolis Hastings mixing.
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.
+reduction6 used
 reduction7 used
 reduction8to9 used
 
-verb: based
+verb: bringing
 
 : subj:
+subj
+it
+subj
+it
 
 : obj:
+obj
+xCloud
+obj
+xCloud
 
 Negation: False
 2
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+If there is one thing that many Xbox fans have been waiting for, it is bringing xCloud, or as Microsoft calls it, Cloud Gaming, to the PC.
+reduction6 used
 reduction7 used
 reduction8to9 used
-subj_obj12 used
 
-verb: employs
+verb: calls
 
 : subj:
 subj
-analysis
+Microsoft
 subj
-analysis
-compound
-PAS
+Microsoft
 
 : obj:
 obj
-features
+it
 obj
-features
-mod
-global
-cc conj
-and wide
-npadvmod punct
-sentence -
+it
 
 Negation: False
 3
-As PAS analysis widely employs global and sentence-wide features, it is computationally expensive to integrate.
+It has been an odd omission in the Cloud Gaming narrative so far but that should be changing in the near future.
 
-verb: integrate
+verb: should
 
 : subj:
 
@@ -208,45 +3048,1086 @@ verb: integrate
 
 Negation: False
 4
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
+It has been an odd omission in the Cloud Gaming narrative so far but that should be changing in the near future.
+growth3to4 used
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: changing
+
+: subj:
+subj
+that
+subj
+that
+
+: obj:
+obj
+in
+obj
+in
+obj
+future
+det amod
+the near
+
+Negation: False
+5
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+growth3to4 used
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+subj_obj13 used
+
+verb: announced
+
+: subj:
+subj
+Microsoft
+subj
+Microsoft
+
+: obj:
+obj
+added
+obj
+added
+nsubjpass conj cc aux auxpass mark
+iOS starting and would be that
+cc conj advmod nsubj aux xcomp
+and PC now we are see
+aux dobj prep
+to bit towards
+det amod prep pcomp
+a little of meeting
+pobj dobj
+progress objective
+det
+that
+
+Negation: False
+6
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+
+verb: would
+
+: subj:
+
+: obj:
+
+Negation: False
+7
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+reduction7 used
+reduction8to9 used
+
+verb: added
+
+: subj:
+subj
+iOS
+subj
+iOS
+conj cc
+PC and
+
+: obj:
+
+Negation: False
+8
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+
+verb: starting
+
+: subj:
+subj
+we
+subj
+we
+
+: obj:
+obj
+see
+obj
+see
+obj prep aux
+bit towards to
+det amod prep pcomp
+a little of meeting
+pobj dobj
+progress objective
+det
+that
+
+Negation: False
+9
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: see
+
+: subj:
+
+: obj:
+obj
+bit
+obj
+bit
+mod prep
+little of
+pobj
+progress
+
+Negation: False
+10
+Back in December, Microsoft announced that iOS and PC would be added to the xCloud experience in the spring of 2021 and now we are starting to see a little bit of progress towards meeting that objective.
+reduction8to9 used
+subj_obj11 used
+
+verb: meeting
+
+: subj:
+
+: obj:
+obj
+objective
+obj
+objective
+
+Negation: False
+11
+During the past couple of weeks, Microsoft has rolled out ‘Cloud Gaming’, via the browser, to a large group of users inside of Microsoft.
 reduction6 used
 reduction7 used
 reduction8to9 used
 
-verb: support
+verb: rolled
 
 : subj:
 subj
-SciBORQ
+Microsoft
 subj
-SciBORQ
+Microsoft
 
 : obj:
 obj
-constraints
+Gaming
 obj
-constraints
+Gaming
+compound punct
+Cloud ’
+
+Negation: False
+12
+To date, this is the largest group of cloud gaming beta testers for the PC iteration of the service and this is one of the last steps before it is offered publicly in a preview state.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: offered
+
+: subj:
+subj
+it
+subj
+it
+
+: obj:
+obj
+in
+obj
+in
+obj
+state
+det compound
+a preview
+
+Negation: False
+13
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+no verb: testing in sentence 13
+14
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+no verb: report in sentence 14
+15
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+
+verb: ’s
+
+: subj:
+subj
+that
+subj
+that
+
+: obj:
+obj
+expected
+obj
+expected
+aux auxpass
+to be
+
+Negation: False
+16
+For those who are currently testing the service inside of Microsoft, they report that the experience is a bit buggy at the moment but that’s to be expected.
+
+verb: expected
+
+: subj:
+
+: obj:
+
+Negation: False
+17
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: works
+
+: subj:
+subj
+service
+subj
+service
 compound
-error
+streaming
+
+: obj:
+
+Negation: False
+18
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+
+verb: will
+
+: subj:
+
+: obj:
+
+Negation: False
+19
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+growth3to4 used
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: need
+
+: subj:
+subj
+users
+subj
+users
+mod
+Firefox
+cc conj
+and Safari
+
+: obj:
+obj
+workschange
+obj
+workschange
+
+Negation: False
+20
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+reduction8to9 used
+
+verb: change
+
+: subj:
+
+: obj:
+obj
+habits
+obj
+habits
+poss compound
+their browsing
+
+Negation: False
+21
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+
+verb: browsing
+
+: subj:
+
+: obj:
+
+Negation: False
+22
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: want
+
+: subj:
+subj
+they
+subj
+they
+
+: obj:
+obj
+use
+obj
+use
+obj aux
+service to
+det
+the
+
+Negation: False
+23
+Also, the streaming service only works with Chrome and Edge at this time, Firefox and Safari users will need to change their browsing habits if they want to use the service.
+reduction8to9 used
+subj_obj11 used
+
+verb: use
+
+: subj:
+
+: obj:
+obj
+service
+obj
+service
+
+Negation: False
+24
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+reduction7 used
+reduction8to9 used
+
+verb: stand
+
+: subj:
+
+: obj:
+
+Negation: False
+25
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: going
+
+: subj:
+subj
+app
+subj
+app
+mod
+stand
+punct advmod
+- alone
+
+: obj:
+obj
+exist
+obj
+exist
+aux
+to
+
+Negation: False
+26
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+
+verb: exist
+
+: subj:
+
+: obj:
+
+Negation: False
+27
+One thing that I am not entirely sure of at this time is if the stand-alone app for Cloud Gaming is going to exist when the service makes its public debut.
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: makes
+
+: subj:
+subj
+service
+subj
+service
+
+: obj:
+obj
+debut
+obj
+debut
+mod poss
+public its
+
+Negation: False
+28
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+growth1 used
+reduction8to9 used
+subj_obj11 used
+subj_obj13 used
+
+verb: leaked
+
+: subj:
+subj
+app
+subj
+app
+
+: obj:
+
+Negation: False
+29
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+growth1 used
+growth3to4 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: allowed
+
+: subj:
+subj
+app
+subj
+app
+
+: obj:
+obj
+play
+obj
+play
+nsubj obj mod prep aux
+you xCloud through on to
+pobj
+PC
+poss
+your
+
+Negation: False
+30
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+reduction8to9 used
+
+verb: play
+
+: subj:
+subj
+you
+subj
+you
+
+: obj:
+obj
+xCloud
+obj
+xCloud
+
+Negation: False
+31
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+
+verb: may
+
+: subj:
+
+: obj:
+
+Negation: False
+32
+Late last year, there was an app that leaked that allowed you to play xCloud on your PC through but that app experience may be going away in favor of the browser solution.
+growth3to4 used
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: going
+
+: subj:
+subj
+experience
+subj
+experience
+compound
+app
+
+: obj:
+obj
+in
+obj
+in
+obj
+favor
+prep
+of
+pobj
+solution
+det compound
+the browser
+
+Negation: False
+33
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+
+verb: could
+
+: subj:
+
+: obj:
+
+Negation: False
+34
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+growth3to4 used
+reduction8to9 used
+subj_obj12 used
+
+verb: choose
+
+: subj:
+subj
+Microsoft
+subj
+Microsoft
+
+: obj:
+obj
+offer
+obj
+offer
+obj aux
+solutions to
+det
+both
+
+Negation: False
+35
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+reduction8to9 used
+subj_obj11 used
+
+verb: offer
+
+: subj:
+
+: obj:
+obj
+solutions
+obj
+solutions
+
+Negation: False
+36
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+
+verb: could
+
+: subj:
+
+: obj:
+
+Negation: False
+37
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+reduction7 used
+reduction8to9 used
+
+verb: moving
+
+: subj:
+subj
+Gaming
+subj
+Gaming
+prep compound
+on Cloud
+pobj
+PC
+det
+the
+
+: obj:
+
+Negation: False
+38
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+
+verb: should
+
+: subj:
+
+: obj:
+
+Negation: False
+39
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+growth1 used
+growth3to4 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: allow
+
+: subj:
+subj
+rate
+subj
+rate
+
+: obj:
+obj
+meet
+obj
+meet
+nsubj obj aux
+Microsoft goal to
+poss amod prep
+its stated of
+pobj
+release
+det compound
+a spring
+
+Negation: False
+40
+Microsoft could still choose to offer both solutions, after all, the ‘app’ could just be a web-wrapper but the substance is that Cloud Gaming on the PC is moving forward at a rate that should allow Microsoft to meet its stated goal of a spring release.
+reduction8to9 used
+subj_obj12 used
+
+verb: meet
+
+: subj:
+subj
+Microsoft
+subj
+Microsoft
+
+: obj:
+obj
+goal
+obj
+goal
+mod poss prep
+stated its of
+pobj
+release
+det compound
+a spring
+
+Negation: False
+41
+That being said, the iOS iteration of the service does not appear to be as far along in the testing phases as the PC but that solution is a bit more complicated thanks to Apple’s store policies.
+reduction8to9 used
+
+verb: said
+
+: subj:
+subj
+That
+subj
+That
+
+: obj:
+
+Negation: False
+42
+That being said, the iOS iteration of the service does not appear to be as far along in the testing phases as the PC but that solution is a bit more complicated thanks to Apple’s store policies.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: appear
+
+: subj:
+subj
+iteration
+subj
+iteration
+mod prep
+iOS of
+pobj
+service
+det
+the
+
+: obj:
+obj
+be
+obj
+be
+mod aux
+far to
+advmod prep
+as along
+prep
+in
+pobj
+phases
+det compound prep
+the testing as
+pobj
+PC
+det
+the
+
+Negation: True
+43
+xCloud initially launched on Android and those users can stream games today.
+reduction8to9 used
+
+verb: launched
+
+: subj:
+subj
+xCloud
+subj
+xCloud
+
+: obj:
+
+Negation: False
+44
+xCloud initially launched on Android and those users can stream games today.
+
+verb: can
+
+: subj:
+
+: obj:
+
+Negation: False
+45
+xCloud initially launched on Android and those users can stream games today.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: stream
+
+: subj:
+subj
+users
+subj
+users
+
+: obj:
+obj
+games
+obj
+games
+
+Negation: False
+46
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+growth3to4 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: enabling
+
+: subj:
+subj
+stream
+subj
+stream
+obj aux
+games to
+det
+the
+
+: obj:
+obj
+platforms
+obj
+platforms
+
+Negation: False
+47
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+reduction8to9 used
+subj_obj11 used
+
+verb: stream
+
+: subj:
+
+: obj:
+obj
+games
+obj
+games
+
+Negation: False
+48
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+
+verb: will
+
+: subj:
+
+: obj:
+
+Negation: False
+49
+But with billions of more users on PC and iOS, enabling these platforms to stream the games will open up the world of Xbox to a much larger gaming audience.
+reduction6 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: open
+
+: subj:
+subj
+enabling
+subj
+enabling
+obj xcomp
+platforms stream
+det aux dobj
+these to games
+det
+the
+
+: obj:
+obj
+world
+obj
+world
+prep
+of
+pobj
+Xbox
+
+Negation: False
+0
+No cat would eat Tastey Bites.
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: eat
+
+: subj:
+subj
+cat
+subj
+cat
+det
+No
+
+: obj:
+obj
+Bites
+obj
+Bites
+mod
+Tastey
+
+Negation: True
+1
+Sasha never tries to do well in Calculus.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: tries
+
+: subj:
+subj
+Sasha
+subj
+Sasha
+
+: obj:
+obj
+do
+obj
+do
+mod prep aux
+well in to
+pobj
+Calculus
+
+Negation: True
+2
+The computer uses no Intel chips.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+
+verb: uses
+
+: subj:
+subj
+computer
+subj
+computer
+
+: obj:
+obj
+chips
+obj
+chips
+det compound
+no Intel
+
+Negation: True
+3
+Never had a person play checkers so well.
+reduction8to9 used
+subj_obj11 used
+
+verb: play
+
+: subj:
+subj
+person
+subj
+person
+
+: obj:
+obj
+checkers
+obj
+checkers
+
+Negation: False
+4
+Lily tries to not bother her teacher.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj12 used
+
+verb: tries
+
+: subj:
+subj
+Lily
+subj
+Lily
+
+: obj:
+obj
+bother
+obj
+bother
+obj neg aux
+teacher not to
+poss
+her
 
 Negation: False
 5
-In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provides guarantees on the error margins for results.
-growth2 used
+Lily tries to not bother her teacher.
 reduction8to9 used
 
-verb: provides
+verb: bother
 
 : subj:
-subj
-SciBORQ
-subj
-SciBORQ
 
 : obj:
 obj
-guarantees
+teacher
 obj
-guarantees
+teacher
+poss
+her
 
 Negation: True
+0
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+subj_obj13 used
+
+verb: be
+
+: subj:
+subj
+Japan
+subj
+Japan
+
+: obj:
+obj
+market
+obj
+market
+mod
+tough
+
+Negation: False
+0
+Japan may be a tough market for outsiders to penetrate, and the U.S. is hopelessly behind Japan in certain technologies.
+growth3to4 used
+reduction7 used
+reduction8to9 used
+subj_obj11 used
+subj_obj12 used
+
+verb: is
+
+: subj:
+subj
+U.S.
+subj
+U.S.
+
+: obj:
+obj
+in
+obj
+in
+obj
+technologies
+amod
+certain
+
+Negation: False
