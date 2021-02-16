@@ -95,8 +95,8 @@ results
 ### Tree Class:
 - a tree has: root, verb(word to do relation extraction)
 - travere funtions: There are 3 traverse functions that print out the tree to a file in the arguments
-- transformations rules: There are 13 rules, some are applied together
-
+- transformations rules: There are 13 rules, some are applied together\
+*for rule2 the recursive version is commented out, but I have not had a situation to use it yet*
 # extractVerb
 this takes in a file called "sentences.txt" that has a list of sentences\
 outputs a file called "examples.txt" that follows the format:\
