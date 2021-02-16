@@ -7,6 +7,7 @@
  - applies rules
  - the output functions
  &nbsp;&nbsp;*results.txt the sentence, verb, subj, obj, negation*\
+ 
  <details>
  <summary>example</summary>
  In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.
@@ -36,7 +37,7 @@ pobj
 results
 
 Negation: True
-<\details>
+</details>
  
  &nbsp;&nbsp;*stats.txt the rules and which sentences used the rules*\
  &nbsp;&nbsp;*trees.txt parse tree pre/post transformed*\ 
