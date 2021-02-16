@@ -3,10 +3,10 @@
 ## main.py
  - reads inputs
  &nbsp;&nbsp;*examples.txt produced from extractVerb*\
- &nbsp;&nbsp;*typed sentence and verb*\
+ &nbsp;&nbsp;*typed sentence and verb*
  - applies rules
  - the output functions
- &nbsp;&nbsp;*results.txt the sentence, verb, subj, obj, negation*\
+ &nbsp;&nbsp;*results.txt the sentence, verb, subj, obj, negation*
  
  <details>
  <summary>example</summary>
