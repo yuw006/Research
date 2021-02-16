@@ -8,9 +8,10 @@
  - the output functions\
  &nbsp;&nbsp;*results.txt the sentence, verb, subj, obj, negation*
  
- <details>
- <summary>example</summary>
- In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.
+<details>
+<summary>example</summary>
+<pre>
+In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.
 growth2 used
 reduction8to9 used
 
@@ -37,14 +38,16 @@ pobj
 results
 
 Negation: True
+</pre>
 </details>
  
  &nbsp;&nbsp;*stats.txt the rules and which sentences used the rules*\
  &nbsp;&nbsp;*trees.txt parse tree pre/post transformed* 
  
- <details>
- <summary>example</summary>
- 53
+<details>
+<summary>example</summary>
+<pre>
+53
 In contrast to BlinkDB, SciBORQ does not support error constraints, and does not provide guarantees on the error margins for results.    verb: provide
 initial Tree:
 ROOT
@@ -82,6 +85,7 @@ det compound prep
 the error for
 pobj
 results
+</pre>
 </details>
  
  - to output to a file, pass in the file path to traversal functions
