@@ -1,4 +1,20 @@
 ### The code is not complete so there will be updates
+# New Rules
+## condense1:
+if a verb has an aux and auxpass child (that are childless) then the verb pharse would be: aux auxpass verb\
+example: (will) (be) (delayed) 
+## condense2:
+if a verb has an xcomp child then the verb phrase would be: verb xcomp\
+example: (pressed) (to extract)
+### condense2_1:
+if a verb also had an obj child then the verb phrase is: verb ... xcomp, and the obj is affiliated with the verb\
+example: (chose) the frog (to replace)
+### condense2_1_1:
+if the xcomp child has an adcvl child that is also a verb then the verb pharses would be: verb ... xcomp, verb ... adcvl\
+example: Leo **chose** the cat **to mix** the paint and the dog **to design** the stairs
+## condense3:
+if the verb child has an prt child then the verb phrase would be: verb prt
+example: (check) (off)
 # verbRE
 ## main.py
  - reads inputs
