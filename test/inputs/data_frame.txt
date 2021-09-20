@@ -1,0 +1,320 @@
+58
+1
+The constant upheaval of her life had parted her from any close friends and her own quiet , withdrawn manner kept most people at arm 's length . 
+phraseTag The constant upheaval of her life phraseTag had parted her from any close friends and her own quiet , withdrawn manner kept most people at arm 's length . 
+TRUE
+58
+2
+Delicately and discreetly she parted flesh from bone . 
+Delicately and discreetly phraseTag she phraseTag parted flesh from bone . 
+TRUE
+58
+3
+Ashley was glaring at me over the candle flame the way a hawk must glare at a field mouse the instant before it parts mouse from field forever . 
+Ashley was glaring at me over the candle flame the way a hawk must glare at a field mouse the instant before phraseTag it phraseTag parts mouse from field forever . 
+TRUE
+58
+4
+All the little man had to do was stand up and take one pace forward , parting the branches . 
+All phraseTag the little man phraseTag had to do was stand up and take one pace forward , parting the branches . 
+TRUE
+58
+5
+Part your hands , bring the arms out to your sides , and lower . 
+Part phraseTag your hands phraseTag , bring the arms out to your sides , and lower . 
+FALSE
+58
+6
+Yet , as Choate 's account also shows , even wise men and their money can easily be parted by sharp consultants , who can pass through the green baize door knowing that their clients can not peep through the keyhole . 
+Yet , as Choate 's account also shows , even wise men and their money can easily be parted phraseTag by sharp consultants , who can pass through the green baize door knowing that their clients can not peep through the keyhole phraseTag . 
+TRUE
+58
+7
+Now , as we report on Page 15 , she is to be parted from the nursery school children whose friendship has helped to restore her health and build her confidence . 
+Now , as we report on Page 15 , phraseTag she phraseTag is to be parted from the nursery school children whose friendship has helped to restore her health and build her confidence . 
+FALSE
+58
+8
+She had refused to be parted from it , and leniency had been shown during her first few days in new surroundings . 
+She had refused to be parted phraseTag from it phraseTag , and leniency had been shown during her first few days in new surroundings . 
+FALSE
+58
+9
+He moved to the bay window , parted the curtains and looked out on Champney Road . 
+phraseTag He phraseTag moved to the bay window , parted the curtains and looked out on Champney Road . 
+TRUE
+58
+10
+She parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+phraseTag She phraseTag parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+TRUE
+62
+1
+The coelenterate communicative process is well known by the large marine invertebrate importers and dealers who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+The coelenterate communicative process is well known by phraseTag the large marine invertebrate importers and dealers phraseTag who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+TRUE
+62
+2
+However , segregating income from capital is not only concerned with producing an income figure which might be used as a measure of performance . 
+However , segregating phraseTag income phraseTag from capital is not only concerned with producing an income figure which might be used as a measure of performance . 
+FALSE
+62
+3
+Kossoff prefers to segregate his drawings from his paintings in his exhibitions . 
+phraseTag Kossoff phraseTag prefers to segregate his drawings from his paintings in his exhibitions . 
+TRUE
+62
+4
+In addition , these user histories point to the fact that the receptionists of some surgeries were instructed to turn away ` addicts " or , at least , segregate them from the rest of the patients . 
+In addition , these user histories point to the fact that the receptionists of some surgeries were instructed to turn away ` addicts " or , at least , segregate them phraseTag from the rest of the patients phraseTag . 
+FALSE
+62
+5
+This approach may be supplemented by segregating young pigs from those of more than nine months of age which will be excreting eggs . 
+This approach may be supplemented by segregating phraseTag young pigs phraseTag from those of more than nine months of age which will be excreting eggs . 
+FALSE
+62
+6
+Governments and local authorities must help householders and industry to segregate their waste according to the composition of the materials . 
+Governments and local authorities must help phraseTag householders and industry phraseTag to segregate their waste according to the composition of the materials . 
+TRUE
+62
+7
+Furthermore , most schools are segregated by sex , and the building of boys ' schools has historically taken precedence over building girls ' schools . 
+Furthermore , most schools are segregated phraseTag by sex phraseTag , and the building of boys ' schools has historically taken precedence over building girls ' schools . 
+FALSE
+62
+8
+For the second and fifth of these situations , the subjects were segregated by gender , the male group being left with a male fieldworker , and the female with a female fieldworker . 
+For the second and fifth of these situations , phraseTag the subjects phraseTag were segregated by gender , the male group being left with a male fieldworker , and the female with a female fieldworker . 
+FALSE
+62
+9
+But then at Vladimir , Holly had been segregated from the mass of the zeks , the convicts who formed the greatest part of the prison population . 
+But then at Vladimir , Holly had been segregated phraseTag from the mass of the zeks phraseTag , the convicts who formed the greatest part of the prison population . 
+FALSE
+62
+10
+They would be segregated from members of the caste system and lived on the outskirts of villages or in their own communities . 
+phraseTag They phraseTag would be segregated from members of the caste system and lived on the outskirts of villages or in their own communities . 
+FALSE
+62
+11
+They had been strictly segregated from the ladies and gentlemen who entered by the front entrance and walked on carpet . 
+They had been strictly segregated phraseTag from the ladies and gentlemen who entered by the front entrance and walked on carpet phraseTag . 
+FALSE
+62
+12
+They too were segregated into wagons for families and those for single men . 
+phraseTag They phraseTag too were segregated into wagons for families and those for single men . 
+FALSE
+62
+13
+Thus , pressure is increasing to identify sources and modes of transmission , and to segregate colonised from non-colonised patients . 
+Thus , pressure is increasing to identify sources and modes of transmission , and to segregate colonised phraseTag from non-colonised patients phraseTag . 
+FALSE
+62
+14
+Individuals should be restricted and segregated from the general community as little as possible . 
+phraseTag Individuals phraseTag should be restricted and segregated from the general community as little as possible . 
+FALSE
+62
+15
+By necessity and by choice the Jews were a race apart , the only group entirely segregated from the rest of the community . 
+By necessity and by choice the Jews were a race apart , the only group entirely segregated phraseTag from the rest of the community phraseTag . 
+FALSE
+62
+16
+They might still , for their own sakes , be taught in groups segregated according to ability , and that did not matter . 
+They might still , for their own sakes , be taught in phraseTag groups phraseTag segregated according to ability , and that did not matter . 
+FALSE
+2612
+1
+Build a plywood platform at one end of the room , cover it with a carpet and pile it with floor cushions . 
+Build a plywood platform at one end of the room , cover it with a carpet and pile phraseTag it phraseTag with floor cushions . 
+FALSE
+2612
+2
+The vandals broke into the house , piled the cooker with linen then switched it on and set light to it . 
+phraseTag The vandals phraseTag broke into the house , piled the cooker with linen then switched it on and set light to it . 
+TRUE
+2612
+3
+` Only teasing you , Wraysford , " said Harrington , piling his plate with the fried eggs , which had started to congeal beneath the cover . 
+` Only teasing you , Wraysford , " said phraseTag Harrington phraseTag , piling his plate with the fried eggs , which had started to congeal beneath the cover . 
+TRUE
+2612
+4
+A promenade ran along the top , and Ruth saw Council workmen piling sandbags against the brightly painted railings . 
+A promenade ran along the top , and Ruth saw phraseTag Council workmen phraseTag piling sandbags against the brightly painted railings . 
+TRUE
+2612
+5
+When they 'd gone Maggie gathered up the rest of the dishes and piled them in the sink . 
+When they 'd gone phraseTag Maggie phraseTag gathered up the rest of the dishes and piled them in the sink . 
+TRUE
+2612
+6
+The drivers piled them into cars and drove off to return shortly for another load . 
+phraseTag The drivers phraseTag piled them into cars and drove off to return shortly for another load . 
+TRUE
+2612
+7
+At the time I was mucking out the byre stalls , and piling the manure on top of my big heap when I saw the lights go on in the house . 
+At the time phraseTag I phraseTag was mucking out the byre stalls , and piling the manure on top of my big heap when I saw the lights go on in the house . 
+TRUE
+2612
+8
+On top of the turves , which gave out a steady glow , they piled logs , until the blaze roared in the grate , filling the kitchen with life-giving heat . 
+On top of the turves , which gave out a steady glow , phraseTag they phraseTag piled logs , until the blaze roared in the grate , filling the kitchen with life-giving heat . 
+TRUE
+2612
+9
+The bales that are still in one piece are piled on to a wagon as they are brought in . 
+The bales that are still in one piece are piled on to a wagon phraseTag as they are brought in phraseTag . 
+FALSE
+2612
+10
+The bodies of 6 ewes and a ram were piled onto a tractor trailer near where they drowned in the Stretford Brook . 
+phraseTag The bodies of 6 ewes and a ram phraseTag were piled onto a tractor trailer near where they drowned in the Stretford Brook . 
+FALSE
+2612
+11
+With a teaspoon , pile cheese mixture into cavities left by the removal of the cores in the pear halves . 
+With a teaspoon , pile phraseTag cheese mixture phraseTag into cavities left by the removal of the cores in the pear halves . 
+FALSE
+2612
+12
+I piled everything i could on a sheet in the middle of the floor and tied up the corners …
+phraseTag I phraseTag piled everything i could on a sheet in the middle of the floor and tied up the corners …
+TRUE
+2612
+13
+About 20min before serving remove all but the chocolate-coated truffles from the fridge and pile onto a large platter . 
+About 20min before serving remove all but the chocolate-coated truffles from the fridge and pile phraseTag onto a large platter phraseTag . 
+FALSE
+2612
+14
+The dryish curd is cut into big chunks and piled into huge tubs that are left to stand in the dairy overnight to allow the acidity and flavour to develop . 
+The dryish curd is cut into big chunks and piled phraseTag into huge tubs that are left to stand in the dairy overnight phraseTag to allow the acidity and flavour to develop . 
+FALSE
+2612
+15
+The new money flows into the already top-heavy administrative structure , which busies itself piling more and more paper work on the teachers .
+The new money flows into the already top-heavy administrative structure , which busies itself piling phraseTag more and more paper work phraseTag on the teachers .
+FALSE
+7127
+1
+The plaster work had been restored and gilded so that it glittered against a dazzling white ceiling and against walls hung with crimson wallpaper . 
+The plaster work had been restored and gilded phraseTag so that it glittered against a dazzling white ceiling and against walls hung with crimson wallpaper phraseTag . 
+FALSE
+7127
+2
+In the Roman Imperial period copper and bronze statues and silver and bronze jewellery were commonly gilded . 
+In the Roman Imperial period phraseTag copper and bronze statues and silver and bronze jewellery phraseTag were commonly gilded . 
+FALSE
+7127
+3
+A huge yellow sun was gilding the puddles and turning the poplars the colour of lemon sherbets . 
+phraseTag A huge yellow sun phraseTag was gilding the puddles and turning the poplars the colour of lemon sherbets . 
+TRUE
+7127
+4
+Morning came , silver and gold , with sunlight that skimmed the surface of the loch and gilded the poppies and roses in the garden at Ardneavie . 
+Morning came , silver and gold , with phraseTag sunlight phraseTag that skimmed the surface of the loch and gilded the poppies and roses in the garden at Ardneavie . 
+TRUE
+7127
+5
+Parts of the surface of the helmet were gilded , the boar , dragon heads , the nose and mouth of the face-mask , under surfaces of the eyebrows and the broad fluted strips flanking the crest . 
+phraseTag Parts of the surface of the helmet phraseTag were gilded , the boar , dragon heads , the nose and mouth of the face-mask , under surfaces of the eyebrows and the broad fluted strips flanking the crest . 
+FALSE
+7127
+6
+The morning was calm and bright , with sunlight gilding the whins and sending a glitter across the.bay . 
+The morning was calm and bright , with phraseTag sunlight phraseTag gilding the whins and sending a glitter across the.bay . 
+TRUE
+7127
+7
+Even the horn was of a much lighter colour than usual , although it had been gilded with silver . 
+Even the horn was of a much lighter colour than usual , although phraseTag it phraseTag had been gilded with silver . 
+FALSE
+7127
+8
+By this time saucers were also being lined with glass so they could be gilded . 
+By this time saucers were also being lined with glass so phraseTag they phraseTag could be gilded . 
+FALSE
+7127
+9
+The last few stars disappeared , extinguished by the splendour of the rising sun as shafts of golden light gilded the sea . 
+The last few stars disappeared , extinguished by the splendour of the rising sun as phraseTag shafts of golden light phraseTag gilded the sea . 
+TRUE
+2580
+1
+Milligan has crammed it so full of Victorian antiques , paintings and illustrations that the cement is hidden by memorabilia . 
+phraseTag Milligan phraseTag has crammed it so full of Victorian antiques , paintings and illustrations that the cement is hidden by memorabilia . 
+TRUE
+2580
+2
+The quantity given will stuff a 5kg/10lb turkey fore and aft , as you do not want to cram the bird to bursting . 
+The quantity given will stuff a 5kg/10lb turkey fore and aft , as phraseTag you phraseTag do not want to cram the bird to bursting . 
+TRUE
+2580
+3
+The apartment itself was enormous and , as if she were scared of the space , Jane Pargeter had crammed it with expensive furniture . 
+The apartment itself was enormous and , as if she were scared of the space , phraseTag Jane Pargeter phraseTag had crammed it with expensive furniture . 
+TRUE
+2580
+4
+Do not cram the cage with leaves , for this often leads to condensation and makes it harder to see the caterpillars . 
+Do not cram phraseTag the cage phraseTag with leaves , for this often leads to condensation and makes it harder to see the caterpillars . 
+FALSE
+2580
+5
+Meanwhile her lads Lester and Luke are cramming her tights with toys and the baby is smearing lipstick all over himself . 
+Meanwhile phraseTag her lads Lester and Luke phraseTag are cramming her tights with toys and the baby is smearing lipstick all over himself . 
+TRUE
+2580
+6
+It was crammed with unpaid bills for food and clothing . 
+phraseTag It phraseTag was crammed with unpaid bills for food and clothing . 
+FALSE
+2580
+7
+Around Christmas Fayre , when the Food Hall was crammed with food you did n't normally see in the other seasons , they made a nice end to a meal . 
+Around Christmas Fayre , when the Food Hall was crammed phraseTag with food you did n't normally see in the other seasons phraseTag , they made a nice end to a meal . 
+FALSE
+2580
+8
+It was crammed with notebooks filled with Parkin 's bold scribble as well as copies of various scripts in loose folders . 
+phraseTag It phraseTag was crammed with notebooks filled with Parkin 's bold scribble as well as copies of various scripts in loose folders . 
+FALSE
+2580
+9
+Their store rooms were crammed with piles of objects , from furniture to fencing , and some of the corridors were blocked with the mounds of things they had made over the years . 
+phraseTag Their store rooms phraseTag were crammed with piles of objects , from furniture to fencing , and some of the corridors were blocked with the mounds of things they had made over the years . 
+FALSE
+2580
+10
+During the presentation , two briefcases were crammed full with used dealing books containing clients ' names and addresses , and with leads that had been left carelessly lying around on desks . 
+During the presentation , two briefcases were crammed full phraseTag with used dealing books containing clients ' names and addresses , and with leads that had been left carelessly lying around on desks phraseTag . 
+FALSE
+2580
+11
+His trolley stood forlornly a few yards away , crammed with food for the dinner party . 
+phraseTag His trolley phraseTag stood forlornly a few yards away , crammed with food for the dinner party . 
+FALSE
+2580
+12
+In the warren of lanes and alleys , barefoot traders sit cross-legged in tiny shops crammed with strange goods . 
+In the warren of lanes and alleys , barefoot traders sit cross-legged in phraseTag tiny shops phraseTag crammed with strange goods . 
+FALSE
+2580
+13
+Round the corner and again a transformation , this time the decor is that of a university study with huge creaking bookcases crammed with dusty volumes . 
+Round the corner and again a transformation , this time the decor is that of a university study with phraseTag huge creaking bookcases phraseTag crammed with dusty volumes . 
+FALSE
+2580
+14
+And her savings , to begin with , had been meagre , hardly worth the time : Meg had hardly dreamt her dream -- as now ; her suitcase crammed , tight-packed with money -- fully to fruition . 
+And her savings , to begin with , had been meagre , hardly worth the time : Meg had hardly dreamt her dream -- as now ; her suitcase crammed , phraseTag tight-packed phraseTag with money -- fully to fruition . 
+FALSE

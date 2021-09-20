@@ -1,0 +1,13 @@
+doc id: 1
+sentence id: 1
+This is used as a test.
+verb: is used
+ 
+subj
+This(is used)
+
+as
+obj
+test(as)
+Negation: False
+

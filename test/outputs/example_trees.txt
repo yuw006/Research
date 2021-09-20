@@ -1,0 +1,19 @@
+1
+This is used as a test.    verb: is used
+initial Tree:
+ROOT
+is used
+nsubjpass(DET) prep(ADP) punct(PUNCT)
+This(is used) as(is used) .(is used)
+pobj(NOUN)
+test(as)
+det(DET)
+a(test)
+
+
+transformed Tree:
+ROOT
+is used
+subj(DET)
+This(is used)
+

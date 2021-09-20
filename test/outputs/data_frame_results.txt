@@ -1,0 +1,2464 @@
+doc id: 58
+sentence id: 1
+The constant upheaval of her life had parted her from any close friends and her own quiet , withdrawn manner kept most people at arm 's length . 
+verb: had parted
+ 
+subj
+upheaval(had parted)
+mod prep
+constant(upheaval) of(upheaval)
+pobj
+life(of)
+poss
+her(life)
+obj
+her(had parted)
+Negation: False
+
+from
+obj
+friends(from)
+mod conj cc
+close(friends) manner(friends) and(friends)
+poss amod amod punct amod
+her(manner) own(manner) quiet(manner) ,(manner) withdrawn(manner)
+Negation: False
+
+doc id: 58
+sentence id: 1
+The constant upheaval of her life had parted her from any close friends and her own quiet , withdrawn manner kept most people at arm 's length . 
+verb: withdrawn
+ 
+
+doc id: 58
+sentence id: 1
+The constant upheaval of her life had parted her from any close friends and her own quiet , withdrawn manner kept most people at arm 's length . 
+verb: kept
+ 
+obj
+people(kept)
+mod
+most(people)
+Negation: False
+
+at
+obj
+length(at)
+poss
+arm(length)
+case
+'s(arm)
+Negation: False
+
+doc id: 58
+sentence id: 2
+Delicately and discreetly she parted flesh from bone . 
+verb: parted
+ 
+subj
+she(parted)
+obj
+flesh(parted)
+Negation: False
+
+from
+obj
+bone(from)
+Negation: False
+
+doc id: 58
+sentence id: 3
+Ashley was glaring at me over the candle flame the way a hawk must glare at a field mouse the instant before it parts mouse from field forever . 
+verb: was glaring
+ 
+subj
+Ashley(was glaring)
+
+at
+obj
+me(at)
+Negation: False
+
+doc id: 58
+sentence id: 3
+Ashley was glaring at me over the candle flame the way a hawk must glare at a field mouse the instant before it parts mouse from field forever . 
+verb: must glare
+ 
+subj
+hawk(must glare)
+
+at
+obj
+field(at)
+Negation: False
+
+doc id: 58
+sentence id: 3
+Ashley was glaring at me over the candle flame the way a hawk must glare at a field mouse the instant before it parts mouse from field forever . 
+verb: mouse
+ 
+obj
+instant(mouse)
+Negation: False
+
+doc id: 58
+sentence id: 3
+Ashley was glaring at me over the candle flame the way a hawk must glare at a field mouse the instant before it parts mouse from field forever . 
+verb: parts
+ 
+subj
+it(parts)
+obj
+mouse(parts)
+Negation: False
+
+from
+obj
+field(from)
+Negation: False
+
+doc id: 58
+sentence id: 4
+All the little man had to do was stand up and take one pace forward , parting the branches . 
+verb: had to do,  was stand up,  take
+ 
+subj
+man(had to do,  was stand up,  take)
+predet mod
+All(man) little(man)
+obj
+pace(had to do,  was stand up,  take)
+mod
+one(pace)
+Negation: False
+
+doc id: 58
+sentence id: 4
+All the little man had to do was stand up and take one pace forward , parting the branches . 
+verb: parting
+ 
+obj
+branches(parting)
+Negation: False
+
+doc id: 58
+sentence id: 5
+Part your hands , bring the arms out to your sides , and lower . 
+verb: bring out
+ 
+obj
+arms(bring out)
+Negation: False
+
+to
+obj
+sides(to)
+poss
+your(sides)
+Negation: False
+
+doc id: 58
+sentence id: 6
+Yet , as Choate 's account also shows , even wise men and their money can easily be parted by sharp consultants , who can pass through the green baize door knowing that their clients can not peep through the keyhole . 
+verb: can be parted
+ 
+subj
+ men by(can be parted)
+obj mod mod conj cc
+consultants( men by) wise( men by) even( men by) money( men by) and( men by)
+amod punct relcl poss
+sharp(consultants) ,(consultants) can pass(consultants) their(money)
+nsubj prep advcl
+who(can pass) through(can pass) knowing(can pass)
+pobj ccomp
+door(through) can peep(knowing)
+det amod compound mark nsubj neg prep
+the(door) green(door) baize(door) that(can peep) clients(can peep) not(can peep) through(can peep)
+poss pobj
+their(clients) keyhole(through)
+det
+the(keyhole)
+
+doc id: 58
+sentence id: 6
+Yet , as Choate 's account also shows , even wise men and their money can easily be parted by sharp consultants , who can pass through the green baize door knowing that their clients can not peep through the keyhole . 
+verb: shows
+ 
+subj
+account(shows)
+poss
+Choate(account)
+case
+'s(Choate)
+
+doc id: 58
+sentence id: 6
+Yet , as Choate 's account also shows , even wise men and their money can easily be parted by sharp consultants , who can pass through the green baize door knowing that their clients can not peep through the keyhole . 
+verb: can pass
+ 
+subj
+who(can pass)
+
+through
+obj
+door(through)
+mod compound
+green(door) baize(door)
+Negation: False
+
+doc id: 58
+sentence id: 6
+Yet , as Choate 's account also shows , even wise men and their money can easily be parted by sharp consultants , who can pass through the green baize door knowing that their clients can not peep through the keyhole . 
+verb: knowing
+ 
+
+doc id: 58
+sentence id: 6
+Yet , as Choate 's account also shows , even wise men and their money can easily be parted by sharp consultants , who can pass through the green baize door knowing that their clients can not peep through the keyhole . 
+verb: can peep
+ 
+subj
+clients(can peep)
+poss
+their(clients)
+
+through
+obj
+keyhole(through)
+Negation: False
+
+doc id: 58
+sentence id: 7
+Now , as we report on Page 15 , she is to be parted from the nursery school children whose friendship has helped to restore her health and build her confidence . 
+verb: is to be parted
+ 
+subj
+she(is to be parted)
+
+from
+obj
+children(from)
+compound
+school(children)
+compound
+nursery(school)
+Negation: False
+
+doc id: 58
+sentence id: 7
+Now , as we report on Page 15 , she is to be parted from the nursery school children whose friendship has helped to restore her health and build her confidence . 
+verb: report
+ 
+subj
+we(report)
+
+on
+obj
+Page(on)
+mod
+15(Page)
+Negation: False
+
+doc id: 58
+sentence id: 7
+Now , as we report on Page 15 , she is to be parted from the nursery school children whose friendship has helped to restore her health and build her confidence . 
+verb: has helped to restore
+ 
+subj
+friendship(has helped to restore)
+poss
+whose(friendship)
+obj
+health(has helped to restore)
+poss
+her(health)
+Negation: False
+
+doc id: 58
+sentence id: 7
+Now , as we report on Page 15 , she is to be parted from the nursery school children whose friendship has helped to restore her health and build her confidence . 
+verb: build
+ 
+subj
+friendship(build)
+poss
+whose(friendship)
+obj
+confidence(build)
+poss
+her(confidence)
+Negation: False
+
+doc id: 58
+sentence id: 8
+She had refused to be parted from it , and leniency had been shown during her first few days in new surroundings . 
+verb: had refused to be parted,  had been shown
+ 
+subj
+ She leniency(had refused to be parted,  had been shown)
+
+from
+obj
+it(from)
+Negation: False
+
+doc id: 58
+sentence id: 9
+He moved to the bay window , parted the curtains and looked out on Champney Road . 
+verb: moved,  parted
+ 
+subj
+He(moved,  parted)
+obj
+curtains(moved,  parted)
+Negation: False
+
+to
+obj
+window(to)
+compound
+bay(window)
+Negation: False
+
+doc id: 58
+sentence id: 9
+He moved to the bay window , parted the curtains and looked out on Champney Road . 
+verb: looked out
+ 
+subj
+He(looked out)
+
+on
+obj
+Road(on)
+compound
+Champney(Road)
+Negation: False
+
+doc id: 58
+sentence id: 10
+She parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+verb: parted
+ 
+subj
+She(parted)
+obj
+lips(parted)
+poss
+her(lips)
+Negation: False
+
+doc id: 58
+sentence id: 10
+She parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+verb: to tell
+ 
+obj
+him(to tell)
+Negation: False
+
+about
+obj
+Dana(about)
+Negation: False
+
+doc id: 58
+sentence id: 10
+She parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+verb: closed
+ 
+subj
+She(closed)
+obj
+them(closed)
+Negation: False
+
+as
+obj
+plea(as)
+mod prep
+desperate(plea) from(plea)
+pobj
+twin(from)
+poss
+her(twin)
+Negation: False
+
+doc id: 58
+sentence id: 10
+She parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+verb: made
+ 
+
+doc id: 58
+sentence id: 10
+She parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+verb: known
+ 
+subj
+itself(known)
+
+doc id: 58
+sentence id: 10
+She parted her lips to tell him about Dana , then closed them again as a desperate plea from her twin made itself known as clearly as if Dana had been in the same room . 
+verb: had been
+ 
+subj
+Dana(had been)
+
+in
+obj
+room(in)
+mod
+same(room)
+Negation: False
+
+doc id: 62
+sentence id: 1
+The coelenterate communicative process is well known by the large marine invertebrate importers and dealers who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+verb: placed
+ 
+
+doc id: 62
+sentence id: 1
+The coelenterate communicative process is well known by the large marine invertebrate importers and dealers who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+verb: is
+ 
+subj
+process(is)
+mod mod
+communicative(process) coelenterate(process)
+
+doc id: 62
+sentence id: 1
+The coelenterate communicative process is well known by the large marine invertebrate importers and dealers who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+verb: known
+ 
+subj
+by(known)
+obj
+importers(by)
+det amod amod amod cc conj relcl
+the(importers) large(importers) marine(importers) invertebrate(importers) and(importers) dealers(importers) segregate(importers)
+nsubj advmod dobj prep
+who(segregate) usually(segregate) coelenterates(segregate) by(segregate)
+pobj
+species(by)
+acl
+devoting(species)
+dobj prep
+tank(devoting) to(devoting)
+det pobj
+a(tank) species(to)
+det amod relcl
+a(species) single(species) will be happy(species)
+advmod nsubj
+where(will be happy) they(will be happy)
+
+doc id: 62
+sentence id: 1
+The coelenterate communicative process is well known by the large marine invertebrate importers and dealers who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+verb: segregate
+ 
+subj
+who(segregate)
+obj
+coelenterates(segregate)
+Negation: False
+
+by
+obj
+species(by)
+Negation: False
+
+doc id: 62
+sentence id: 1
+The coelenterate communicative process is well known by the large marine invertebrate importers and dealers who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+verb: devoting
+ 
+obj
+tank(devoting)
+Negation: False
+
+to
+obj
+species(to)
+mod
+single(species)
+Negation: False
+
+doc id: 62
+sentence id: 1
+The coelenterate communicative process is well known by the large marine invertebrate importers and dealers who usually segregate coelenterates by species devoting a tank to a single species where they will be happy placed close together . 
+verb: will be happy
+ 
+subj
+they(will be happy)
+
+doc id: 62
+sentence id: 2
+However , segregating income from capital is not only concerned with producing an income figure which might be used as a measure of performance . 
+verb: is concerned
+ 
+
+doc id: 62
+sentence id: 2
+However , segregating income from capital is not only concerned with producing an income figure which might be used as a measure of performance . 
+verb: segregating
+ 
+obj
+income(segregating)
+prep
+from(income)
+pobj
+capital(from)
+Negation: False
+
+doc id: 62
+sentence id: 2
+However , segregating income from capital is not only concerned with producing an income figure which might be used as a measure of performance . 
+verb: producing
+ 
+obj
+figure(producing)
+compound
+income(figure)
+Negation: False
+
+doc id: 62
+sentence id: 2
+However , segregating income from capital is not only concerned with producing an income figure which might be used as a measure of performance . 
+verb: might be used
+ 
+subj
+figure(might be used)
+compound
+income(figure)
+
+as
+obj
+measure(as)
+prep
+of(measure)
+pobj
+performance(of)
+Negation: False
+
+doc id: 62
+sentence id: 3
+Kossoff prefers to segregate his drawings from his paintings in his exhibitions . 
+verb: prefers to segregate
+ 
+subj
+Kossoff(prefers to segregate)
+obj
+drawings(prefers to segregate)
+poss
+his(drawings)
+Negation: False
+
+from
+obj
+paintings(from)
+poss
+his(paintings)
+Negation: False
+
+doc id: 62
+sentence id: 4
+In addition , these user histories point to the fact that the receptionists of some surgeries were instructed to turn away ` addicts " or , at least , segregate them from the rest of the patients . 
+verb: point
+ 
+subj
+histories(point)
+compound
+user(histories)
+
+In
+obj
+addition(In)
+Negation: False
+
+doc id: 62
+sentence id: 4
+In addition , these user histories point to the fact that the receptionists of some surgeries were instructed to turn away ` addicts " or , at least , segregate them from the rest of the patients . 
+verb: were instructed to turn away
+ 
+subj
+receptionists(were instructed to turn away)
+prep
+of(receptionists)
+pobj
+surgeries(of)
+det
+some(surgeries)
+obj
+addicts(were instructed to turn away)
+Negation: False
+
+doc id: 62
+sentence id: 4
+In addition , these user histories point to the fact that the receptionists of some surgeries were instructed to turn away ` addicts " or , at least , segregate them from the rest of the patients . 
+verb: segregate
+ 
+subj
+receptionists(segregate)
+prep
+of(receptionists)
+pobj
+surgeries(of)
+det
+some(surgeries)
+obj
+them(segregate)
+Negation: False
+
+from
+obj
+rest(from)
+prep
+of(rest)
+pobj
+patients(of)
+det
+the(patients)
+Negation: False
+
+doc id: 62
+sentence id: 5
+This approach may be supplemented by segregating young pigs from those of more than nine months of age which will be excreting eggs . 
+verb: may be supplemented
+ 
+subj
+approach(may be supplemented)
+
+doc id: 62
+sentence id: 5
+This approach may be supplemented by segregating young pigs from those of more than nine months of age which will be excreting eggs . 
+verb: segregating
+ 
+obj
+pigs(segregating)
+mod
+young(pigs)
+Negation: False
+
+from
+obj
+those(from)
+prep
+of(those)
+pobj
+months(of)
+nummod prep relcl
+nine(months) of(months) will be excreting(months)
+amod quantmod pobj nsubj dobj
+more(nine) than(nine) age(of) which(will be excreting) eggs(will be excreting)
+Negation: False
+
+doc id: 62
+sentence id: 5
+This approach may be supplemented by segregating young pigs from those of more than nine months of age which will be excreting eggs . 
+verb: will be excreting
+ 
+subj
+months(will be excreting)
+mod prep
+nine(months) of(months)
+amod quantmod pobj
+more(nine) than(nine) age(of)
+obj
+eggs(will be excreting)
+Negation: False
+
+doc id: 62
+sentence id: 6
+Governments and local authorities must help householders and industry to segregate their waste according to the composition of the materials . 
+verb: must help ... to segregate
+ 
+subj
+Governments(must help ... to segregate)
+conj cc
+authorities(Governments) and(Governments)
+amod
+local(authorities)
+obj
+householders(must help ... to segregate)
+conj cc
+industry(householders) and(householders)
+Negation: False
+
+to segregate
+obj
+waste(to segregate)
+poss
+their(waste)
+Negation: False
+
+doc id: 62
+sentence id: 6
+Governments and local authorities must help householders and industry to segregate their waste according to the composition of the materials . 
+verb: according
+ 
+
+to
+obj
+composition(to)
+prep
+of(composition)
+pobj
+materials(of)
+det
+the(materials)
+Negation: False
+
+doc id: 62
+sentence id: 7
+Furthermore , most schools are segregated by sex , and the building of boys ' schools has historically taken precedence over building girls ' schools . 
+verb: are segregated,  has taken
+ 
+subj
+ building schools by(are segregated,  has taken)
+obj mod prep
+sex( building schools by) most( building schools by) of( building schools by)
+pobj
+schools(of)
+poss
+boys(schools)
+case
+'(boys)
+
+doc id: 62
+sentence id: 7
+Furthermore , most schools are segregated by sex , and the building of boys ' schools has historically taken precedence over building girls ' schools . 
+verb: building
+ 
+obj
+schools(building)
+poss
+girls(schools)
+case
+'(girls)
+Negation: False
+
+doc id: 62
+sentence id: 8
+For the second and fifth of these situations , the subjects were segregated by gender , the male group being left with a male fieldworker , and the female with a female fieldworker . 
+verb: being left
+ 
+subj
+group(being left)
+mod
+male(group)
+
+with
+obj
+fieldworker(with)
+mod
+male(fieldworker)
+Negation: False
+
+doc id: 62
+sentence id: 8
+For the second and fifth of these situations , the subjects were segregated by gender , the male group being left with a male fieldworker , and the female with a female fieldworker . 
+verb: were segregated
+ 
+subj
+subjects(were segregated)
+
+For
+obj
+second(For)
+conj cc prep
+fifth(second) and(second) of(second)
+pobj
+situations(of)
+det
+these(situations)
+Negation: False
+
+doc id: 62
+sentence id: 9
+But then at Vladimir , Holly had been segregated from the mass of the zeks , the convicts who formed the greatest part of the prison population . 
+verb: had been segregated
+ 
+subj
+Holly(had been segregated)
+
+at
+obj
+Vladimir(at)
+Negation: False
+
+doc id: 62
+sentence id: 9
+But then at Vladimir , Holly had been segregated from the mass of the zeks , the convicts who formed the greatest part of the prison population . 
+verb: formed
+ 
+subj
+who(formed)
+obj
+part(formed)
+mod prep
+greatest(part) of(part)
+pobj
+population(of)
+det compound
+the(population) prison(population)
+Negation: False
+
+doc id: 62
+sentence id: 10
+They would be segregated from members of the caste system and lived on the outskirts of villages or in their own communities . 
+verb: would be segregated,  lived
+ 
+subj
+They(would be segregated,  lived)
+
+from
+obj
+members(from)
+prep
+of(members)
+pobj
+system(of)
+det compound
+the(system) caste(system)
+Negation: False
+
+doc id: 62
+sentence id: 11
+They had been strictly segregated from the ladies and gentlemen who entered by the front entrance and walked on carpet . 
+verb: had been segregated
+ 
+subj
+They(had been segregated)
+
+from
+obj
+ladies(from)
+conj cc
+gentlemen(ladies) and(ladies)
+Negation: False
+
+doc id: 62
+sentence id: 11
+They had been strictly segregated from the ladies and gentlemen who entered by the front entrance and walked on carpet . 
+verb: entered,  walked
+ 
+subj
+who(entered,  walked)
+
+by
+obj
+entrance(by)
+mod
+front(entrance)
+Negation: False
+
+doc id: 62
+sentence id: 12
+They too were segregated into wagons for families and those for single men . 
+verb: were segregated
+ 
+subj
+They(were segregated)
+
+into
+obj
+wagons(into)
+Negation: False
+
+doc id: 62
+sentence id: 13
+Thus , pressure is increasing to identify sources and modes of transmission , and to segregate colonised from non-colonised patients . 
+verb: is increasing to identify
+ 
+subj
+pressure(is increasing to identify)
+obj
+sources(is increasing to identify)
+conj cc
+modes(sources) and(sources)
+prep
+of(modes)
+pobj
+transmission(of)
+Negation: False
+
+doc id: 62
+sentence id: 13
+Thus , pressure is increasing to identify sources and modes of transmission , and to segregate colonised from non-colonised patients . 
+verb: to segregate colonised
+ 
+subj
+pressure(to segregate colonised)
+
+from
+obj
+patients(from)
+mod
+ non - colonised(patients)
+Negation: False
+
+doc id: 62
+sentence id: 13
+Thus , pressure is increasing to identify sources and modes of transmission , and to segregate colonised from non-colonised patients . 
+verb: colonised
+ 
+
+doc id: 62
+sentence id: 14
+Individuals should be restricted and segregated from the general community as little as possible . 
+verb: should be restricted,  segregated
+ 
+subj
+Individuals(should be restricted,  segregated)
+
+doc id: 62
+sentence id: 15
+By necessity and by choice the Jews were a race apart , the only group entirely segregated from the rest of the community . 
+verb: segregated
+ 
+subj
+group(segregated)
+mod
+only(group)
+obj
+were(segregated)
+subj mod prep
+Jews(were) apart(were)  By by(were)
+det npadvmod
+the(Jews) race(apart)
+det
+a(race)
+Negation: False
+
+from
+obj
+rest(from)
+prep
+of(rest)
+pobj
+community(of)
+det
+the(community)
+Negation: False
+
+doc id: 62
+sentence id: 15
+By necessity and by choice the Jews were a race apart , the only group entirely segregated from the rest of the community . 
+verb: were
+ 
+subj
+Jews(were)
+
+By
+obj
+necessity(By)
+Negation: False
+
+doc id: 62
+sentence id: 16
+They might still , for their own sakes , be taught in groups segregated according to ability , and that did not matter . 
+verb: might be taught, not did matter
+ 
+subj
+ that They(might be taught, not did matter)
+
+for
+obj
+sakes(for)
+mod poss
+own(sakes) their(sakes)
+Negation: False
+
+doc id: 62
+sentence id: 16
+They might still , for their own sakes , be taught in groups segregated according to ability , and that did not matter . 
+verb: segregated
+ 
+
+doc id: 62
+sentence id: 16
+They might still , for their own sakes , be taught in groups segregated according to ability , and that did not matter . 
+verb: according
+ 
+
+to
+obj
+ability(to)
+Negation: False
+
+doc id: 2612
+sentence id: 1
+Build a plywood platform at one end of the room , cover it with a carpet and pile it with floor cushions . 
+verb: Build
+ 
+obj
+platform(Build)
+compound
+plywood(platform)
+Negation: False
+
+at
+obj
+end(at)
+mod prep
+one(end) of(end)
+pobj
+room(of)
+det
+the(room)
+Negation: False
+
+doc id: 2612
+sentence id: 1
+Build a plywood platform at one end of the room , cover it with a carpet and pile it with floor cushions . 
+verb: cover
+ 
+obj
+it(cover)
+Negation: False
+
+with
+obj
+carpet(with)
+Negation: False
+
+doc id: 2612
+sentence id: 1
+Build a plywood platform at one end of the room , cover it with a carpet and pile it with floor cushions . 
+verb: pile
+ 
+obj
+it(pile)
+Negation: False
+
+with
+obj
+cushions(with)
+compound
+floor(cushions)
+Negation: False
+
+doc id: 2612
+sentence id: 2
+The vandals broke into the house , piled the cooker with linen then switched it on and set light to it . 
+verb: broke,  piled
+ 
+subj
+vandals(broke,  piled)
+obj
+cooker(broke,  piled)
+Negation: False
+
+into
+obj
+house(into)
+Negation: False
+
+doc id: 2612
+sentence id: 2
+The vandals broke into the house , piled the cooker with linen then switched it on and set light to it . 
+verb: switched on
+ 
+subj
+vandals(switched on)
+obj
+it(switched on)
+Negation: False
+
+doc id: 2612
+sentence id: 2
+The vandals broke into the house , piled the cooker with linen then switched it on and set light to it . 
+verb: set
+ 
+subj
+vandals(set)
+obj
+light(set)
+Negation: False
+
+to
+obj
+it(to)
+Negation: False
+
+doc id: 2612
+sentence id: 3
+` Only teasing you , Wraysford , " said Harrington , piling his plate with the fried eggs , which had started to congeal beneath the cover . 
+verb: said
+ 
+subj
+Harrington(said)
+
+doc id: 2612
+sentence id: 3
+` Only teasing you , Wraysford , " said Harrington , piling his plate with the fried eggs , which had started to congeal beneath the cover . 
+verb: teasing
+ 
+obj
+you(teasing)
+Negation: False
+
+doc id: 2612
+sentence id: 3
+` Only teasing you , Wraysford , " said Harrington , piling his plate with the fried eggs , which had started to congeal beneath the cover . 
+verb: piling
+ 
+obj
+plate(piling)
+poss
+his(plate)
+Negation: False
+
+with
+obj
+eggs(with)
+mod punct
+fried(eggs) ,(eggs)
+Negation: False
+
+doc id: 2612
+sentence id: 3
+` Only teasing you , Wraysford , " said Harrington , piling his plate with the fried eggs , which had started to congeal beneath the cover . 
+verb: fried
+ 
+
+doc id: 2612
+sentence id: 3
+` Only teasing you , Wraysford , " said Harrington , piling his plate with the fried eggs , which had started to congeal beneath the cover . 
+verb: had started to congeal
+ 
+subj
+eggs(had started to congeal)
+mod punct
+fried(eggs) ,(eggs)
+
+beneath
+obj
+cover(beneath)
+Negation: False
+
+doc id: 2612
+sentence id: 4
+A promenade ran along the top , and Ruth saw Council workmen piling sandbags against the brightly painted railings . 
+verb: ran,  saw
+ 
+subj
+ promenade Ruth(ran,  saw)
+
+along
+obj
+top(along)
+Negation: False
+
+doc id: 2612
+sentence id: 4
+A promenade ran along the top , and Ruth saw Council workmen piling sandbags against the brightly painted railings . 
+verb: piling
+ 
+subj
+workmen(piling)
+compound
+Council(workmen)
+obj
+sandbags(piling)
+Negation: False
+
+against
+obj
+railings(against)
+mod
+painted(railings)
+advmod
+brightly(painted)
+Negation: False
+
+doc id: 2612
+sentence id: 4
+A promenade ran along the top , and Ruth saw Council workmen piling sandbags against the brightly painted railings . 
+verb: painted
+ 
+
+doc id: 2612
+sentence id: 5
+When they 'd gone Maggie gathered up the rest of the dishes and piled them in the sink . 
+verb: gathered up
+ 
+subj
+Maggie(gathered up)
+obj
+rest(gathered up)
+prep
+of(rest)
+pobj
+dishes(of)
+det
+the(dishes)
+Negation: False
+
+doc id: 2612
+sentence id: 5
+When they 'd gone Maggie gathered up the rest of the dishes and piled them in the sink . 
+verb: 'd gone
+ 
+subj
+they('d gone)
+
+doc id: 2612
+sentence id: 5
+When they 'd gone Maggie gathered up the rest of the dishes and piled them in the sink . 
+verb: piled
+ 
+subj
+Maggie(piled)
+obj
+them(piled)
+Negation: False
+
+in
+obj
+sink(in)
+Negation: False
+
+doc id: 2612
+sentence id: 6
+The drivers piled them into cars and drove off to return shortly for another load . 
+verb: piled
+ 
+subj
+drivers(piled)
+obj
+them(piled)
+Negation: False
+
+into
+obj
+cars(into)
+Negation: False
+
+doc id: 2612
+sentence id: 6
+The drivers piled them into cars and drove off to return shortly for another load . 
+verb: drove off
+ 
+subj
+drivers(drove off)
+
+doc id: 2612
+sentence id: 6
+The drivers piled them into cars and drove off to return shortly for another load . 
+verb: to return
+ 
+
+for
+obj
+load(for)
+Negation: False
+
+doc id: 2612
+sentence id: 7
+At the time I was mucking out the byre stalls , and piling the manure on top of my big heap when I saw the lights go on in the house . 
+verb: was mucking out
+ 
+subj
+I(was mucking out)
+obj
+stalls(was mucking out)
+compound
+byre(stalls)
+Negation: False
+
+At
+obj
+time(At)
+Negation: False
+
+doc id: 2612
+sentence id: 7
+At the time I was mucking out the byre stalls , and piling the manure on top of my big heap when I saw the lights go on in the house . 
+verb: piling
+ 
+subj
+I(piling)
+obj
+manure(piling)
+Negation: False
+
+on
+obj
+top(on)
+prep
+of(top)
+pobj
+heap(of)
+poss amod
+my(heap) big(heap)
+Negation: False
+
+doc id: 2612
+sentence id: 7
+At the time I was mucking out the byre stalls , and piling the manure on top of my big heap when I saw the lights go on in the house . 
+verb: saw
+ 
+subj
+I(saw)
+
+doc id: 2612
+sentence id: 7
+At the time I was mucking out the byre stalls , and piling the manure on top of my big heap when I saw the lights go on in the house . 
+verb: go on
+ 
+subj
+lights(go on)
+
+in
+obj
+house(in)
+Negation: False
+
+doc id: 2612
+sentence id: 8
+On top of the turves , which gave out a steady glow , they piled logs , until the blaze roared in the grate , filling the kitchen with life-giving heat . 
+verb: piled
+ 
+subj
+they(piled)
+obj
+logs(piled)
+Negation: False
+
+On
+obj
+top(On)
+prep
+of(top)
+pobj
+turves(of)
+det punct relcl
+the(turves) ,(turves) gave out(turves)
+nsubj dobj
+which(gave out) glow(gave out)
+det amod
+a(glow) steady(glow)
+Negation: False
+
+doc id: 2612
+sentence id: 8
+On top of the turves , which gave out a steady glow , they piled logs , until the blaze roared in the grate , filling the kitchen with life-giving heat . 
+verb: gave out
+ 
+subj
+turves(gave out)
+punct
+,(turves)
+obj
+glow(gave out)
+mod
+steady(glow)
+Negation: False
+
+doc id: 2612
+sentence id: 8
+On top of the turves , which gave out a steady glow , they piled logs , until the blaze roared in the grate , filling the kitchen with life-giving heat . 
+verb: roared
+ 
+subj
+blaze(roared)
+
+in
+obj
+grate(in)
+Negation: False
+
+doc id: 2612
+sentence id: 8
+On top of the turves , which gave out a steady glow , they piled logs , until the blaze roared in the grate , filling the kitchen with life-giving heat . 
+verb: filling
+ 
+obj
+kitchen(filling)
+Negation: False
+
+with
+obj
+heat(with)
+mod
+giving(heat)
+npadvmod punct
+life(giving) -(giving)
+Negation: False
+
+doc id: 2612
+sentence id: 8
+On top of the turves , which gave out a steady glow , they piled logs , until the blaze roared in the grate , filling the kitchen with life-giving heat . 
+verb: giving
+ 
+
+doc id: 2612
+sentence id: 9
+The bales that are still in one piece are piled on to a wagon as they are brought in . 
+verb: are piled on
+ 
+subj
+bales(are piled on)
+
+to
+obj
+wagon(to)
+Negation: False
+
+doc id: 2612
+sentence id: 9
+The bales that are still in one piece are piled on to a wagon as they are brought in . 
+verb: are
+ 
+subj
+bales(are)
+
+in
+obj
+piece(in)
+mod
+one(piece)
+Negation: False
+
+doc id: 2612
+sentence id: 9
+The bales that are still in one piece are piled on to a wagon as they are brought in . 
+verb: are brought in
+ 
+subj
+they(are brought in)
+
+doc id: 2612
+sentence id: 10
+The bodies of 6 ewes and a ram were piled onto a tractor trailer near where they drowned in the Stretford Brook . 
+verb: were piled
+ 
+subj
+bodies(were piled)
+conj cc prep
+ram(bodies) and(bodies) of(bodies)
+det pobj
+a(ram) ewes(of)
+nummod
+6(ewes)
+
+onto
+obj
+trailer(onto)
+compound
+tractor(trailer)
+Negation: False
+
+doc id: 2612
+sentence id: 10
+The bodies of 6 ewes and a ram were piled onto a tractor trailer near where they drowned in the Stretford Brook . 
+verb: drowned
+ 
+subj
+they(drowned)
+
+in
+obj
+Brook(in)
+compound
+Stretford(Brook)
+Negation: False
+
+doc id: 2612
+sentence id: 11
+With a teaspoon , pile cheese mixture into cavities left by the removal of the cores in the pear halves . 
+verb: left
+ 
+subj
+by(left)
+obj
+removal(by)
+det prep prep
+the(removal) of(removal) in(removal)
+pobj pobj
+cores(of) halves(in)
+det det compound
+the(cores) the(halves) pear(halves)
+
+doc id: 2612
+sentence id: 12
+I piled everything i could on a sheet in the middle of the floor and tied up the corners …
+verb: piled
+ 
+subj
+I(piled)
+obj
+everything(piled)
+Negation: False
+
+on
+obj
+sheet(on)
+prep
+in(sheet)
+pobj
+middle(in)
+det prep
+the(middle) of(middle)
+pobj
+floor(of)
+det
+the(floor)
+Negation: False
+
+doc id: 2612
+sentence id: 12
+I piled everything i could on a sheet in the middle of the floor and tied up the corners …
+verb: could
+ 
+subj
+i(could)
+
+doc id: 2612
+sentence id: 12
+I piled everything i could on a sheet in the middle of the floor and tied up the corners …
+verb: tied up
+ 
+subj
+I(tied up)
+obj
+corners(tied up)
+Negation: False
+
+doc id: 2612
+sentence id: 13
+About 20min before serving remove all but the chocolate-coated truffles from the fridge and pile onto a large platter . 
+verb: serving remove
+ 
+obj
+all(serving remove)
+Negation: False
+
+doc id: 2612
+sentence id: 13
+About 20min before serving remove all but the chocolate-coated truffles from the fridge and pile onto a large platter . 
+verb: coated
+ 
+
+doc id: 2612
+sentence id: 13
+About 20min before serving remove all but the chocolate-coated truffles from the fridge and pile onto a large platter . 
+verb: pile
+ 
+
+onto
+obj
+platter(onto)
+mod
+large(platter)
+Negation: False
+
+doc id: 2612
+sentence id: 14
+The dryish curd is cut into big chunks and piled into huge tubs that are left to stand in the dairy overnight to allow the acidity and flavour to develop . 
+verb: is cut,  piled
+ 
+subj
+curd(is cut,  piled)
+mod
+dryish(curd)
+
+into
+obj
+chunks(into)
+mod
+big(chunks)
+Negation: False
+
+doc id: 2612
+sentence id: 14
+The dryish curd is cut into big chunks and piled into huge tubs that are left to stand in the dairy overnight to allow the acidity and flavour to develop . 
+verb: are left
+ 
+subj
+tubs(are left)
+mod
+huge(tubs)
+
+doc id: 2612
+sentence id: 14
+The dryish curd is cut into big chunks and piled into huge tubs that are left to stand in the dairy overnight to allow the acidity and flavour to develop . 
+verb: to stand
+ 
+
+in
+obj
+dairy(in)
+Negation: False
+
+doc id: 2612
+sentence id: 14
+The dryish curd is cut into big chunks and piled into huge tubs that are left to stand in the dairy overnight to allow the acidity and flavour to develop . 
+verb: to allow
+ 
+
+doc id: 2612
+sentence id: 14
+The dryish curd is cut into big chunks and piled into huge tubs that are left to stand in the dairy overnight to allow the acidity and flavour to develop . 
+verb: to develop
+ 
+subj
+acidity(to develop)
+conj cc
+flavour(acidity) and(acidity)
+
+doc id: 2612
+sentence id: 15
+The new money flows into the already top-heavy administrative structure , which busies itself piling more and more paper work on the teachers .
+verb: flows
+ 
+subj
+money(flows)
+mod
+new(money)
+
+into
+obj
+structure(into)
+mod punct
+ heavy administrative(structure) ,(structure)
+Negation: False
+
+doc id: 2612
+sentence id: 15
+The new money flows into the already top-heavy administrative structure , which busies itself piling more and more paper work on the teachers .
+verb: busies ... piling
+ 
+subj
+structure(busies ... piling)
+mod punct
+ heavy administrative(structure) ,(structure)
+obj
+itself(busies ... piling)
+Negation: False
+
+piling
+obj
+work(piling)
+mod prep compound
+more(work) on(work) paper(work)
+cc conj pobj
+and(more) more(more) teachers(on)
+det
+the(teachers)
+Negation: False
+
+doc id: 7127
+sentence id: 1
+The plaster work had been restored and gilded so that it glittered against a dazzling white ceiling and against walls hung with crimson wallpaper . 
+verb: had been restored,  gilded
+ 
+subj
+work(had been restored,  gilded)
+compound
+plaster(work)
+
+against
+obj
+walls(against)
+Negation: False
+
+doc id: 7127
+sentence id: 1
+The plaster work had been restored and gilded so that it glittered against a dazzling white ceiling and against walls hung with crimson wallpaper . 
+verb: glittered
+ 
+subj
+it(glittered)
+
+against
+obj
+ceiling(against)
+mod
+ dazzling white(ceiling)
+Negation: False
+
+doc id: 7127
+sentence id: 1
+The plaster work had been restored and gilded so that it glittered against a dazzling white ceiling and against walls hung with crimson wallpaper . 
+verb: hung
+ 
+subj
+work(hung)
+compound
+plaster(work)
+
+with
+obj
+wallpaper(with)
+mod
+crimson(wallpaper)
+Negation: False
+
+doc id: 7127
+sentence id: 2
+In the Roman Imperial period copper and bronze statues and silver and bronze jewellery were commonly gilded . 
+verb: were gilded
+ 
+
+In
+obj
+ copper statues(In)
+Negation: False
+
+doc id: 7127
+sentence id: 3
+A huge yellow sun was gilding the puddles and turning the poplars the colour of lemon sherbets . 
+verb: was gilding
+ 
+subj
+sun(was gilding)
+mod
+ huge yellow(sun)
+obj
+puddles(was gilding)
+Negation: False
+
+doc id: 7127
+sentence id: 3
+A huge yellow sun was gilding the puddles and turning the poplars the colour of lemon sherbets . 
+verb: turning
+ 
+subj
+sun(turning)
+mod
+ huge yellow(sun)
+obj
+ poplars colour(turning)
+Negation: False
+
+doc id: 7127
+sentence id: 4
+Morning came , silver and gold , with sunlight that skimmed the surface of the loch and gilded the poppies and roses in the garden at Ardneavie . 
+verb: came
+ 
+subj
+Morning(came)
+
+with
+obj
+sunlight(with)
+Negation: False
+
+doc id: 7127
+sentence id: 4
+Morning came , silver and gold , with sunlight that skimmed the surface of the loch and gilded the poppies and roses in the garden at Ardneavie . 
+verb: skimmed
+ 
+subj
+sunlight(skimmed)
+obj
+surface(skimmed)
+prep
+of(surface)
+pobj
+loch(of)
+det
+the(loch)
+Negation: False
+
+doc id: 7127
+sentence id: 4
+Morning came , silver and gold , with sunlight that skimmed the surface of the loch and gilded the poppies and roses in the garden at Ardneavie . 
+verb: gilded
+ 
+subj
+that(gilded)
+obj
+poppies(gilded)
+conj cc
+roses(poppies) and(poppies)
+Negation: False
+
+in
+obj
+garden(in)
+prep
+at(garden)
+pobj
+Ardneavie(at)
+Negation: False
+
+doc id: 7127
+sentence id: 5
+Parts of the surface of the helmet were gilded , the boar , dragon heads , the nose and mouth of the face-mask , under surfaces of the eyebrows and the broad fluted strips flanking the crest . 
+verb: were gilded
+ 
+subj
+Parts(were gilded)
+prep
+of(Parts)
+pobj
+surface(of)
+det prep
+the(surface) of(surface)
+pobj
+helmet(of)
+det
+the(helmet)
+
+doc id: 7127
+sentence id: 5
+Parts of the surface of the helmet were gilded , the boar , dragon heads , the nose and mouth of the face-mask , under surfaces of the eyebrows and the broad fluted strips flanking the crest . 
+verb: flanking
+ 
+obj
+crest(flanking)
+Negation: False
+
+doc id: 7127
+sentence id: 6
+The morning was calm and bright , with sunlight gilding the whins and sending a glitter across the.bay . 
+verb: was calm
+ 
+subj
+morning(was calm)
+
+doc id: 7127
+sentence id: 6
+The morning was calm and bright , with sunlight gilding the whins and sending a glitter across the.bay . 
+verb: gilding
+ 
+subj
+sunlight(gilding)
+obj
+whins(gilding)
+Negation: False
+
+doc id: 7127
+sentence id: 6
+The morning was calm and bright , with sunlight gilding the whins and sending a glitter across the.bay . 
+verb: sending
+ 
+subj
+sunlight(sending)
+obj
+glitter(sending)
+Negation: False
+
+across
+obj
+the.bay(across)
+Negation: False
+
+doc id: 7127
+sentence id: 7
+Even the horn was of a much lighter colour than usual , although it had been gilded with silver . 
+verb: was
+ 
+subj
+horn(was)
+mod
+Even(horn)
+
+of
+obj
+colour(of)
+mod prep
+lighter(colour) than(colour)
+advmod amod
+much(lighter) usual(than)
+Negation: False
+
+doc id: 7127
+sentence id: 7
+Even the horn was of a much lighter colour than usual , although it had been gilded with silver . 
+verb: had been gilded
+ 
+subj
+it(had been gilded)
+
+with
+obj
+silver(with)
+Negation: False
+
+doc id: 7127
+sentence id: 8
+By this time saucers were also being lined with glass so they could be gilded . 
+verb: were being lined
+ 
+subj
+saucers(were being lined)
+
+By
+obj
+time(By)
+Negation: False
+
+doc id: 7127
+sentence id: 8
+By this time saucers were also being lined with glass so they could be gilded . 
+verb: could be gilded
+ 
+subj
+they(could be gilded)
+
+doc id: 7127
+sentence id: 9
+The last few stars disappeared , extinguished by the splendour of the rising sun as shafts of golden light gilded the sea . 
+verb: disappeared
+ 
+subj
+stars(disappeared)
+mod
+ last few(stars)
+
+doc id: 7127
+sentence id: 9
+The last few stars disappeared , extinguished by the splendour of the rising sun as shafts of golden light gilded the sea . 
+verb: extinguished
+ 
+subj
+by(extinguished)
+obj
+splendour(by)
+det prep prep
+the(splendour) of(splendour) as(splendour)
+pobj pobj
+sun(of) shafts(as)
+det amod prep
+the(sun) rising(sun) of(shafts)
+pobj
+light(of)
+amod
+golden(light)
+
+doc id: 7127
+sentence id: 9
+The last few stars disappeared , extinguished by the splendour of the rising sun as shafts of golden light gilded the sea . 
+verb: rising
+ 
+
+doc id: 7127
+sentence id: 9
+The last few stars disappeared , extinguished by the splendour of the rising sun as shafts of golden light gilded the sea . 
+verb: gilded
+ 
+obj
+sea(gilded)
+Negation: False
+
+doc id: 2580
+sentence id: 1
+Milligan has crammed it so full of Victorian antiques , paintings and illustrations that the cement is hidden by memorabilia . 
+verb: has crammed
+ 
+subj
+Milligan(has crammed)
+obj
+ it full(has crammed)
+mod prep
+so( it full) of( it full)
+pobj
+antiques(of)
+amod punct conj
+Victorian(antiques) ,(antiques) paintings(antiques)
+cc conj
+and(paintings) illustrations(paintings)
+Negation: False
+
+doc id: 2580
+sentence id: 1
+Milligan has crammed it so full of Victorian antiques , paintings and illustrations that the cement is hidden by memorabilia . 
+verb: is hidden
+ 
+subj
+cement(is hidden)
+
+doc id: 2580
+sentence id: 2
+The quantity given will stuff a 5kg/10lb turkey fore and aft , as you do not want to cram the bird to bursting . 
+verb: will stuff
+ 
+subj
+quantity(will stuff)
+obj
+fore(will stuff)
+mod compound
+lb(fore) turkey(fore)
+nummod
+5kg/10(lb)
+Negation: False
+
+doc id: 2580
+sentence id: 2
+The quantity given will stuff a 5kg/10lb turkey fore and aft , as you do not want to cram the bird to bursting . 
+verb: given
+ 
+
+doc id: 2580
+sentence id: 2
+The quantity given will stuff a 5kg/10lb turkey fore and aft , as you do not want to cram the bird to bursting . 
+verb: do want to cram
+ 
+subj
+you(do want to cram)
+obj
+bird(do want to cram)
+Negation: True
+
+doc id: 2580
+sentence id: 2
+The quantity given will stuff a 5kg/10lb turkey fore and aft , as you do not want to cram the bird to bursting . 
+verb: bursting
+ 
+
+doc id: 2580
+sentence id: 3
+The apartment itself was enormous and , as if she were scared of the space , Jane Pargeter had crammed it with expensive furniture . 
+verb: was enormous,  had crammed
+ 
+subj
+ apartment Pargeter(was enormous,  had crammed)
+obj
+it(was enormous,  had crammed)
+Negation: False
+
+doc id: 2580
+sentence id: 3
+The apartment itself was enormous and , as if she were scared of the space , Jane Pargeter had crammed it with expensive furniture . 
+verb: were scared
+ 
+subj
+she(were scared)
+
+of
+obj
+space(of)
+Negation: False
+
+doc id: 2580
+sentence id: 4
+Do not cram the cage with leaves , for this often leads to condensation and makes it harder to see the caterpillars . 
+verb: leads,  makes
+ 
+subj
+this(leads,  makes)
+obj
+harder(leads,  makes)
+subj
+it(harder)
+Negation: False
+
+to
+obj
+condensation(to)
+Negation: False
+
+doc id: 2580
+sentence id: 4
+Do not cram the cage with leaves , for this often leads to condensation and makes it harder to see the caterpillars . 
+verb: Do cram
+ 
+obj
+cage(Do cram)
+Negation: True
+
+with
+obj
+leaves(with)
+Negation: False
+
+doc id: 2580
+sentence id: 4
+Do not cram the cage with leaves , for this often leads to condensation and makes it harder to see the caterpillars . 
+verb: to see
+ 
+obj
+caterpillars(to see)
+Negation: False
+
+doc id: 2580
+sentence id: 5
+Meanwhile her lads Lester and Luke are cramming her tights with toys and the baby is smearing lipstick all over himself . 
+verb: are cramming
+ 
+obj
+tights(are cramming)
+poss
+her(tights)
+Negation: False
+
+with
+obj
+toys(with)
+conj cc
+baby(toys) and(toys)
+det
+the(baby)
+Negation: False
+
+doc id: 2580
+sentence id: 5
+Meanwhile her lads Lester and Luke are cramming her tights with toys and the baby is smearing lipstick all over himself . 
+verb: lads
+ 
+obj
+Lester(lads)
+conj cc
+Luke(Lester) and(Lester)
+Negation: False
+
+doc id: 2580
+sentence id: 5
+Meanwhile her lads Lester and Luke are cramming her tights with toys and the baby is smearing lipstick all over himself . 
+verb: is smearing
+ 
+obj
+lipstick(is smearing)
+Negation: False
+
+over
+obj
+himself(over)
+Negation: False
+
+doc id: 2580
+sentence id: 6
+It was crammed with unpaid bills for food and clothing . 
+verb: was crammed
+ 
+subj
+It(was crammed)
+
+with
+obj
+bills(with)
+mod
+unpaid(bills)
+Negation: False
+
+doc id: 2580
+sentence id: 7
+Around Christmas Fayre , when the Food Hall was crammed with food you did n't normally see in the other seasons , they made a nice end to a meal . 
+verb: made
+ 
+subj
+they(made)
+obj
+end(made)
+mod
+nice(end)
+Negation: False
+
+doc id: 2580
+sentence id: 7
+Around Christmas Fayre , when the Food Hall was crammed with food you did n't normally see in the other seasons , they made a nice end to a meal . 
+verb: did see
+ 
+subj
+you(did see)
+
+Around
+obj
+Fayre(Around)
+compound punct
+Christmas(Fayre) ,(Fayre)
+Negation: False
+
+doc id: 2580
+sentence id: 7
+Around Christmas Fayre , when the Food Hall was crammed with food you did n't normally see in the other seasons , they made a nice end to a meal . 
+verb: was crammed
+ 
+subj
+Hall(was crammed)
+compound
+Food(Hall)
+
+with
+obj
+food(with)
+Negation: False
+
+doc id: 2580
+sentence id: 8
+It was crammed with notebooks filled with Parkin 's bold scribble as well as copies of various scripts in loose folders . 
+verb: was crammed
+ 
+subj
+It(was crammed)
+
+with
+obj
+notebooks(with)
+Negation: False
+
+doc id: 2580
+sentence id: 8
+It was crammed with notebooks filled with Parkin 's bold scribble as well as copies of various scripts in loose folders . 
+verb: filled
+ 
+
+with
+obj
+scribble(with)
+mod poss conj cc
+bold(scribble) Parkin(scribble) copies(scribble) as(scribble)
+case prep advmod advmod
+'s(Parkin) of(copies) as(as) well(as)
+pobj
+scripts(of)
+amod prep
+various(scripts) in(scripts)
+pobj
+folders(in)
+amod
+loose(folders)
+Negation: False
+
+doc id: 2580
+sentence id: 9
+Their store rooms were crammed with piles of objects , from furniture to fencing , and some of the corridors were blocked with the mounds of things they had made over the years . 
+verb: were crammed,  were blocked
+ 
+subj
+ rooms some(were crammed,  were blocked)
+
+with
+obj
+piles(with)
+prep punct
+ of from(piles) ,(piles)
+Negation: False
+
+doc id: 2580
+sentence id: 9
+Their store rooms were crammed with piles of objects , from furniture to fencing , and some of the corridors were blocked with the mounds of things they had made over the years . 
+verb: had made
+ 
+subj
+they(had made)
+
+over
+obj
+years(over)
+Negation: False
+
+doc id: 2580
+sentence id: 10
+During the presentation , two briefcases were crammed full with used dealing books containing clients ' names and addresses , and with leads that had been left carelessly lying around on desks . 
+verb: were crammed
+ 
+subj
+briefcases(were crammed)
+mod
+two(briefcases)
+obj
+full(were crammed)
+Negation: False
+
+During
+obj
+presentation(During)
+Negation: False
+
+doc id: 2580
+sentence id: 10
+During the presentation , two briefcases were crammed full with used dealing books containing clients ' names and addresses , and with leads that had been left carelessly lying around on desks . 
+verb: used
+ 
+
+doc id: 2580
+sentence id: 10
+During the presentation , two briefcases were crammed full with used dealing books containing clients ' names and addresses , and with leads that had been left carelessly lying around on desks . 
+verb: dealing
+ 
+
+doc id: 2580
+sentence id: 10
+During the presentation , two briefcases were crammed full with used dealing books containing clients ' names and addresses , and with leads that had been left carelessly lying around on desks . 
+verb: containing
+ 
+obj
+names(containing)
+poss conj cc
+clients(names) addresses(names) and(names)
+case
+'(clients)
+Negation: False
+
+doc id: 2580
+sentence id: 10
+During the presentation , two briefcases were crammed full with used dealing books containing clients ' names and addresses , and with leads that had been left carelessly lying around on desks . 
+verb: had been left lying
+ 
+subj
+leads(had been left lying)
+
+on
+obj
+desks(on)
+Negation: False
+
+doc id: 2580
+sentence id: 11
+His trolley stood forlornly a few yards away , crammed with food for the dinner party . 
+verb: stood
+ 
+subj
+trolley(stood)
+poss
+His(trolley)
+
+doc id: 2580
+sentence id: 11
+His trolley stood forlornly a few yards away , crammed with food for the dinner party . 
+verb: crammed
+ 
+
+with
+obj
+food(with)
+Negation: False
+
+doc id: 2580
+sentence id: 12
+In the warren of lanes and alleys , barefoot traders sit cross-legged in tiny shops crammed with strange goods . 
+verb: sit cross
+ 
+subj
+traders(sit cross)
+mod
+barefoot(traders)
+
+In
+obj
+warren(In)
+prep
+of(warren)
+pobj
+lanes(of)
+cc conj
+and(lanes) alleys(lanes)
+Negation: False
+
+doc id: 2580
+sentence id: 12
+In the warren of lanes and alleys , barefoot traders sit cross-legged in tiny shops crammed with strange goods . 
+verb: crammed
+ 
+
+with
+obj
+goods(with)
+mod
+strange(goods)
+Negation: False
+
+doc id: 2580
+sentence id: 13
+Round the corner and again a transformation , this time the decor is that of a university study with huge creaking bookcases crammed with dusty volumes . 
+verb: is
+ 
+subj
+decor(is)
+obj
+that(is)
+prep
+of(that)
+pobj
+study(of)
+det compound prep
+a(study) university(study) with(study)
+pobj
+bookcases(with)
+amod amod acl
+huge(bookcases) creaking(bookcases) crammed(bookcases)
+prep
+with(crammed)
+pobj
+volumes(with)
+amod
+dusty(volumes)
+Negation: False
+
+doc id: 2580
+sentence id: 13
+Round the corner and again a transformation , this time the decor is that of a university study with huge creaking bookcases crammed with dusty volumes . 
+verb: Round
+ 
+obj
+corner(Round)
+Negation: False
+
+doc id: 2580
+sentence id: 13
+Round the corner and again a transformation , this time the decor is that of a university study with huge creaking bookcases crammed with dusty volumes . 
+verb: creaking
+ 
+
+doc id: 2580
+sentence id: 13
+Round the corner and again a transformation , this time the decor is that of a university study with huge creaking bookcases crammed with dusty volumes . 
+verb: crammed
+ 
+
+with
+obj
+volumes(with)
+mod
+dusty(volumes)
+Negation: False
+
+doc id: 2580
+sentence id: 14
+And her savings , to begin with , had been meagre , hardly worth the time : Meg had hardly dreamt her dream -- as now ; her suitcase crammed , tight-packed with money -- fully to fruition . 
+verb: had dreamt
+ 
+subj
+Meg(had dreamt)
+obj
+dream(had dreamt)
+poss
+her(dream)
+Negation: False
+
+doc id: 2580
+sentence id: 14
+And her savings , to begin with , had been meagre , hardly worth the time : Meg had hardly dreamt her dream -- as now ; her suitcase crammed , tight-packed with money -- fully to fruition . 
+verb: had been meagre
+ 
+subj
+savings(had been meagre)
+poss punct
+her(savings) ,(savings)
+
+doc id: 2580
+sentence id: 14
+And her savings , to begin with , had been meagre , hardly worth the time : Meg had hardly dreamt her dream -- as now ; her suitcase crammed , tight-packed with money -- fully to fruition . 
+verb: to begin
+ 
+
+doc id: 2580
+sentence id: 14
+And her savings , to begin with , had been meagre , hardly worth the time : Meg had hardly dreamt her dream -- as now ; her suitcase crammed , tight-packed with money -- fully to fruition . 
+verb: crammed
+ 
+subj
+suitcase(crammed)
+poss
+her(suitcase)
+
+doc id: 2580
+sentence id: 14
+And her savings , to begin with , had been meagre , hardly worth the time : Meg had hardly dreamt her dream -- as now ; her suitcase crammed , tight-packed with money -- fully to fruition . 
+verb: packed
+ 
+
+with
+obj
+money(with)
+Negation: False
+

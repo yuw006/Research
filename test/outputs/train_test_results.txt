@@ -1,0 +1,5383 @@
+doc id: 1
+sentence id: 1
+What CAUSED you to change your mind ?
+verb: CAUSED
+ 
+
+doc id: 1
+sentence id: 1
+What CAUSED you to change your mind ?
+verb: to change
+ 
+subj
+you(to change)
+obj
+mind(to change)
+poss
+your(mind)
+Negation: False
+
+doc id: 1
+sentence id: 2
+Irreversible cell expansion -- very rapid growth -- CAUSED the movement , not turgor change.
+verb: CAUSED
+ 
+subj
+expansion(CAUSED)
+appos mod compound punct
+growth(expansion) Irreversible(expansion) cell(expansion)  -- --(expansion)
+amod
+rapid(growth)
+advmod
+very(rapid)
+obj
+movement(CAUSED)
+appos neg punct
+change(movement) not(movement) ,(movement)
+amod
+turgor(change)
+Negation: False
+
+doc id: 1
+sentence id: 3
+It is also true that , for a given rate of national income , a change in the real wage will be likely to CAUSE a change in the demand for labour .
+verb: is true
+ 
+subj
+It(is true)
+
+doc id: 1
+sentence id: 3
+It is also true that , for a given rate of national income , a change in the real wage will be likely to CAUSE a change in the demand for labour .
+verb: will be likely
+ 
+subj
+change(will be likely)
+prep
+in(change)
+pobj
+wage(in)
+det amod
+the(wage) real(wage)
+
+for
+obj
+rate(for)
+mod prep
+given(rate) of(rate)
+pobj
+income(of)
+amod
+national(income)
+Negation: False
+
+doc id: 1
+sentence id: 3
+It is also true that , for a given rate of national income , a change in the real wage will be likely to CAUSE a change in the demand for labour .
+verb: given
+ 
+
+doc id: 1
+sentence id: 3
+It is also true that , for a given rate of national income , a change in the real wage will be likely to CAUSE a change in the demand for labour .
+verb: to CAUSE
+ 
+obj
+change(to CAUSE)
+prep
+in(change)
+pobj
+demand(in)
+det prep
+the(demand) for(demand)
+pobj
+labour(for)
+Negation: False
+
+doc id: 1
+sentence id: 4
+It will not align perfectly , of course but this will help to camouflage the mismatch CAUSED by the change in direction of the border .
+verb: will align,  will help to camouflage
+ 
+subj
+ It this(will align,  will help to camouflage)
+obj
+mismatch(will align,  will help to camouflage)
+Negation: True
+
+of
+obj
+course(of)
+Negation: False
+
+doc id: 1
+sentence id: 4
+It will not align perfectly , of course but this will help to camouflage the mismatch CAUSED by the change in direction of the border .
+verb: CAUSED
+ 
+subj
+by(CAUSED)
+obj
+change(by)
+det prep
+the(change) in(change)
+pobj
+direction(in)
+prep
+of(direction)
+pobj
+border(of)
+det
+the(border)
+
+doc id: 1
+sentence id: 5
+D-Aspartate , a non-metabolized analogue of L-glutamate and D-aspartate ( Fig. 1 f ) , showing that glutamate metabolism does not CAUSE the pH o change .
+verb: showing
+ 
+
+doc id: 1
+sentence id: 5
+D-Aspartate , a non-metabolized analogue of L-glutamate and D-aspartate ( Fig. 1 f ) , showing that glutamate metabolism does not CAUSE the pH o change .
+verb: does CAUSE
+ 
+subj
+metabolism(does CAUSE)
+compound
+glutamate(metabolism)
+obj
+change(does CAUSE)
+compound
+ pH o(change)
+Negation: True
+
+doc id: 1
+sentence id: 6
+Even one extra user in a group would CAUSE a substantial change in the known-unknown ratio .
+verb: would CAUSE
+ 
+subj
+user(would CAUSE)
+mod mod prep
+one(user) extra(user) in(user)
+advmod pobj
+Even(one) group(in)
+det
+a(group)
+obj
+change(would CAUSE)
+mod prep
+substantial(change) in(change)
+pobj
+ratio(in)
+det amod
+the(ratio) unknown(ratio)
+amod punct
+known(unknown) -(unknown)
+Negation: False
+
+doc id: 1
+sentence id: 6
+Even one extra user in a group would CAUSE a substantial change in the known-unknown ratio .
+verb: known
+ 
+
+doc id: 1
+sentence id: 7
+No real violence may be done , intentionally , to either party and as accidental injury may CAUSE the definition of the situation to change quite radically , it must be avoided .
+verb: must be avoided
+ 
+subj
+it(must be avoided)
+
+doc id: 1
+sentence id: 7
+No real violence may be done , intentionally , to either party and as accidental injury may CAUSE the definition of the situation to change quite radically , it must be avoided .
+verb: may be done
+ 
+subj
+violence(may be done)
+det mod
+No(violence) real(violence)
+
+to
+obj
+party(to)
+Negation: False
+
+doc id: 1
+sentence id: 7
+No real violence may be done , intentionally , to either party and as accidental injury may CAUSE the definition of the situation to change quite radically , it must be avoided .
+verb: may CAUSE
+ 
+subj
+violence(may CAUSE)
+det mod
+No(violence) real(violence)
+
+as
+obj
+injury(as)
+mod
+accidental(injury)
+Negation: False
+
+doc id: 1
+sentence id: 7
+No real violence may be done , intentionally , to either party and as accidental injury may CAUSE the definition of the situation to change quite radically , it must be avoided .
+verb: to change
+ 
+subj
+definition(to change)
+prep
+of(definition)
+pobj
+situation(of)
+det
+the(situation)
+
+doc id: 1
+sentence id: 8
+What had CAUSED the change ?
+verb: had CAUSED
+ 
+subj
+What(had CAUSED)
+obj
+change(had CAUSED)
+Negation: False
+
+doc id: 1
+sentence id: 9
+In very few education committees did the passing of the Act CAUSE any change in the selection process at all ; in many the change was cosmetic .
+verb: was cosmetic
+ 
+
+in
+obj
+change(in)
+predet
+many(change)
+Negation: False
+
+doc id: 1
+sentence id: 9
+In very few education committees did the passing of the Act CAUSE any change in the selection process at all ; in many the change was cosmetic .
+verb: CAUSE
+ 
+subj
+was cosmetic(CAUSE)
+prep punct
+in(was cosmetic)  ; .(was cosmetic)
+pobj
+change(in)
+predet det
+many(change) the(change)
+obj
+change(CAUSE)
+mod prep
+all(change) in(change)
+advmod pobj
+at(all) process(in)
+det compound
+the(process) selection(process)
+Negation: False
+
+doc id: 1
+sentence id: 9
+In very few education committees did the passing of the Act CAUSE any change in the selection process at all ; in many the change was cosmetic .
+verb: did
+ 
+obj
+passing(did)
+prep
+of(passing)
+pobj
+Act(of)
+det
+the(Act)
+Negation: False
+
+In
+obj
+committees(In)
+mod compound
+few(committees) education(committees)
+advmod
+very(few)
+Negation: False
+
+doc id: 1
+sentence id: 10
+There the neurotransmitters CAUSE a change in the membrane potential of the dendrite of the postsynaptic cell , thus creating an electrical signal .
+verb: CAUSE
+ 
+subj
+neurotransmitters(CAUSE)
+obj
+change(CAUSE)
+prep
+in(change)
+pobj
+potential(in)
+det compound prep
+the(potential) membrane(potential) of(potential)
+pobj
+dendrite(of)
+det prep
+the(dendrite) of(dendrite)
+pobj
+cell(of)
+det amod
+the(cell) postsynaptic(cell)
+Negation: False
+
+doc id: 1
+sentence id: 10
+There the neurotransmitters CAUSE a change in the membrane potential of the dendrite of the postsynaptic cell , thus creating an electrical signal .
+verb: creating
+ 
+obj
+signal(creating)
+mod
+electrical(signal)
+Negation: False
+
+doc id: 1
+sentence id: 11
+The change in SSP CAUSES no change in standard enthalpy changes and the entropy values of solids and liquids .
+verb: CAUSES
+ 
+subj
+change(CAUSES)
+prep
+in(change)
+pobj
+SSP(in)
+obj
+change(CAUSES)
+det conj cc prep
+no(change) values(change) and(change) in(change)
+det compound prep pobj
+the(values) entropy(values) of(values) changes(in)
+pobj amod compound
+solids(of) standard(changes) enthalpy(changes)
+cc conj
+and(solids) liquids(solids)
+Negation: True
+
+doc id: 1
+sentence id: 12
+By attempting to show that the monetary changes were not associated with the changes in national income , they concluded that it must be the change in the money supply that CAUSES the change in national income .
+verb: concluded
+ 
+subj
+they(concluded)
+
+doc id: 1
+sentence id: 12
+By attempting to show that the monetary changes were not associated with the changes in national income , they concluded that it must be the change in the money supply that CAUSES the change in national income .
+verb: attempting to show
+ 
+
+doc id: 1
+sentence id: 12
+By attempting to show that the monetary changes were not associated with the changes in national income , they concluded that it must be the change in the money supply that CAUSES the change in national income .
+verb: were associated
+ 
+subj
+changes(were associated)
+mod
+monetary(changes)
+
+with
+obj
+changes(with)
+prep
+in(changes)
+pobj
+income(in)
+amod
+national(income)
+Negation: False
+
+doc id: 1
+sentence id: 12
+By attempting to show that the monetary changes were not associated with the changes in national income , they concluded that it must be the change in the money supply that CAUSES the change in national income .
+verb: must be
+ 
+subj
+it(must be)
+obj
+change(must be)
+prep
+in(change)
+pobj
+supply(in)
+det compound relcl
+the(supply) money(supply) CAUSES(supply)
+nsubj dobj
+that(CAUSES) change(CAUSES)
+det prep
+the(change) in(change)
+pobj
+income(in)
+amod
+national(income)
+Negation: False
+
+doc id: 1
+sentence id: 12
+By attempting to show that the monetary changes were not associated with the changes in national income , they concluded that it must be the change in the money supply that CAUSES the change in national income .
+verb: CAUSES
+ 
+subj
+supply(CAUSES)
+compound
+money(supply)
+obj
+change(CAUSES)
+prep
+in(change)
+pobj
+income(in)
+amod
+national(income)
+Negation: False
+
+doc id: 1
+sentence id: 13
+Over two-thirds agreed that if they had CAUSED damage to their own clothes at work , the company should not be liable for repairs .
+verb: agreed
+ 
+subj
+thirds(agreed)
+mod punct
+two(thirds) -(thirds)
+
+doc id: 1
+sentence id: 13
+Over two-thirds agreed that if they had CAUSED damage to their own clothes at work , the company should not be liable for repairs .
+verb: should be liable
+ 
+subj
+company(should be liable)
+
+for
+obj
+repairs(for)
+Negation: False
+
+doc id: 1
+sentence id: 13
+Over two-thirds agreed that if they had CAUSED damage to their own clothes at work , the company should not be liable for repairs .
+verb: had CAUSED
+ 
+subj
+they(had CAUSED)
+obj
+damage(had CAUSED)
+Negation: False
+
+at
+obj
+work(at)
+Negation: False
+
+doc id: 1
+sentence id: 14
+Whatever , if your intestines get tied up in knots over bootlegs , ` The Curse " could CAUSE terminal internal damage .
+verb: could CAUSE
+ 
+subj
+Curse(could CAUSE)
+obj
+damage(could CAUSE)
+mod
+ terminal internal(damage)
+Negation: False
+
+doc id: 1
+sentence id: 14
+Whatever , if your intestines get tied up in knots over bootlegs , ` The Curse " could CAUSE terminal internal damage .
+verb: get tied up
+ 
+subj
+intestines(get tied up)
+poss
+your(intestines)
+
+in
+obj
+knots(in)
+Negation: False
+
+doc id: 1
+sentence id: 15
+Traditional flocks are difficult to hang , as any paste inadvertently dropped on the pile surface is almost impossible to remove without flattening the finish , and scratches and knocks CAUSE permanent damage .
+verb: are difficult,  is impossible
+ 
+subj
+flocks(are difficult,  is impossible)
+mod
+Traditional(flocks)
+
+doc id: 1
+sentence id: 15
+Traditional flocks are difficult to hang , as any paste inadvertently dropped on the pile surface is almost impossible to remove without flattening the finish , and scratches and knocks CAUSE permanent damage .
+verb: to hang
+ 
+
+doc id: 1
+sentence id: 15
+Traditional flocks are difficult to hang , as any paste inadvertently dropped on the pile surface is almost impossible to remove without flattening the finish , and scratches and knocks CAUSE permanent damage .
+verb: dropped
+ 
+subj
+paste(dropped)
+
+on
+obj
+surface(on)
+compound
+pile(surface)
+Negation: False
+
+doc id: 1
+sentence id: 15
+Traditional flocks are difficult to hang , as any paste inadvertently dropped on the pile surface is almost impossible to remove without flattening the finish , and scratches and knocks CAUSE permanent damage .
+verb: to remove
+ 
+
+doc id: 1
+sentence id: 15
+Traditional flocks are difficult to hang , as any paste inadvertently dropped on the pile surface is almost impossible to remove without flattening the finish , and scratches and knocks CAUSE permanent damage .
+verb: flattening
+ 
+obj
+finish(flattening)
+Negation: False
+
+doc id: 1
+sentence id: 15
+Traditional flocks are difficult to hang , as any paste inadvertently dropped on the pile surface is almost impossible to remove without flattening the finish , and scratches and knocks CAUSE permanent damage .
+verb: knocks
+ 
+subj
+flocks(knocks)
+mod
+Traditional(flocks)
+
+doc id: 1
+sentence id: 15
+Traditional flocks are difficult to hang , as any paste inadvertently dropped on the pile surface is almost impossible to remove without flattening the finish , and scratches and knocks CAUSE permanent damage .
+verb: CAUSE
+ 
+subj
+flocks(CAUSE)
+mod
+Traditional(flocks)
+obj
+damage(CAUSE)
+mod
+permanent(damage)
+Negation: False
+
+doc id: 1
+sentence id: 16
+That tort , we think , consists essentially of a breach by the defendant of a duty to take reasonable care which CAUSES damage to the plaintiff .
+verb: consists
+ 
+subj
+tort(consists)
+
+of
+obj
+breach(of)
+Negation: False
+
+doc id: 1
+sentence id: 16
+That tort , we think , consists essentially of a breach by the defendant of a duty to take reasonable care which CAUSES damage to the plaintiff .
+verb: think
+ 
+subj
+we(think)
+
+doc id: 1
+sentence id: 16
+That tort , we think , consists essentially of a breach by the defendant of a duty to take reasonable care which CAUSES damage to the plaintiff .
+verb: to take
+ 
+obj
+care(to take)
+mod
+reasonable(care)
+Negation: False
+
+doc id: 1
+sentence id: 16
+That tort , we think , consists essentially of a breach by the defendant of a duty to take reasonable care which CAUSES damage to the plaintiff .
+verb: CAUSES
+ 
+subj
+care(CAUSES)
+mod
+reasonable(care)
+obj
+damage(CAUSES)
+Negation: False
+
+doc id: 1
+sentence id: 17
+All the attacks CAUSED considerable damage , but no one was injured .
+verb: CAUSED
+ 
+subj
+attacks(CAUSED)
+predet
+All(attacks)
+obj
+damage(CAUSED)
+mod
+considerable(damage)
+Negation: False
+
+doc id: 1
+sentence id: 17
+All the attacks CAUSED considerable damage , but no one was injured .
+verb: was injured
+ 
+subj
+one(was injured)
+det
+no(one)
+
+doc id: 1
+sentence id: 18
+On Feb. 20 , explosions at the British , German , Italian and Turkish embassies in Tehran , CAUSED minor damage but no injuries .
+verb: CAUSED
+ 
+subj
+explosions(CAUSED)
+prep
+at(explosions)
+pobj
+embassies(at)
+det amod prep
+the(embassies) British(embassies) in(embassies)
+punct conj pobj
+,(British) German(British) Tehran(in)
+punct conj
+,(German) Italian(German)
+cc conj
+and(Italian) Turkish(Italian)
+obj
+damage(CAUSED)
+mod conj cc
+minor(damage) injuries(damage) but(damage)
+det
+no(injuries)
+Negation: False
+
+On
+obj
+Feb.(On)
+mod
+20(Feb.)
+Negation: False
+
+doc id: 1
+sentence id: 19
+The Iraqis had also carried out widespread looting and had CAUSED serious damage to the country 's infrastructure .
+verb: had carried out
+ 
+subj
+Iraqis(had carried out)
+obj
+looting(had carried out)
+mod
+widespread(looting)
+Negation: False
+
+doc id: 1
+sentence id: 19
+The Iraqis had also carried out widespread looting and had CAUSED serious damage to the country 's infrastructure .
+verb: had CAUSED
+ 
+subj
+Iraqis(had CAUSED)
+obj
+damage(had CAUSED)
+mod
+serious(damage)
+Negation: False
+
+doc id: 1
+sentence id: 20
+This CAUSED a violent explosion resulting in extensive damage .
+verb: CAUSED
+ 
+subj
+This(CAUSED)
+obj
+explosion(CAUSED)
+mod
+violent(explosion)
+Negation: False
+
+doc id: 1
+sentence id: 20
+This CAUSED a violent explosion resulting in extensive damage .
+verb: resulting
+ 
+
+in
+obj
+damage(in)
+mod
+extensive(damage)
+Negation: False
+
+doc id: 1
+sentence id: 21
+Concern about the disease has also been strengthened by reports of the death of a British dairy farmer from Creutzfeldt-Jakob Disease , a rare dementia in humans that CAUSES the same kind of brain damage as BSE .
+verb: has been strengthened
+ 
+subj
+ Concern by(has been strengthened)
+obj prep
+reports( Concern by) about( Concern by)
+prep pobj
+of(reports) disease(about)
+pobj det
+death(of) the(disease)
+det prep
+the(death) of(death)
+pobj
+farmer(of)
+det amod compound prep
+a(farmer) British(farmer) dairy(farmer) from(farmer)
+pobj
+Disease(from)
+compound punct compound punct appos
+Creutzfeldt(Disease) -(Disease) Jakob(Disease) ,(Disease) dementia(Disease)
+det amod prep relcl
+a(dementia) rare(dementia) in(dementia) CAUSES(dementia)
+pobj nsubj dobj
+humans(in) that(CAUSES) kind(CAUSES)
+det amod prep
+the(kind) same(kind) of(kind)
+pobj
+damage(of)
+compound prep
+brain(damage) as(damage)
+pobj
+BSE(as)
+
+doc id: 1
+sentence id: 21
+Concern about the disease has also been strengthened by reports of the death of a British dairy farmer from Creutzfeldt-Jakob Disease , a rare dementia in humans that CAUSES the same kind of brain damage as BSE .
+verb: CAUSES
+ 
+subj
+dementia(CAUSES)
+mod prep
+rare(dementia) in(dementia)
+pobj
+humans(in)
+obj
+kind(CAUSES)
+mod prep
+same(kind) of(kind)
+pobj
+damage(of)
+compound prep
+brain(damage) as(damage)
+pobj
+BSE(as)
+Negation: False
+
+doc id: 1
+sentence id: 22
+“ Russian and Lithuania have been dumping cheap products on the UK market and our understanding is that the Commission has now found that they have CAUSED material damage to the UK industry .
+verb: is
+ 
+
+doc id: 1
+sentence id: 22
+“ Russian and Lithuania have been dumping cheap products on the UK market and our understanding is that the Commission has now found that they have CAUSED material damage to the UK industry .
+verb: have been dumping
+ 
+subj
+Russian(have been dumping)
+conj cc
+Lithuania(Russian) and(Russian)
+obj
+products(have been dumping)
+mod
+cheap(products)
+Negation: False
+
+on
+obj
+market(on)
+conj cc compound
+understanding(market) and(market) UK(market)
+poss
+our(understanding)
+Negation: False
+
+doc id: 1
+sentence id: 22
+“ Russian and Lithuania have been dumping cheap products on the UK market and our understanding is that the Commission has now found that they have CAUSED material damage to the UK industry .
+verb: has found
+ 
+subj
+Commission(has found)
+
+doc id: 1
+sentence id: 22
+“ Russian and Lithuania have been dumping cheap products on the UK market and our understanding is that the Commission has now found that they have CAUSED material damage to the UK industry .
+verb: have CAUSED
+ 
+subj
+they(have CAUSED)
+obj
+damage(have CAUSED)
+compound
+material(damage)
+Negation: False
+
+doc id: 1
+sentence id: 23
+Chronic shortages of both CAUSE most of the congestion and delays that reduce the quality of air travel .
+verb: CAUSE
+ 
+subj
+shortages(CAUSE)
+mod prep
+Chronic(shortages) of(shortages)
+pobj
+both(of)
+obj
+most(CAUSE)
+prep
+of(most)
+pobj
+congestion(of)
+det cc conj relcl
+the(congestion) and(congestion) delays(congestion) reduce(congestion)
+nsubj dobj
+that(reduce) quality(reduce)
+det prep
+the(quality) of(quality)
+pobj
+travel(of)
+compound
+air(travel)
+Negation: False
+
+doc id: 1
+sentence id: 23
+Chronic shortages of both CAUSE most of the congestion and delays that reduce the quality of air travel .
+verb: reduce
+ 
+subj
+congestion(reduce)
+conj cc
+delays(congestion) and(congestion)
+obj
+quality(reduce)
+prep
+of(quality)
+pobj
+travel(of)
+compound
+air(travel)
+Negation: False
+
+doc id: 1
+sentence id: 24
+This simply slows the flow of traffic and CAUSES unnecessary and frustrating delays .
+verb: slows
+ 
+subj
+This(slows)
+obj
+flow(slows)
+conj prep
+ CAUSES delays(flow) of(flow)
+pobj
+traffic(of)
+cc
+and(traffic)
+Negation: False
+
+doc id: 1
+sentence id: 25
+This may CAUSE some delay to processing orders in this period .
+verb: may CAUSE
+ 
+subj
+This(may CAUSE)
+obj
+delay(may CAUSE)
+Negation: False
+
+doc id: 1
+sentence id: 26
+When these are out of order they CAUSE delays , traffic jams and accidents .
+verb: CAUSE
+ 
+subj
+they(CAUSE)
+obj
+delays(CAUSE)
+conj punct
+jams(delays) ,(delays)
+compound cc conj
+traffic(jams) and(jams) accidents(jams)
+Negation: False
+
+doc id: 1
+sentence id: 26
+When these are out of order they CAUSE delays , traffic jams and accidents .
+verb: are
+ 
+subj
+these(are)
+
+doc id: 1
+sentence id: 27
+It is inconceivable that those diversions will not CAUSE traffic delays .
+verb: is inconceivable
+ 
+subj
+It(is inconceivable)
+
+doc id: 1
+sentence id: 27
+It is inconceivable that those diversions will not CAUSE traffic delays .
+verb: will CAUSE
+ 
+subj
+diversions(will CAUSE)
+obj
+delays(will CAUSE)
+compound
+traffic(delays)
+Negation: True
+
+doc id: 1
+sentence id: 28
+Maintenance work on a flyover on the A19 near Thirsk could CAUSE traffic delays .
+verb: could CAUSE
+ 
+subj
+work(could CAUSE)
+prep compound
+ on on(work) Maintenance(work)
+obj
+delays(could CAUSE)
+compound
+traffic(delays)
+Negation: False
+
+doc id: 1
+sentence id: 29
+In England a death is reported to the coroner if a doctor is unable to certify that he is sure that death was CAUSED by some disease .
+verb: is reported
+ 
+subj
+death(is reported)
+
+In
+obj
+England(In)
+Negation: False
+
+doc id: 1
+sentence id: 29
+In England a death is reported to the coroner if a doctor is unable to certify that he is sure that death was CAUSED by some disease .
+verb: is unable
+ 
+subj
+doctor(is unable)
+
+doc id: 1
+sentence id: 29
+In England a death is reported to the coroner if a doctor is unable to certify that he is sure that death was CAUSED by some disease .
+verb: to certify
+ 
+obj
+is sure(to certify)
+subj ccomp mark
+he(is sure) was CAUSED(is sure) that(is sure)
+mark nsubjpass agent
+that(was CAUSED) death(was CAUSED) by(was CAUSED)
+pobj
+disease(by)
+det
+some(disease)
+Negation: False
+
+doc id: 1
+sentence id: 29
+In England a death is reported to the coroner if a doctor is unable to certify that he is sure that death was CAUSED by some disease .
+verb: is sure
+ 
+subj
+he(is sure)
+
+doc id: 1
+sentence id: 29
+In England a death is reported to the coroner if a doctor is unable to certify that he is sure that death was CAUSED by some disease .
+verb: was CAUSED
+ 
+subj
+ death is sure(was CAUSED)
+subj mark
+he( death is sure) that( death is sure)
+
+doc id: 1
+sentence id: 30
+Many forms of mental handicap are CAUSED by social factors , infection and disease , accidents during birth , drug abuse , unsatisfactory ante-natal or post-natal care or accidents in life .
+verb: are CAUSED
+ 
+subj
+ forms by(are CAUSED)
+obj mod prep
+factors( forms by) Many( forms by) of( forms by)
+amod punct conj punct conj pobj
+social(factors) ,(factors) infection(factors) ,(factors) accidents(factors) handicap(of)
+cc conj prep amod
+and(infection) disease(infection) during(accidents) mental(handicap)
+pobj
+birth(during)
+punct conj
+,(birth) abuse(birth)
+compound punct conj
+drug(abuse) ,(abuse) care(abuse)
+amod amod amod cc conj prep
+unsatisfactory(care) -(care) natal(care) or(care) accidents(care) in(care)
+conj pobj
+natal(unsatisfactory) life(in)
+nmod punct cc conj
+ante(natal) -(natal) or(natal) post(natal)
+
+doc id: 1
+sentence id: 31
+One in four deaths in this country is CAUSED by heart disease .
+verb: is CAUSED
+ 
+subj
+ One by(is CAUSED)
+obj prep
+disease( One by) in( One by)
+compound pobj
+heart(disease) deaths(in)
+nummod prep
+four(deaths) in(deaths)
+pobj
+country(in)
+det
+this(country)
+
+doc id: 1
+sentence id: 32
+Pathogenic bacteria CAUSE a variety of fish diseases in ornamental aquaria and ponds .
+verb: CAUSE
+ 
+subj
+bacteria(CAUSE)
+mod
+Pathogenic(bacteria)
+obj
+variety(CAUSE)
+prep
+ of in(variety)
+Negation: False
+
+doc id: 1
+sentence id: 33
+It does not CAUSE cancer , heart disease , asthma or bronchitis , but until recently it could only be ingested along with several hundred non-addictive , non-soothing but highly toxic chemicals .
+verb: does CAUSE
+ 
+subj
+It(does CAUSE)
+obj
+cancer(does CAUSE)
+conj punct
+disease(cancer) ,(cancer)
+compound punct conj
+heart(disease) ,(disease) asthma(disease)
+cc conj
+or(asthma) bronchitis(asthma)
+Negation: True
+
+doc id: 1
+sentence id: 33
+It does not CAUSE cancer , heart disease , asthma or bronchitis , but until recently it could only be ingested along with several hundred non-addictive , non-soothing but highly toxic chemicals .
+verb: could be ingested
+ 
+subj
+it(could be ingested)
+
+doc id: 1
+sentence id: 34
+The authors believed that their serological results supported the view that infection with M paratuberculosis might CAUSE Crohn 's disease .
+verb: believed
+ 
+subj
+authors(believed)
+
+doc id: 1
+sentence id: 34
+The authors believed that their serological results supported the view that infection with M paratuberculosis might CAUSE Crohn 's disease .
+verb: supported
+ 
+subj
+results(supported)
+mod poss
+serological(results) their(results)
+obj
+view(supported)
+Negation: False
+
+doc id: 1
+sentence id: 34
+The authors believed that their serological results supported the view that infection with M paratuberculosis might CAUSE Crohn 's disease .
+verb: might CAUSE
+ 
+subj
+infection(might CAUSE)
+obj
+disease(might CAUSE)
+poss
+Crohn(disease)
+case
+'s(Crohn)
+Negation: False
+
+doc id: 1
+sentence id: 35
+Scarlet had thrown away all her old aluminium pans since she had learned that they might CAUSE Alzheimer 's disease , and she never used tap water for cooking for the same reason .
+verb: had thrown
+ 
+subj
+Scarlet(had thrown)
+obj
+pans(had thrown)
+mod poss compound
+old(pans) her(pans) aluminium(pans)
+Negation: False
+
+doc id: 1
+sentence id: 35
+Scarlet had thrown away all her old aluminium pans since she had learned that they might CAUSE Alzheimer 's disease , and she never used tap water for cooking for the same reason .
+verb: had learned
+ 
+subj
+she(had learned)
+
+doc id: 1
+sentence id: 35
+Scarlet had thrown away all her old aluminium pans since she had learned that they might CAUSE Alzheimer 's disease , and she never used tap water for cooking for the same reason .
+verb: might CAUSE
+ 
+subj
+they(might CAUSE)
+obj
+disease(might CAUSE)
+poss
+Alzheimer(disease)
+case
+'s(Alzheimer)
+Negation: False
+
+doc id: 1
+sentence id: 35
+Scarlet had thrown away all her old aluminium pans since she had learned that they might CAUSE Alzheimer 's disease , and she never used tap water for cooking for the same reason .
+verb: used
+ 
+subj
+she(used)
+obj
+water(used)
+compound
+tap(water)
+Negation: True
+
+doc id: 1
+sentence id: 35
+Scarlet had thrown away all her old aluminium pans since she had learned that they might CAUSE Alzheimer 's disease , and she never used tap water for cooking for the same reason .
+verb: cooking
+ 
+
+for
+obj
+reason(for)
+mod
+same(reason)
+Negation: False
+
+doc id: 1
+sentence id: 36
+Scientists have suggested that the fish are infected by a bacteria or a fungus , but they do not know what is CAUSING the disease .
+verb: have suggested, not do know
+ 
+subj
+ Scientists they(have suggested, not do know)
+
+doc id: 1
+sentence id: 36
+Scientists have suggested that the fish are infected by a bacteria or a fungus , but they do not know what is CAUSING the disease .
+verb: are infected
+ 
+subj
+fish(are infected)
+
+doc id: 1
+sentence id: 36
+Scientists have suggested that the fish are infected by a bacteria or a fungus , but they do not know what is CAUSING the disease .
+verb: is CAUSING
+ 
+subj
+what(is CAUSING)
+obj
+disease(is CAUSING)
+Negation: False
+
+doc id: 1
+sentence id: 37
+Problems also occasionally arise when all does not go well , and this may CAUSE deep and lasting distress .
+verb: arise,  may CAUSE
+ 
+subj
+ Problems this(arise,  may CAUSE)
+obj
+distress(arise,  may CAUSE)
+mod
+deep(distress)
+cc conj
+and(deep) lasting(deep)
+Negation: False
+
+doc id: 1
+sentence id: 37
+Problems also occasionally arise when all does not go well , and this may CAUSE deep and lasting distress .
+verb: does go
+ 
+subj
+all(does go)
+
+doc id: 1
+sentence id: 37
+Problems also occasionally arise when all does not go well , and this may CAUSE deep and lasting distress .
+verb: lasting
+ 
+subj
+Problems(lasting)
+
+doc id: 1
+sentence id: 38
+In the midst of all the child-care and legal paraphernalia of hearings and appeals , another element in the whole affair CAUSED distress .
+verb: CAUSED
+ 
+subj
+element(CAUSED)
+prep
+in(element)
+pobj
+affair(in)
+det amod
+the(affair) whole(affair)
+obj
+distress(CAUSED)
+Negation: False
+
+In
+obj
+midst(In)
+prep
+of(midst)
+pobj
+paraphernalia(of)
+predet det nmod prep
+all(paraphernalia) the(paraphernalia) care(paraphernalia) of(paraphernalia)
+compound punct cc conj pobj
+child(care) -(care) and(care) legal(care) hearings(of)
+cc conj
+and(hearings) appeals(hearings)
+Negation: False
+
+doc id: 1
+sentence id: 39
+Although we tend to get most spots in our teens , we are liable to get the odd pimple even after 40 , and ` cosmetic acne " can CAUSE distress at any age .
+verb: are liable,  can CAUSE
+ 
+subj
+ we acne(are liable,  can CAUSE)
+obj
+distress(are liable,  can CAUSE)
+Negation: False
+
+doc id: 1
+sentence id: 39
+Although we tend to get most spots in our teens , we are liable to get the odd pimple even after 40 , and ` cosmetic acne " can CAUSE distress at any age .
+verb: tend to get
+ 
+subj
+we(tend to get)
+obj
+spots(tend to get)
+mod prep
+most(spots) in(spots)
+pobj
+teens(in)
+poss
+our(teens)
+Negation: False
+
+doc id: 1
+sentence id: 39
+Although we tend to get most spots in our teens , we are liable to get the odd pimple even after 40 , and ` cosmetic acne " can CAUSE distress at any age .
+verb: to get
+ 
+obj
+pimple(to get)
+mod
+odd(pimple)
+Negation: False
+
+after
+obj
+40(after)
+cc punct
+and(40) ,(40)
+Negation: False
+
+doc id: 1
+sentence id: 40
+The advertising watchdog body upheld the complaints saying the notices could CAUSE grave distress .
+verb: upheld
+ 
+subj
+body(upheld)
+compound
+watchdog(body)
+compound
+advertising(watchdog)
+obj
+complaints(upheld)
+Negation: False
+
+doc id: 1
+sentence id: 40
+The advertising watchdog body upheld the complaints saying the notices could CAUSE grave distress .
+verb: saying
+ 
+
+doc id: 1
+sentence id: 40
+The advertising watchdog body upheld the complaints saying the notices could CAUSE grave distress .
+verb: could CAUSE
+ 
+subj
+notices(could CAUSE)
+obj
+distress(could CAUSE)
+mod
+grave(distress)
+Negation: False
+
+doc id: 1
+sentence id: 41
+But publication of this offer CAUSED a major political explosion in Tel Aviv , even within Mapai ( Labour ) itself .
+verb: CAUSED
+ 
+subj
+publication(CAUSED)
+prep
+of(publication)
+pobj
+offer(of)
+det
+this(offer)
+obj
+explosion(CAUSED)
+mod prep punct
+ major political(explosion)  in within(explosion) ,(explosion)
+Negation: False
+
+doc id: 1
+sentence id: 42
+In Birmingham water CAUSED an explosion in an electricity sub-station which cut supplies to 3,000 homes .
+verb: CAUSED
+ 
+obj
+explosion(CAUSED)
+prep
+in(explosion)
+pobj pobj pobj
+sub(in) -(in) station(in)
+det compound
+an(sub) electricity(sub)
+Negation: False
+
+In
+obj
+water(In)
+compound
+Birmingham(water)
+Negation: False
+
+doc id: 1
+sentence id: 42
+In Birmingham water CAUSED an explosion in an electricity sub-station which cut supplies to 3,000 homes .
+verb: cut
+ 
+subj
+explosion(cut)
+prep
+in(explosion)
+pobj pobj pobj
+sub(in) -(in) station(in)
+det compound
+an(sub) electricity(sub)
+obj
+supplies(cut)
+Negation: False
+
+to
+obj
+homes(to)
+mod
+3,000(homes)
+Negation: False
+
+doc id: 1
+sentence id: 43
+I don't see how they could have CAUSED an explosion .
+verb: do see
+ 
+subj
+I(do see)
+
+doc id: 1
+sentence id: 43
+I don't see how they could have CAUSED an explosion .
+verb: could have CAUSED
+ 
+subj
+they(could have CAUSED)
+obj
+explosion(could have CAUSED)
+Negation: False
+
+doc id: 1
+sentence id: 44
+That was the occasion when a gas leak CAUSED an explosion which wrecked an entire tenement .
+verb: was
+ 
+subj
+That(was)
+obj
+occasion(was)
+Negation: False
+
+doc id: 1
+sentence id: 44
+That was the occasion when a gas leak CAUSED an explosion which wrecked an entire tenement .
+verb: CAUSED
+ 
+subj
+leak(CAUSED)
+compound
+gas(leak)
+obj
+explosion(CAUSED)
+Negation: False
+
+doc id: 1
+sentence id: 44
+That was the occasion when a gas leak CAUSED an explosion which wrecked an entire tenement .
+verb: wrecked
+ 
+subj
+explosion(wrecked)
+obj
+tenement(wrecked)
+mod
+entire(tenement)
+Negation: False
+
+doc id: 1
+sentence id: 45
+Thus , pupils moving around the system can enhance a school 's provision if it is a net gainer but CAUSE severe problems very quickly if it is a net loser .
+verb: can enhance
+ 
+subj
+pupils(can enhance)
+obj
+provision(can enhance)
+poss
+school(provision)
+det case
+a(school) 's(school)
+Negation: False
+
+doc id: 1
+sentence id: 45
+Thus , pupils moving around the system can enhance a school 's provision if it is a net gainer but CAUSE severe problems very quickly if it is a net loser .
+verb: moving
+ 
+
+around
+obj
+system(around)
+Negation: False
+
+doc id: 1
+sentence id: 45
+Thus , pupils moving around the system can enhance a school 's provision if it is a net gainer but CAUSE severe problems very quickly if it is a net loser .
+verb: is
+ 
+subj
+it(is)
+obj
+gainer(is)
+mod
+net(gainer)
+Negation: False
+
+doc id: 1
+sentence id: 45
+Thus , pupils moving around the system can enhance a school 's provision if it is a net gainer but CAUSE severe problems very quickly if it is a net loser .
+verb: CAUSE
+ 
+subj
+it(CAUSE)
+obj
+problems(CAUSE)
+mod
+severe(problems)
+Negation: False
+
+doc id: 1
+sentence id: 45
+Thus , pupils moving around the system can enhance a school 's provision if it is a net gainer but CAUSE severe problems very quickly if it is a net loser .
+verb: is
+ 
+subj
+it(is)
+obj
+loser(is)
+mod
+net(loser)
+Negation: False
+
+doc id: 1
+sentence id: 46
+There is no doubt that these potent drugs CAUSED many problems .
+verb: is
+ 
+subj
+There(is)
+obj
+doubt(is)
+det
+no(doubt)
+Negation: True
+
+doc id: 1
+sentence id: 46
+There is no doubt that these potent drugs CAUSED many problems .
+verb: CAUSED
+ 
+subj
+drugs(CAUSED)
+mod
+potent(drugs)
+obj
+problems(CAUSED)
+mod
+many(problems)
+Negation: False
+
+doc id: 1
+sentence id: 47
+Check the vitamin/mineral list ( page 9 ) , as a deficiency in one of these can CAUSE sleep problems .
+verb: Check
+ 
+obj
+list(Check)
+appos compound punct
+page(list) mineral(list)  ( )(list)
+nummod nmod punct
+9(page) vitamin(mineral) /(mineral)
+Negation: False
+
+as
+obj
+deficiency(as)
+prep
+in(deficiency)
+pobj
+one(in)
+prep
+of(one)
+pobj
+these(of)
+Negation: False
+
+doc id: 1
+sentence id: 47
+Check the vitamin/mineral list ( page 9 ) , as a deficiency in one of these can CAUSE sleep problems .
+verb: can CAUSE
+ 
+obj
+problems(can CAUSE)
+compound
+sleep(problems)
+Negation: False
+
+doc id: 1
+sentence id: 48
+On the other hand , under-exposure CAUSES problems which will be apparent when you come to develop the exposed board , which is the next stage of processing .
+verb: will be apparent
+ 
+subj
+problems(will be apparent)
+prep compound punct
+On(problems)  exposure CAUSES(problems)  , .(problems)
+pobj
+hand(On)
+det amod
+the(hand) other(hand)
+
+doc id: 1
+sentence id: 48
+On the other hand , under-exposure CAUSES problems which will be apparent when you come to develop the exposed board , which is the next stage of processing .
+verb: come
+ 
+subj
+you(come)
+
+doc id: 1
+sentence id: 48
+On the other hand , under-exposure CAUSES problems which will be apparent when you come to develop the exposed board , which is the next stage of processing .
+verb: to develop
+ 
+obj
+board(to develop)
+mod punct
+exposed(board) ,(board)
+Negation: False
+
+doc id: 1
+sentence id: 48
+On the other hand , under-exposure CAUSES problems which will be apparent when you come to develop the exposed board , which is the next stage of processing .
+verb: exposed
+ 
+
+doc id: 1
+sentence id: 48
+On the other hand , under-exposure CAUSES problems which will be apparent when you come to develop the exposed board , which is the next stage of processing .
+verb: is
+ 
+subj
+board(is)
+mod punct
+exposed(board) ,(board)
+obj
+stage(is)
+mod prep
+next(stage) of(stage)
+pobj
+processing(of)
+Negation: False
+
+doc id: 1
+sentence id: 49
+The disintegration of the USSR CAUSED so many new problems in the food and financial spheres that the economy of Russia soon teetered on the edge of catastrophe .
+verb: CAUSED
+ 
+subj
+disintegration(CAUSED)
+prep
+of(disintegration)
+pobj
+USSR(of)
+det
+the(USSR)
+obj
+problems(CAUSED)
+mod prep
+ many new(problems) in(problems)
+pobj
+spheres(in)
+det nmod
+the(spheres) food(spheres)
+cc conj
+and(food) financial(food)
+Negation: False
+
+doc id: 1
+sentence id: 49
+The disintegration of the USSR CAUSED so many new problems in the food and financial spheres that the economy of Russia soon teetered on the edge of catastrophe .
+verb: teetered
+ 
+subj
+economy(teetered)
+prep
+of(economy)
+pobj
+Russia(of)
+obj
+that(teetered)
+Negation: False
+
+on
+obj
+edge(on)
+prep
+of(edge)
+pobj
+catastrophe(of)
+Negation: False
+
+doc id: 1
+sentence id: 50
+She never moved or relaxed her watchfulness ; but in her very stillness there was something of violence , as though a touch might CAUSE her to spring into startling and daunting life .
+verb: moved,  relaxed
+ 
+subj
+She(moved,  relaxed)
+obj
+watchfulness(moved,  relaxed)
+poss
+her(watchfulness)
+Negation: True
+
+doc id: 1
+sentence id: 50
+She never moved or relaxed her watchfulness ; but in her very stillness there was something of violence , as though a touch might CAUSE her to spring into startling and daunting life .
+verb: was
+ 
+subj
+there(was)
+obj
+something(was)
+prep
+of(something)
+pobj
+violence(of)
+Negation: False
+
+in
+obj
+stillness(in)
+mod poss
+very(stillness) her(stillness)
+Negation: False
+
+doc id: 1
+sentence id: 50
+She never moved or relaxed her watchfulness ; but in her very stillness there was something of violence , as though a touch might CAUSE her to spring into startling and daunting life .
+verb: might CAUSE
+ 
+subj
+touch(might CAUSE)
+
+doc id: 1
+sentence id: 50
+She never moved or relaxed her watchfulness ; but in her very stillness there was something of violence , as though a touch might CAUSE her to spring into startling and daunting life .
+verb: to spring
+ 
+subj
+her(to spring)
+
+into
+obj
+life(into)
+mod
+startling(life)
+cc conj
+and(startling) daunting(startling)
+Negation: False
+
+doc id: 1
+sentence id: 51
+Twice his eyes and his feet CAUSED him to be rejected .
+verb: CAUSED
+ 
+subj
+eyes(CAUSED)
+predet poss conj cc
+Twice(eyes) his(eyes) feet(eyes) and(eyes)
+poss
+his(feet)
+
+doc id: 1
+sentence id: 51
+Twice his eyes and his feet CAUSED him to be rejected .
+verb: to be rejected
+ 
+subj
+him(to be rejected)
+
+doc id: 1
+sentence id: 52
+The telling CAUSED Zack to calm down slightly ; and his time was running out .
+verb: CAUSED,  was running out
+ 
+subj
+ telling time(CAUSED,  was running out)
+
+doc id: 1
+sentence id: 52
+The telling CAUSED Zack to calm down slightly ; and his time was running out .
+verb: to calm down
+ 
+subj
+Zack(to calm down)
+
+doc id: 1
+sentence id: 53
+Marcus CAUSED the first flurry by refusing meat .
+verb: CAUSED
+ 
+subj
+Marcus(CAUSED)
+obj
+flurry(CAUSED)
+mod
+first(flurry)
+Negation: False
+
+doc id: 1
+sentence id: 53
+Marcus CAUSED the first flurry by refusing meat .
+verb: refusing
+ 
+obj
+meat(refusing)
+Negation: False
+
+doc id: 1
+sentence id: 54
+Wright explains that these toxins probably CAUSE diarrhoea by stimulating the phosphorylation of proteins that control sodium secretion by intestinal cells .
+verb: explains
+ 
+subj
+Wright(explains)
+
+doc id: 1
+sentence id: 54
+Wright explains that these toxins probably CAUSE diarrhoea by stimulating the phosphorylation of proteins that control sodium secretion by intestinal cells .
+verb: CAUSE
+ 
+subj
+toxins(CAUSE)
+obj
+diarrhoea(CAUSE)
+Negation: False
+
+doc id: 1
+sentence id: 54
+Wright explains that these toxins probably CAUSE diarrhoea by stimulating the phosphorylation of proteins that control sodium secretion by intestinal cells .
+verb: stimulating
+ 
+obj
+phosphorylation(stimulating)
+prep
+of(phosphorylation)
+pobj
+proteins(of)
+relcl
+control(proteins)
+nsubj dobj
+that(control) secretion(control)
+compound prep
+sodium(secretion) by(secretion)
+pobj
+cells(by)
+amod
+intestinal(cells)
+Negation: False
+
+doc id: 1
+sentence id: 54
+Wright explains that these toxins probably CAUSE diarrhoea by stimulating the phosphorylation of proteins that control sodium secretion by intestinal cells .
+verb: control
+ 
+subj
+proteins(control)
+obj
+secretion(control)
+compound
+sodium(secretion)
+Negation: False
+
+doc id: 1
+sentence id: 55
+And Janet Ellis CAUSED an outcry by announcing she was pregnant but had no intention of marrying the baby 's father .
+verb: CAUSED
+ 
+subj
+Ellis(CAUSED)
+compound
+Janet(Ellis)
+obj
+outcry(CAUSED)
+Negation: False
+
+doc id: 1
+sentence id: 55
+And Janet Ellis CAUSED an outcry by announcing she was pregnant but had no intention of marrying the baby 's father .
+verb: announcing
+ 
+obj
+was pregnant(announcing)
+subj
+she(was pregnant)
+Negation: False
+
+doc id: 1
+sentence id: 55
+And Janet Ellis CAUSED an outcry by announcing she was pregnant but had no intention of marrying the baby 's father .
+verb: was pregnant
+ 
+subj
+she(was pregnant)
+
+doc id: 1
+sentence id: 55
+And Janet Ellis CAUSED an outcry by announcing she was pregnant but had no intention of marrying the baby 's father .
+verb: had
+ 
+subj
+Ellis(had)
+compound
+Janet(Ellis)
+obj
+intention(had)
+det prep
+no(intention) of(intention)
+pcomp
+marrying(of)
+dobj
+father(marrying)
+poss
+baby(father)
+det case
+the(baby) 's(baby)
+Negation: True
+
+doc id: 1
+sentence id: 55
+And Janet Ellis CAUSED an outcry by announcing she was pregnant but had no intention of marrying the baby 's father .
+verb: marrying
+ 
+obj
+father(marrying)
+poss
+baby(father)
+det case
+the(baby) 's(baby)
+Negation: False
+
+doc id: 1
+sentence id: 56
+He was fined on two occasions for making abusive comments to referees , he CAUSED a storm by branding his players as ` boozers " , and his name was mysteriously connected with a local Swindon bookie .
+verb: CAUSED
+ 
+subj
+he(CAUSED)
+obj
+storm(CAUSED)
+Negation: False
+
+doc id: 1
+sentence id: 56
+He was fined on two occasions for making abusive comments to referees , he CAUSED a storm by branding his players as ` boozers " , and his name was mysteriously connected with a local Swindon bookie .
+verb: was fined
+ 
+subj
+He(was fined)
+
+on
+obj
+occasions(on)
+mod
+two(occasions)
+Negation: False
+
+doc id: 1
+sentence id: 56
+He was fined on two occasions for making abusive comments to referees , he CAUSED a storm by branding his players as ` boozers " , and his name was mysteriously connected with a local Swindon bookie .
+verb: making
+ 
+obj
+comments(making)
+mod
+abusive(comments)
+Negation: False
+
+doc id: 1
+sentence id: 56
+He was fined on two occasions for making abusive comments to referees , he CAUSED a storm by branding his players as ` boozers " , and his name was mysteriously connected with a local Swindon bookie .
+verb: branding
+ 
+obj
+players(branding)
+poss
+his(players)
+Negation: False
+
+as
+obj
+boozers(as)
+punct
+`(boozers)
+Negation: False
+
+doc id: 1
+sentence id: 56
+He was fined on two occasions for making abusive comments to referees , he CAUSED a storm by branding his players as ` boozers " , and his name was mysteriously connected with a local Swindon bookie .
+verb: was connected
+ 
+subj
+name(was connected)
+poss
+his(name)
+
+with
+obj
+bookie(with)
+mod compound
+local(bookie) Swindon(bookie)
+Negation: False
+
+doc id: 1
+sentence id: 57
+The scathing attack came just two years after Sir Claus had CAUSED a storm by warning our crumbling schools were in danger of turning out the dunces of Europe .
+verb: came
+ 
+subj
+attack(came)
+mod
+scathing(attack)
+
+doc id: 1
+sentence id: 57
+The scathing attack came just two years after Sir Claus had CAUSED a storm by warning our crumbling schools were in danger of turning out the dunces of Europe .
+verb: had CAUSED
+ 
+subj
+Claus(had CAUSED)
+compound
+Sir(Claus)
+obj
+storm(had CAUSED)
+Negation: False
+
+doc id: 1
+sentence id: 57
+The scathing attack came just two years after Sir Claus had CAUSED a storm by warning our crumbling schools were in danger of turning out the dunces of Europe .
+verb: warning
+ 
+obj
+were(warning)
+subj prep
+schools(were) in(were)
+poss amod pobj
+our(schools) crumbling(schools) danger(in)
+prep
+of(danger)
+pcomp
+turning out(of)
+dobj
+dunces(turning out)
+det prep
+the(dunces) of(dunces)
+pobj
+Europe(of)
+Negation: False
+
+doc id: 1
+sentence id: 57
+The scathing attack came just two years after Sir Claus had CAUSED a storm by warning our crumbling schools were in danger of turning out the dunces of Europe .
+verb: were
+ 
+subj
+schools(were)
+mod poss
+crumbling(schools) our(schools)
+
+in
+obj
+danger(in)
+prep
+of(danger)
+pcomp
+turning out(of)
+dobj
+dunces(turning out)
+det prep
+the(dunces) of(dunces)
+pobj
+Europe(of)
+Negation: False
+
+doc id: 1
+sentence id: 57
+The scathing attack came just two years after Sir Claus had CAUSED a storm by warning our crumbling schools were in danger of turning out the dunces of Europe .
+verb: crumbling
+ 
+
+doc id: 1
+sentence id: 57
+The scathing attack came just two years after Sir Claus had CAUSED a storm by warning our crumbling schools were in danger of turning out the dunces of Europe .
+verb: turning out
+ 
+obj
+dunces(turning out)
+prep
+of(dunces)
+pobj
+Europe(of)
+Negation: False
+
+doc id: 1
+sentence id: 58
+The molecules are initially in highly coiled shapes but application of a force CAUSES rotation about the chain bonds resulting in an elongation of the molecules in the direction of the stress .
+verb: are
+ 
+subj
+molecules(are)
+
+in
+obj
+shapes(in)
+mod conj cc
+coiled(shapes) application(shapes) but(shapes)
+advmod prep
+highly(coiled) of(application)
+pobj
+rotation(of)
+det compound compound prep
+a(rotation) force(rotation) CAUSES(rotation) about(rotation)
+pobj
+bonds(about)
+det compound acl
+the(bonds) chain(bonds) resulting(bonds)
+prep
+in(resulting)
+pobj
+elongation(in)
+det prep prep
+an(elongation) of(elongation) in(elongation)
+pobj pobj
+molecules(of) direction(in)
+det det prep
+the(molecules) the(direction) of(direction)
+pobj
+stress(of)
+det
+the(stress)
+Negation: False
+
+doc id: 1
+sentence id: 58
+The molecules are initially in highly coiled shapes but application of a force CAUSES rotation about the chain bonds resulting in an elongation of the molecules in the direction of the stress .
+verb: coiled
+ 
+
+doc id: 1
+sentence id: 58
+The molecules are initially in highly coiled shapes but application of a force CAUSES rotation about the chain bonds resulting in an elongation of the molecules in the direction of the stress .
+verb: resulting
+ 
+
+in
+obj
+elongation(in)
+prep
+ of in(elongation)
+Negation: False
+
+doc id: 1
+sentence id: 59
+The unbeaten colt CAUSED concern after becoming ill on Sunday .
+verb: CAUSED
+ 
+
+doc id: 1
+sentence id: 59
+The unbeaten colt CAUSED concern after becoming ill on Sunday .
+verb: becoming ill
+ 
+
+on
+obj
+Sunday(on)
+Negation: False
+
+doc id: 1
+sentence id: 60
+A PENSIONER CAUSED havoc after getting lost and driving the wrong way up a motorway .
+verb: CAUSED
+ 
+subj
+PENSIONER(CAUSED)
+obj
+havoc(CAUSED)
+Negation: False
+
+doc id: 1
+sentence id: 60
+A PENSIONER CAUSED havoc after getting lost and driving the wrong way up a motorway .
+verb: getting lost,  driving
+ 
+obj
+way(getting lost,  driving)
+mod
+wrong(way)
+Negation: False
+
+doc id: 1
+sentence id: 61
+Eruptions on the Sun inject high-speed particles into the solar wind , and these can CAUSE geomagnetic disturbances on reaching the Earth .
+verb: inject
+ 
+subj
+Eruptions(inject)
+prep
+on(Eruptions)
+pobj
+Sun(on)
+det
+the(Sun)
+obj
+particles(inject)
+compound
+speed(particles)
+amod punct
+high(speed) -(speed)
+Negation: False
+
+into
+obj
+wind(into)
+mod
+solar(wind)
+Negation: False
+
+doc id: 1
+sentence id: 61
+Eruptions on the Sun inject high-speed particles into the solar wind , and these can CAUSE geomagnetic disturbances on reaching the Earth .
+verb: can CAUSE
+ 
+subj
+these(can CAUSE)
+obj
+disturbances(can CAUSE)
+mod
+geomagnetic(disturbances)
+Negation: False
+
+doc id: 1
+sentence id: 61
+Eruptions on the Sun inject high-speed particles into the solar wind , and these can CAUSE geomagnetic disturbances on reaching the Earth .
+verb: reaching
+ 
+obj
+Earth(reaching)
+Negation: False
+
+doc id: 1
+sentence id: 62
+THE threat of political collapse and civil war in Russia CAUSED a wave of falling share prices on almost all leading world markets yesterday .
+verb: CAUSED
+ 
+subj
+threat(CAUSED)
+prep
+of(threat)
+pobj
+collapse(of)
+amod cc conj prep
+political(collapse) and(collapse) war(collapse) in(collapse)
+amod pobj
+civil(war) Russia(in)
+obj
+wave(CAUSED)
+prep
+of(wave)
+pobj
+prices(of)
+amod compound prep
+falling(prices) share(prices) on(prices)
+pobj
+markets(on)
+nummod amod compound
+all(markets) leading(markets) world(markets)
+advmod
+almost(all)
+Negation: False
+
+doc id: 1
+sentence id: 62
+THE threat of political collapse and civil war in Russia CAUSED a wave of falling share prices on almost all leading world markets yesterday .
+verb: falling
+ 
+
+doc id: 1
+sentence id: 62
+THE threat of political collapse and civil war in Russia CAUSED a wave of falling share prices on almost all leading world markets yesterday .
+verb: leading
+ 
+
+doc id: 2
+sentence id: 0
+This film was widely acclaimed , became a BBC worldwide bestseller , and was the event that really SPARKED widespread interest in the new technology in Britain .
+verb: was acclaimed,  became
+ 
+subj
+film(was acclaimed,  became)
+obj
+bestseller(was acclaimed,  became)
+mod mod
+worldwide(bestseller) BBC(bestseller)
+Negation: False
+
+doc id: 2
+sentence id: 0
+This film was widely acclaimed , became a BBC worldwide bestseller , and was the event that really SPARKED widespread interest in the new technology in Britain .
+verb: was
+ 
+subj
+film(was)
+obj
+event(was)
+Negation: False
+
+doc id: 2
+sentence id: 0
+This film was widely acclaimed , became a BBC worldwide bestseller , and was the event that really SPARKED widespread interest in the new technology in Britain .
+verb: SPARKED
+ 
+subj
+event(SPARKED)
+obj
+interest(SPARKED)
+mod prep
+widespread(interest) in(interest)
+pobj
+technology(in)
+det amod
+the(technology) new(technology)
+Negation: False
+
+in
+obj
+Britain(in)
+Negation: False
+
+doc id: 2
+sentence id: 2
+A CHILD murderer set to become the first person to be hanged for 28 years has SPARKED controversy across America .
+verb: has SPARKED
+ 
+subj
+murderer(has SPARKED)
+compound
+CHILD(murderer)
+obj
+controversy(has SPARKED)
+Negation: False
+
+across
+obj
+America(across)
+Negation: False
+
+doc id: 2
+sentence id: 2
+A CHILD murderer set to become the first person to be hanged for 28 years has SPARKED controversy across America .
+verb: set
+ 
+
+doc id: 2
+sentence id: 2
+A CHILD murderer set to become the first person to be hanged for 28 years has SPARKED controversy across America .
+verb: to become
+ 
+obj
+person(to become)
+mod
+first(person)
+Negation: False
+
+doc id: 2
+sentence id: 2
+A CHILD murderer set to become the first person to be hanged for 28 years has SPARKED controversy across America .
+verb: to be hanged
+ 
+subj
+person(to be hanged)
+mod
+first(person)
+
+for
+obj
+years(for)
+mod
+28(years)
+Negation: False
+
+doc id: 2
+sentence id: 3
+But his romance with Karen has SPARKED controversy .
+verb: has
+ 
+subj
+romance(has)
+poss
+his(romance)
+obj
+controversy(has)
+compound
+SPARKED(controversy)
+Negation: False
+
+doc id: 2
+sentence id: 4
+National Grid 's proposal to route a 400kv power line through part of the constituency is another issue which has SPARKED controversy .
+verb: is
+ 
+subj
+proposal(is)
+poss
+Grid(proposal)
+compound case
+National(Grid) 's(Grid)
+obj
+issue(is)
+Negation: False
+
+doc id: 2
+sentence id: 4
+National Grid 's proposal to route a 400kv power line through part of the constituency is another issue which has SPARKED controversy .
+verb: to route
+ 
+obj
+line(to route)
+compound
+ 400kv power(line)
+Negation: False
+
+through
+obj
+part(through)
+prep
+of(part)
+pobj
+constituency(of)
+det
+the(constituency)
+Negation: False
+
+doc id: 2
+sentence id: 4
+National Grid 's proposal to route a 400kv power line through part of the constituency is another issue which has SPARKED controversy .
+verb: has
+ 
+subj
+issue(has)
+obj
+controversy(has)
+compound
+SPARKED(controversy)
+Negation: False
+
+doc id: 2
+sentence id: 5
+It came amid a crisis SPARKED by fears that the ERM could be destroyed if the French vote No in their referendum .
+verb: came
+ 
+subj
+It(came)
+
+amid
+obj
+SPARKED(amid)
+compound
+crisis(SPARKED)
+Negation: False
+
+doc id: 2
+sentence id: 5
+It came amid a crisis SPARKED by fears that the ERM could be destroyed if the French vote No in their referendum .
+verb: could be destroyed
+ 
+subj
+ERM(could be destroyed)
+
+doc id: 2
+sentence id: 6
+A DECISION to allow building on one of Darlington 's largest car parks has SPARKED fresh fears about the town centre 's commercial future .
+verb: has SPARKED
+ 
+subj
+DECISION(has SPARKED)
+obj
+fears(has SPARKED)
+mod prep
+fresh(fears) about(fears)
+pobj
+future(about)
+poss amod
+centre(future) commercial(future)
+det compound case
+the(centre) town(centre) 's(centre)
+Negation: False
+
+doc id: 2
+sentence id: 6
+A DECISION to allow building on one of Darlington 's largest car parks has SPARKED fresh fears about the town centre 's commercial future .
+verb: to allow
+ 
+obj
+building(to allow)
+prep
+on(building)
+pobj
+one(on)
+prep
+of(one)
+pobj
+parks(of)
+poss amod compound
+Darlington(parks) largest(parks) car(parks)
+case
+'s(Darlington)
+Negation: False
+
+doc id: 2
+sentence id: 8
+A rumbling dispute about changes to working conditions SPARKED an ill-temperered row in a research facility marked for twenty years of good industrial relations .
+verb: SPARKED
+ 
+subj
+dispute(SPARKED)
+mod prep
+rumbling(dispute) about(dispute)
+pobj
+changes(about)
+prep
+to(changes)
+pobj
+conditions(to)
+amod
+working(conditions)
+obj
+row(SPARKED)
+mod prep
+temperered(row) in(row)
+amod punct pobj
+ill(temperered) -(temperered) facility(in)
+det compound acl
+a(facility) research(facility) marked(facility)
+prep
+for(marked)
+pobj
+years(for)
+nummod prep
+twenty(years) of(years)
+pobj
+relations(of)
+amod amod
+good(relations) industrial(relations)
+Negation: False
+
+doc id: 2
+sentence id: 8
+A rumbling dispute about changes to working conditions SPARKED an ill-temperered row in a research facility marked for twenty years of good industrial relations .
+verb: rumbling
+ 
+
+doc id: 2
+sentence id: 8
+A rumbling dispute about changes to working conditions SPARKED an ill-temperered row in a research facility marked for twenty years of good industrial relations .
+verb: marked
+ 
+
+for
+obj
+years(for)
+mod prep
+twenty(years) of(years)
+pobj
+relations(of)
+amod amod
+good(relations) industrial(relations)
+Negation: False
+
+doc id: 2
+sentence id: 9
+MORTGAGE lenders SPARKED a storm yesterday by launching a campaign to crack down on crooked lawyers who run off with £20 million a year .
+verb: SPARKED
+ 
+subj
+lenders(SPARKED)
+compound
+MORTGAGE(lenders)
+obj
+storm(SPARKED)
+Negation: False
+
+doc id: 2
+sentence id: 9
+MORTGAGE lenders SPARKED a storm yesterday by launching a campaign to crack down on crooked lawyers who run off with £20 million a year .
+verb: launching
+ 
+obj
+campaign(launching)
+Negation: False
+
+doc id: 2
+sentence id: 9
+MORTGAGE lenders SPARKED a storm yesterday by launching a campaign to crack down on crooked lawyers who run off with £20 million a year .
+verb: to crack down
+ 
+
+on
+obj
+lawyers(on)
+mod
+crooked(lawyers)
+Negation: False
+
+doc id: 2
+sentence id: 9
+MORTGAGE lenders SPARKED a storm yesterday by launching a campaign to crack down on crooked lawyers who run off with £20 million a year .
+verb: run off
+ 
+subj
+who(run off)
+
+with
+obj
+million(with)
+mod mod compound
+year(million) £(million) 20(million)
+det
+a(year)
+Negation: False
+
+doc id: 2
+sentence id: 10
+He plans to publish diaries about his years in office which will SPARK a storm in Westminster .
+verb: plans to publish
+ 
+subj
+He(plans to publish)
+obj
+diaries(plans to publish)
+Negation: False
+
+about
+obj
+years(about)
+poss prep
+his(years) in(years)
+pobj
+office(in)
+Negation: False
+
+doc id: 2
+sentence id: 10
+He plans to publish diaries about his years in office which will SPARK a storm in Westminster .
+verb: will SPARK
+ 
+subj
+years(will SPARK)
+poss prep
+his(years) in(years)
+pobj
+office(in)
+obj
+storm(will SPARK)
+Negation: False
+
+in
+obj
+Westminster(in)
+Negation: False
+
+doc id: 2
+sentence id: 11
+The only hint of rebellion seems to have been SPARKED by her first crush on a classmate known only by the name of Grant .
+verb: seems to have been SPARKED
+ 
+subj
+ hint by(seems to have been SPARKED)
+obj mod prep
+crush( hint by) only( hint by) of( hint by)
+poss amod prep pobj
+her(crush) first(crush) on(crush) rebellion(of)
+pobj
+classmate(on)
+det acl
+a(classmate) known(classmate)
+prep
+by(known)
+advmod pobj
+only(by) name(by)
+det prep
+the(name) of(name)
+pobj
+Grant(of)
+
+doc id: 2
+sentence id: 11
+The only hint of rebellion seems to have been SPARKED by her first crush on a classmate known only by the name of Grant .
+verb: known
+ 
+
+by
+obj
+name(by)
+prep
+of(name)
+pobj
+Grant(of)
+Negation: False
+
+doc id: 2
+sentence id: 12
+Soldiers herded 50,000 Hindus onto buses and trains out of Ayodhya , where the violence was SPARKED by the destruction of a Moslem mosque .
+verb: herded
+ 
+subj
+Soldiers(herded)
+obj
+Hindus(herded)
+mod
+50,000(Hindus)
+Negation: False
+
+onto
+obj
+buses(onto)
+Negation: False
+
+doc id: 2
+sentence id: 12
+Soldiers herded 50,000 Hindus onto buses and trains out of Ayodhya , where the violence was SPARKED by the destruction of a Moslem mosque .
+verb: was SPARKED
+ 
+subj
+ violence Ayodhya(was SPARKED)
+punct
+,( violence Ayodhya)
+
+doc id: 2
+sentence id: 13
+The demand from Labour was SPARKED by fury over plans to bring back charges for customers in credit .
+verb: was SPARKED
+ 
+subj
+demand(was SPARKED)
+prep
+from(demand)
+pobj
+Labour(from)
+
+by
+obj
+fury(by)
+prep
+over(fury)
+pobj
+plans(over)
+acl
+to bring back(plans)
+dobj
+charges(to bring back)
+prep
+for(charges)
+pobj
+customers(for)
+prep
+in(customers)
+pobj
+credit(in)
+Negation: False
+
+doc id: 2
+sentence id: 13
+The demand from Labour was SPARKED by fury over plans to bring back charges for customers in credit .
+verb: to bring back
+ 
+obj
+charges(to bring back)
+Negation: False
+
+doc id: 2
+sentence id: 14
+The debate has been SPARKED by the plunge in interest rates since 1990 .
+verb: has been SPARKED
+ 
+subj
+ debate by(has been SPARKED)
+obj
+plunge( debate by)
+det prep prep
+the(plunge) in(plunge) since(plunge)
+pobj pobj
+rates(in) 1990(since)
+compound
+interest(rates)
+
+doc id: 2
+sentence id: 15
+The Genestealer rebellion had been SPARKED deliberately , primarily to feed the creation of this creature .CNI
+verb: had been SPARKED
+ 
+subj
+rebellion(had been SPARKED)
+compound
+Genestealer(rebellion)
+
+doc id: 2
+sentence id: 15
+The Genestealer rebellion had been SPARKED deliberately , primarily to feed the creation of this creature .CNI
+verb: to feed
+ 
+obj
+creation(to feed)
+prep
+of(creation)
+pobj
+creature(of)
+det
+this(creature)
+Negation: False
+
+doc id: 2
+sentence id: 16
+The row was SPARKED when Ards full back Tommy Leeman was booked for a late tackle on Linfield 's Lee Doherty .CNI
+verb: was
+ 
+subj
+row(was)
+
+doc id: 2
+sentence id: 16
+The row was SPARKED when Ards full back Tommy Leeman was booked for a late tackle on Linfield 's Lee Doherty .CNI
+verb: SPARKED
+ 
+
+doc id: 2
+sentence id: 16
+The row was SPARKED when Ards full back Tommy Leeman was booked for a late tackle on Linfield 's Lee Doherty .CNI
+verb: was booked
+ 
+subj
+Ards(was booked)
+appos mod
+Leeman(Ards) full(Ards)
+compound advmod
+Tommy(Leeman) back(full)
+
+for
+obj
+tackle(for)
+mod prep
+late(tackle) on(tackle)
+pobj
+Doherty(on)
+poss compound
+Linfield(Doherty) Lee(Doherty)
+case
+'s(Linfield)
+Negation: False
+
+doc id: 2
+sentence id: 17
+Critics fear it will SPARK damaging competition between schools .
+verb: fear
+ 
+subj
+Critics(fear)
+
+doc id: 2
+sentence id: 17
+Critics fear it will SPARK damaging competition between schools .
+verb: will SPARK
+ 
+subj
+it(will SPARK)
+obj
+competition(will SPARK)
+mod prep
+damaging(competition) between(competition)
+pobj
+schools(between)
+Negation: False
+
+doc id: 3
+sentence id: 1
+Noise GENERATED by industrial activity and boat traffic is transmitted especially well under water .
+verb: is transmitted
+ 
+subj
+ Noise traffic(is transmitted)
+
+under
+obj
+water(under)
+Negation: False
+
+doc id: 3
+sentence id: 1
+Noise GENERATED by industrial activity and boat traffic is transmitted especially well under water .
+verb: GENERATED
+ 
+subj
+by(GENERATED)
+obj
+activity(by)
+amod cc
+industrial(activity) and(activity)
+
+doc id: 3
+sentence id: 2
+As a result , an alumina implant can shield the surrounding bone from the stresses GENERATED by normal activity , and the bone loses the stimulation which is necessary for it to remain healthy .
+verb: can shield
+ 
+subj
+implant(can shield)
+compound
+alumina(implant)
+obj
+bone(can shield)
+mod
+surrounding(bone)
+Negation: False
+
+As
+obj
+result(As)
+Negation: False
+
+doc id: 3
+sentence id: 2
+As a result , an alumina implant can shield the surrounding bone from the stresses GENERATED by normal activity , and the bone loses the stimulation which is necessary for it to remain healthy .
+verb: surrounding
+ 
+
+doc id: 3
+sentence id: 2
+As a result , an alumina implant can shield the surrounding bone from the stresses GENERATED by normal activity , and the bone loses the stimulation which is necessary for it to remain healthy .
+verb: GENERATED
+ 
+subj
+by(GENERATED)
+obj
+activity(by)
+amod
+normal(activity)
+
+doc id: 3
+sentence id: 2
+As a result , an alumina implant can shield the surrounding bone from the stresses GENERATED by normal activity , and the bone loses the stimulation which is necessary for it to remain healthy .
+verb: loses
+ 
+subj
+bone(loses)
+obj
+stimulation(loses)
+Negation: False
+
+doc id: 3
+sentence id: 2
+As a result , an alumina implant can shield the surrounding bone from the stresses GENERATED by normal activity , and the bone loses the stimulation which is necessary for it to remain healthy .
+verb: is necessary
+ 
+subj
+stimulation(is necessary)
+
+doc id: 3
+sentence id: 2
+As a result , an alumina implant can shield the surrounding bone from the stresses GENERATED by normal activity , and the bone loses the stimulation which is necessary for it to remain healthy .
+verb: to remain healthy
+ 
+subj
+it(to remain healthy)
+
+doc id: 3
+sentence id: 3
+However , although the availability of new and more contemporary data GENERATES much activity , interest , and publishable analyses , it might not cast much more light on the resource allocation problem for the reasons outlined above .
+verb: might cast
+ 
+subj
+it(might cast)
+obj
+light(might cast)
+mod
+more(light)
+advmod
+much(more)
+Negation: True
+
+on
+obj
+problem(on)
+compound
+allocation(problem)
+compound
+resource(allocation)
+Negation: False
+
+doc id: 3
+sentence id: 3
+However , although the availability of new and more contemporary data GENERATES much activity , interest , and publishable analyses , it might not cast much more light on the resource allocation problem for the reasons outlined above .
+verb: GENERATES
+ 
+subj
+availability(GENERATES)
+prep
+of(availability)
+pobj
+data(of)
+amod amod
+new(data) contemporary(data)
+cc conj
+and(new) more(new)
+obj
+activity(GENERATES)
+mod conj punct
+much(activity) interest(activity) ,(activity)
+punct cc conj
+,(interest) and(interest) analyses(interest)
+amod
+publishable(analyses)
+Negation: False
+
+doc id: 3
+sentence id: 3
+However , although the availability of new and more contemporary data GENERATES much activity , interest , and publishable analyses , it might not cast much more light on the resource allocation problem for the reasons outlined above .
+verb: outlined
+ 
+
+doc id: 3
+sentence id: 4
+In Marx 's view this would mean the end of history since communist society would no longer contain the contradictions which GENERATE change .
+verb: would mean
+ 
+subj
+this(would mean)
+obj
+end(would mean)
+prep
+of(end)
+pobj
+history(of)
+Negation: False
+
+In
+obj
+view(In)
+poss
+Marx(view)
+case
+'s(Marx)
+Negation: False
+
+doc id: 3
+sentence id: 4
+In Marx 's view this would mean the end of history since communist society would no longer contain the contradictions which GENERATE change .
+verb: would contain
+ 
+subj
+society(would contain)
+mod
+communist(society)
+obj
+contradictions(would contain)
+Negation: False
+
+doc id: 3
+sentence id: 4
+In Marx 's view this would mean the end of history since communist society would no longer contain the contradictions which GENERATE change .
+verb: GENERATE
+ 
+subj
+contradictions(GENERATE)
+obj
+change(GENERATE)
+Negation: False
+
+doc id: 3
+sentence id: 5
+This objective change in the market has also GENERATED a logical change in the role required of the state by capitalism .
+verb: has GENERATED
+ 
+subj
+change(has GENERATED)
+mod prep
+objective(change) in(change)
+pobj
+market(in)
+det
+the(market)
+obj
+change(has GENERATED)
+mod prep
+logical(change) in(change)
+pobj
+role(in)
+det acl
+the(role) required(role)
+prep agent
+of(required) by(required)
+pobj pobj
+state(of) capitalism(by)
+det
+the(state)
+Negation: False
+
+doc id: 3
+sentence id: 5
+This objective change in the market has also GENERATED a logical change in the role required of the state by capitalism .
+verb: required
+ 
+subj
+by(required)
+obj
+capitalism(by)
+
+of
+obj
+state(of)
+Negation: False
+
+doc id: 3
+sentence id: 6
+But the industry itself can GENERATE change .
+verb: can GENERATE
+ 
+subj
+industry(can GENERATE)
+appos
+itself(industry)
+obj
+change(can GENERATE)
+Negation: False
+
+doc id: 3
+sentence id: 7
+The stark fact is that Nottinghamshire could not afford to do both and GENERATED local controversy by protecting the vertical efficiency of the developmental approach at the expense of fieldwork support for the many .
+verb: is
+ 
+subj
+fact(is)
+mod
+stark(fact)
+
+doc id: 3
+sentence id: 7
+The stark fact is that Nottinghamshire could not afford to do both and GENERATED local controversy by protecting the vertical efficiency of the developmental approach at the expense of fieldwork support for the many .
+verb: could afford to do
+ 
+subj
+Nottinghamshire(could afford to do)
+obj
+both(could afford to do)
+Negation: True
+
+doc id: 3
+sentence id: 7
+The stark fact is that Nottinghamshire could not afford to do both and GENERATED local controversy by protecting the vertical efficiency of the developmental approach at the expense of fieldwork support for the many .
+verb: GENERATED
+ 
+subj
+Nottinghamshire(GENERATED)
+obj
+controversy(GENERATED)
+mod
+local(controversy)
+Negation: False
+
+doc id: 3
+sentence id: 7
+The stark fact is that Nottinghamshire could not afford to do both and GENERATED local controversy by protecting the vertical efficiency of the developmental approach at the expense of fieldwork support for the many .
+verb: protecting
+ 
+obj
+efficiency(protecting)
+mod prep
+vertical(efficiency) of(efficiency)
+pobj
+approach(of)
+det amod prep
+the(approach) developmental(approach) at(approach)
+pobj
+expense(at)
+det prep prep
+the(expense) of(expense) for(expense)
+pobj pobj
+support(of) many(for)
+compound det
+fieldwork(support) the(many)
+Negation: False
+
+doc id: 3
+sentence id: 8
+Until a definition for asthma itself can be agreed the problem of defining attacks will continue to GENERATE controversy .
+verb: will continue to GENERATE
+ 
+obj
+controversy(will continue to GENERATE)
+Negation: False
+
+doc id: 3
+sentence id: 8
+Until a definition for asthma itself can be agreed the problem of defining attacks will continue to GENERATE controversy .
+verb: can be agreed
+ 
+subj
+definition(can be agreed)
+appos
+itself(definition)
+obj
+problem(can be agreed)
+prep
+of(problem)
+pcomp
+defining(of)
+dobj
+attacks(defining)
+Negation: False
+
+doc id: 3
+sentence id: 8
+Until a definition for asthma itself can be agreed the problem of defining attacks will continue to GENERATE controversy .
+verb: defining
+ 
+obj
+attacks(defining)
+Negation: False
+
+doc id: 3
+sentence id: 9
+But the excitement GENERATED by this debate tended to obscure the fact that the party experiencing the most obvious difficulties before 1914 was the Conservative party .
+verb: tended to obscure
+ 
+subj
+excitement(tended to obscure)
+obj
+fact(tended to obscure)
+Negation: False
+
+doc id: 3
+sentence id: 9
+But the excitement GENERATED by this debate tended to obscure the fact that the party experiencing the most obvious difficulties before 1914 was the Conservative party .
+verb: GENERATED
+ 
+subj
+by(GENERATED)
+obj
+debate(by)
+det
+this(debate)
+
+doc id: 3
+sentence id: 9
+But the excitement GENERATED by this debate tended to obscure the fact that the party experiencing the most obvious difficulties before 1914 was the Conservative party .
+verb: was
+ 
+subj
+party(was)
+obj
+party(was)
+mod
+Conservative(party)
+Negation: False
+
+doc id: 3
+sentence id: 9
+But the excitement GENERATED by this debate tended to obscure the fact that the party experiencing the most obvious difficulties before 1914 was the Conservative party .
+verb: experiencing
+ 
+obj
+difficulties(experiencing)
+mod prep
+obvious(difficulties) before(difficulties)
+advmod pobj
+most(obvious) 1914(before)
+Negation: False
+
+doc id: 3
+sentence id: 10
+Employee share ownership has not GENERATED great public debate or excitement because the sums involved , for most employees , are not large enough to grab their attention .
+verb: has GENERATED
+ 
+subj
+ownership(has GENERATED)
+compound
+ Employee share(ownership)
+obj
+debate(has GENERATED)
+mod conj cc
+ great public(debate) excitement(debate) or(debate)
+Negation: True
+
+doc id: 3
+sentence id: 10
+Employee share ownership has not GENERATED great public debate or excitement because the sums involved , for most employees , are not large enough to grab their attention .
+verb: are large
+ 
+subj
+sums(are large)
+prep punct
+for(sums) ,(sums)
+pobj
+employees(for)
+amod
+most(employees)
+
+doc id: 3
+sentence id: 10
+Employee share ownership has not GENERATED great public debate or excitement because the sums involved , for most employees , are not large enough to grab their attention .
+verb: involved
+ 
+
+doc id: 3
+sentence id: 10
+Employee share ownership has not GENERATED great public debate or excitement because the sums involved , for most employees , are not large enough to grab their attention .
+verb: to grab
+ 
+obj
+attention(to grab)
+poss
+their(attention)
+Negation: False
+
+doc id: 3
+sentence id: 11
+The mandatory imposition of this task upon GPs has GENERATED an extensive debate about its efficacy .
+verb: has GENERATED
+ 
+subj
+imposition(has GENERATED)
+mod prep
+mandatory(imposition)  of upon(imposition)
+obj
+debate(has GENERATED)
+mod prep
+extensive(debate) about(debate)
+pobj
+efficacy(about)
+poss
+its(efficacy)
+Negation: False
+
+doc id: 3
+sentence id: 12
+The Forestry Commission expressed the hope that the study would GENERATE wide debate but stressed that it had no competence to formulate overall forestry policy , which was a matter for the government .
+verb: expressed
+ 
+subj
+Commission(expressed)
+compound
+Forestry(Commission)
+obj
+hope(expressed)
+Negation: False
+
+doc id: 3
+sentence id: 12
+The Forestry Commission expressed the hope that the study would GENERATE wide debate but stressed that it had no competence to formulate overall forestry policy , which was a matter for the government .
+verb: would GENERATE
+ 
+subj
+study(would GENERATE)
+obj
+debate(would GENERATE)
+mod
+wide(debate)
+Negation: False
+
+doc id: 3
+sentence id: 12
+The Forestry Commission expressed the hope that the study would GENERATE wide debate but stressed that it had no competence to formulate overall forestry policy , which was a matter for the government .
+verb: stressed
+ 
+subj
+study(stressed)
+
+doc id: 3
+sentence id: 12
+The Forestry Commission expressed the hope that the study would GENERATE wide debate but stressed that it had no competence to formulate overall forestry policy , which was a matter for the government .
+verb: had
+ 
+subj
+it(had)
+obj
+competence(had)
+det
+no(competence)
+Negation: True
+
+doc id: 3
+sentence id: 12
+The Forestry Commission expressed the hope that the study would GENERATE wide debate but stressed that it had no competence to formulate overall forestry policy , which was a matter for the government .
+verb: to formulate
+ 
+obj
+policy(to formulate)
+mod compound punct
+overall(policy) forestry(policy) ,(policy)
+Negation: False
+
+doc id: 3
+sentence id: 12
+The Forestry Commission expressed the hope that the study would GENERATE wide debate but stressed that it had no competence to formulate overall forestry policy , which was a matter for the government .
+verb: was
+ 
+subj
+policy(was)
+mod compound punct
+overall(policy) forestry(policy) ,(policy)
+obj
+matter(was)
+Negation: False
+
+doc id: 3
+sentence id: 13
+Choosing emotionally and socially charged ( " generative " ) words and pictures of students ' problems , he GENERATED discussion on how to improve their lives .
+verb: GENERATED
+ 
+subj
+he(GENERATED)
+obj
+discussion(GENERATED)
+prep
+on(discussion)
+pcomp
+to improve(on)
+advmod dobj
+how(to improve) lives(to improve)
+poss
+their(lives)
+Negation: False
+
+doc id: 3
+sentence id: 13
+Choosing emotionally and socially charged ( " generative " ) words and pictures of students ' problems , he GENERATED discussion on how to improve their lives .
+verb: Choosing
+ 
+obj
+words(Choosing)
+conj cc punct
+pictures(words) and(words) )(words)
+prep
+of(pictures)
+pobj
+problems(of)
+poss
+students(problems)
+case
+'(students)
+Negation: False
+
+doc id: 3
+sentence id: 13
+Choosing emotionally and socially charged ( " generative " ) words and pictures of students ' problems , he GENERATED discussion on how to improve their lives .
+verb: charged
+ 
+subj
+he(charged)
+
+doc id: 3
+sentence id: 13
+Choosing emotionally and socially charged ( " generative " ) words and pictures of students ' problems , he GENERATED discussion on how to improve their lives .
+verb: to improve
+ 
+obj
+lives(to improve)
+poss
+their(lives)
+Negation: False
+
+doc id: 3
+sentence id: 14
+This meeting GENERATED a great deal of lively discussion and useful feedback .
+verb: GENERATED
+ 
+subj
+meeting(GENERATED)
+obj
+deal(GENERATED)
+mod prep
+great(deal) of(deal)
+pobj
+discussion(of)
+amod cc conj
+lively(discussion) and(discussion) feedback(discussion)
+amod
+useful(feedback)
+Negation: False
+
+doc id: 3
+sentence id: 15
+In turn this difference may affect the stability of the employment , and the likelihood that it will GENERATE further growth in the region concerned .
+verb: may affect
+ 
+subj
+difference(may affect)
+obj
+stability(may affect)
+prep
+of(stability)
+pobj
+employment(of)
+det
+the(employment)
+Negation: False
+
+In
+obj
+turn(In)
+Negation: False
+
+doc id: 3
+sentence id: 15
+In turn this difference may affect the stability of the employment , and the likelihood that it will GENERATE further growth in the region concerned .
+verb: will GENERATE
+ 
+subj
+it(will GENERATE)
+obj
+growth(will GENERATE)
+mod prep
+further(growth) in(growth)
+pobj
+region(in)
+det
+the(region)
+Negation: False
+
+doc id: 3
+sentence id: 15
+In turn this difference may affect the stability of the employment , and the likelihood that it will GENERATE further growth in the region concerned .
+verb: concerned
+ 
+
+doc id: 3
+sentence id: 16
+Another conference at Llangollen on Wednesday examines how indigenous cultural resources can GENERATE economic growth .
+verb: examines
+ 
+subj
+conference(examines)
+prep
+ at on(conference)
+
+doc id: 3
+sentence id: 16
+Another conference at Llangollen on Wednesday examines how indigenous cultural resources can GENERATE economic growth .
+verb: can GENERATE
+ 
+subj
+resources(can GENERATE)
+mod
+ indigenous cultural(resources)
+obj
+growth(can GENERATE)
+mod
+economic(growth)
+Negation: False
+
+doc id: 3
+sentence id: 17
+It is not unusual for publicity to GENERATE interest and encourage witnesses and , indeed , other survivors of sexual attacks to come forward .
+verb: is unusual
+ 
+subj
+It(is unusual)
+
+for
+obj
+publicity(for)
+Negation: False
+
+doc id: 3
+sentence id: 17
+It is not unusual for publicity to GENERATE interest and encourage witnesses and , indeed , other survivors of sexual attacks to come forward .
+verb: to GENERATE
+ 
+obj
+interest(to GENERATE)
+Negation: False
+
+doc id: 3
+sentence id: 17
+It is not unusual for publicity to GENERATE interest and encourage witnesses and , indeed , other survivors of sexual attacks to come forward .
+verb: encourage
+ 
+subj
+It(encourage)
+obj
+witnesses(encourage)
+Negation: False
+
+doc id: 3
+sentence id: 17
+It is not unusual for publicity to GENERATE interest and encourage witnesses and , indeed , other survivors of sexual attacks to come forward .
+verb: to come
+ 
+subj
+It(to come)
+
+doc id: 3
+sentence id: 18
+The concert and the reception which followed it GENERATED considerable interest in , as well as funds for , the Alumni Foundation .
+verb: GENERATED
+ 
+subj
+concert(GENERATED)
+conj cc
+reception(concert) and(concert)
+det relcl
+the(reception) followed(reception)
+nsubj dobj
+which(followed) it(followed)
+obj
+ interest Foundation(GENERATED)
+Negation: False
+
+in
+obj
+funds(in)
+punct
+,(funds)
+Negation: False
+
+doc id: 3
+sentence id: 18
+The concert and the reception which followed it GENERATED considerable interest in , as well as funds for , the Alumni Foundation .
+verb: followed
+ 
+subj
+reception(followed)
+obj
+it(followed)
+Negation: False
+
+doc id: 3
+sentence id: 19
+The conference proceedings GENERATED intense public interest and were closely followed in the media .
+verb: GENERATED
+ 
+subj
+proceedings(GENERATED)
+compound
+conference(proceedings)
+obj
+interest(GENERATED)
+mod
+ intense public(interest)
+Negation: False
+
+doc id: 3
+sentence id: 19
+The conference proceedings GENERATED intense public interest and were closely followed in the media .
+verb: were followed
+ 
+subj
+proceedings(were followed)
+compound
+conference(proceedings)
+
+in
+obj
+media(in)
+Negation: False
+
+doc id: 3
+sentence id: 20
+It is believed that the initiatives could GENERATE a 10% reduction in casualties by the year 2000 within this age group .
+verb: is believed
+ 
+subj
+It(is believed)
+
+doc id: 3
+sentence id: 20
+It is believed that the initiatives could GENERATE a 10% reduction in casualties by the year 2000 within this age group .
+verb: could GENERATE
+ 
+subj
+initiatives(could GENERATE)
+obj
+reduction(could GENERATE)
+prep compound
+in(reduction) %(reduction)
+pobj nummod
+casualties(in) 10(%)
+Negation: False
+
+by
+obj
+year(by)
+mod
+2000(year)
+Negation: False
+
+doc id: 3
+sentence id: 21
+Slight changes in main-chain torsion angles for the linker residues in sCD2 can GENERATE substantial ` hinge-bending " shifts in relative domain orientation .
+verb: can GENERATE
+ 
+subj
+changes(can GENERATE)
+mod prep
+Slight(changes)  in for in(changes)
+obj
+shifts(can GENERATE)
+mod prep punct
+ substantial bending(shifts) in(shifts)  ` "(shifts)
+pobj
+orientation(in)
+compound
+domain(orientation)
+amod
+relative(domain)
+Negation: False
+
+doc id: 3
+sentence id: 21
+Slight changes in main-chain torsion angles for the linker residues in sCD2 can GENERATE substantial ` hinge-bending " shifts in relative domain orientation .
+verb: bending
+ 
+
+doc id: 3
+sentence id: 22
+The workshops wouldn't GENERATE too much traffic and the proximity to Temple Meads station and the rail network would be useful for despatching goods .
+verb: would GENERATE
+ 
+subj
+workshops(would GENERATE)
+obj
+traffic(would GENERATE)
+mod conj cc
+much(traffic) proximity(traffic) and(traffic)
+advmod det prep conj
+too(much) the(proximity) to(proximity) network(proximity)
+pobj det compound
+station(to) the(network) rail(network)
+compound cc
+Meads(station) and(station)
+compound
+Temple(Meads)
+Negation: True
+
+doc id: 3
+sentence id: 22
+The workshops wouldn't GENERATE too much traffic and the proximity to Temple Meads station and the rail network would be useful for despatching goods .
+verb: would be useful
+ 
+subj
+workshops(would be useful)
+
+doc id: 3
+sentence id: 22
+The workshops wouldn't GENERATE too much traffic and the proximity to Temple Meads station and the rail network would be useful for despatching goods .
+verb: despatching
+ 
+obj
+goods(despatching)
+Negation: False
+
+doc id: 3
+sentence id: 23
+The housing proposals will GENERATE some additional traffic but not on a scale which would cause capacity or safety problems .
+verb: will GENERATE
+ 
+subj
+proposals(will GENERATE)
+compound
+housing(proposals)
+obj
+traffic(will GENERATE)
+mod
+additional(traffic)
+Negation: False
+
+on
+obj
+scale(on)
+Negation: True
+
+doc id: 3
+sentence id: 23
+The housing proposals will GENERATE some additional traffic but not on a scale which would cause capacity or safety problems .
+verb: would cause
+ 
+subj
+scale(would cause)
+obj
+problems(would cause)
+mod
+capacity(problems)
+cc conj
+or(capacity) safety(capacity)
+Negation: False
+
+doc id: 3
+sentence id: 24
+The figures were GENERATED by the computer program MOLSCRIPT .
+verb: were GENERATED
+ 
+subj
+ figures by(were GENERATED)
+obj
+program( figures by)
+det compound appos
+the(program) computer(program) MOLSCRIPT(program)
+
+doc id: 3
+sentence id: 25
+The kind of non-randomness that can be GENERATED by simple sieving is roughly equivalent to opening a combination lock with one one dial : it is easy to open it by sheer luck .
+verb: is to open easy
+ 
+subj
+it(is to open easy)
+obj
+it(is to open easy)
+Negation: False
+
+by
+obj
+luck(by)
+mod
+sheer(luck)
+Negation: False
+
+doc id: 3
+sentence id: 25
+The kind of non-randomness that can be GENERATED by simple sieving is roughly equivalent to opening a combination lock with one one dial : it is easy to open it by sheer luck .
+verb: is equivalent
+ 
+subj
+kind(is equivalent)
+prep
+of(kind)
+pobj pobj pobj
+non(of) -(of) randomness(of)
+
+doc id: 3
+sentence id: 25
+The kind of non-randomness that can be GENERATED by simple sieving is roughly equivalent to opening a combination lock with one one dial : it is easy to open it by sheer luck .
+verb: can be GENERATED
+ 
+subj
+ by kind(can be GENERATED)
+obj prep
+sieving( by kind) of( by kind)
+amod pobj pobj pobj
+simple(sieving) non(of) -(of) randomness(of)
+
+doc id: 3
+sentence id: 25
+The kind of non-randomness that can be GENERATED by simple sieving is roughly equivalent to opening a combination lock with one one dial : it is easy to open it by sheer luck .
+verb: opening
+ 
+obj
+lock(opening)
+compound
+combination(lock)
+Negation: False
+
+with
+obj
+dial(with)
+mod
+ one one(dial)
+Negation: False
+
+doc id: 3
+sentence id: 26
+Because of the resulting close juxtaposition of areas of uplift and subsidence , considerable local relief can be GENERATED .
+verb: can be GENERATED
+ 
+subj
+relief(can be GENERATED)
+mod
+ considerable local(relief)
+
+Because
+obj
+juxtaposition(Because)
+mod prep
+ resulting close(juxtaposition) of(juxtaposition)
+pobj
+areas(of)
+prep
+of(areas)
+pobj
+uplift(of)
+cc conj
+and(uplift) subsidence(uplift)
+Negation: False
+
+doc id: 3
+sentence id: 26
+Because of the resulting close juxtaposition of areas of uplift and subsidence , considerable local relief can be GENERATED .
+verb: resulting
+ 
+
+doc id: 3
+sentence id: 27
+Whilst volumetric information can only be inferred , the full visual appearance of the solid object can be GENERATED .CNI
+verb: can be GENERATED
+ 
+subj
+appearance(can be GENERATED)
+mod prep
+ full visual(appearance) of(appearance)
+pobj
+object(of)
+det amod
+the(object) solid(object)
+
+doc id: 3
+sentence id: 27
+Whilst volumetric information can only be inferred , the full visual appearance of the solid object can be GENERATED .CNI
+verb: can be inferred
+ 
+subj
+information(can be inferred)
+mod
+volumetric(information)
+
+doc id: 3
+sentence id: 28
+Finite state grammars are based on the view that sentences are GENERATED via a series of choices made ` from left to right .
+verb: are based
+ 
+subj
+grammars(are based)
+mod compound
+Finite(grammars) state(grammars)
+
+on
+obj
+view(on)
+Negation: False
+
+doc id: 3
+sentence id: 28
+Finite state grammars are based on the view that sentences are GENERATED via a series of choices made ` from left to right .
+verb: are GENERATED
+ 
+subj
+sentences(are GENERATED)
+
+via
+obj
+series(via)
+prep
+of(series)
+pobj
+choices(of)
+acl
+made(choices)
+punct prep
+`(made) from(made)
+pcomp
+left(from)
+prep
+to(left)
+pobj
+right(to)
+Negation: False
+
+doc id: 3
+sentence id: 28
+Finite state grammars are based on the view that sentences are GENERATED via a series of choices made ` from left to right .
+verb: made
+ 
+
+doc id: 3
+sentence id: 29
+Finally , crystallization occurs preferentially along a single crystal axis and large pressures can be GENERATED within rock fractures .
+verb: occurs,  can be GENERATED
+ 
+subj
+ crystallization pressures(occurs,  can be GENERATED)
+mod
+large( crystallization pressures)
+
+along
+obj
+axis(along)
+mod cc compound
+single(axis) and(axis) crystal(axis)
+Negation: False
+
+doc id: 3
+sentence id: 30
+In the same way , the moral value of the Bible GENERATES spiritually discerning readers , who see its power to transform their lives .
+verb: GENERATES
+ 
+subj
+value(GENERATES)
+mod prep
+moral(value) of(value)
+pobj
+Bible(of)
+det
+the(Bible)
+
+In
+obj
+way(In)
+mod
+same(way)
+Negation: False
+
+doc id: 3
+sentence id: 30
+In the same way , the moral value of the Bible GENERATES spiritually discerning readers , who see its power to transform their lives .
+verb: discerning
+ 
+obj
+readers(discerning)
+punct
+,(readers)
+Negation: False
+
+doc id: 3
+sentence id: 30
+In the same way , the moral value of the Bible GENERATES spiritually discerning readers , who see its power to transform their lives .
+verb: see
+ 
+subj
+who(see)
+obj
+power(see)
+poss
+its(power)
+Negation: False
+
+doc id: 3
+sentence id: 30
+In the same way , the moral value of the Bible GENERATES spiritually discerning readers , who see its power to transform their lives .
+verb: to transform
+ 
+obj
+lives(to transform)
+poss
+their(lives)
+Negation: False
+
+doc id: 4
+sentence id: 1
+Johnny Cooper thought it almost impossible that three men carrying only sixty small bombs between them had CREATED such havoc and destruction .
+verb: thought
+ 
+subj
+Cooper(thought)
+compound
+Johnny(Cooper)
+obj
+impossible(thought)
+subj ccomp mod
+it(impossible) had CREATED(impossible) almost(impossible)
+mark nsubj dobj
+that(had CREATED) men(had CREATED) havoc(had CREATED)
+nummod acl amod cc conj
+three(men) carrying(men) such(havoc) and(havoc) destruction(havoc)
+dobj
+bombs(carrying)
+nummod amod prep
+sixty(bombs) small(bombs) between(bombs)
+advmod pobj
+only(sixty) them(between)
+Negation: False
+
+doc id: 4
+sentence id: 1
+Johnny Cooper thought it almost impossible that three men carrying only sixty small bombs between them had CREATED such havoc and destruction .
+verb: had CREATED
+ 
+subj
+men(had CREATED)
+mod
+three(men)
+obj
+havoc(had CREATED)
+mod conj cc
+such(havoc) destruction(havoc) and(havoc)
+Negation: False
+
+doc id: 4
+sentence id: 1
+Johnny Cooper thought it almost impossible that three men carrying only sixty small bombs between them had CREATED such havoc and destruction .
+verb: carrying
+ 
+obj
+bombs(carrying)
+mod mod prep
+sixty(bombs) small(bombs) between(bombs)
+advmod pobj
+only(sixty) them(between)
+Negation: False
+
+doc id: 4
+sentence id: 12
+This can CREATE a conflict of interest which needs careful management .
+verb: can CREATE
+ 
+subj
+This(can CREATE)
+obj
+conflict(can CREATE)
+prep
+of(conflict)
+pobj
+interest(of)
+Negation: False
+
+doc id: 4
+sentence id: 12
+This can CREATE a conflict of interest which needs careful management .
+verb: needs
+ 
+subj
+conflict(needs)
+prep
+of(conflict)
+pobj
+interest(of)
+obj
+management(needs)
+mod
+careful(management)
+Negation: False
+
+doc id: 4
+sentence id: 3
+Nigel shows how a little thought and planning can CREATE superb , colourful interest throughout the year whether using terracotta pots , tubs , hanging baskets , troughs or window boxes .
+verb: shows
+ 
+subj
+Nigel(shows)
+
+doc id: 4
+sentence id: 3
+Nigel shows how a little thought and planning can CREATE superb , colourful interest throughout the year whether using terracotta pots , tubs , hanging baskets , troughs or window boxes .
+verb: can CREATE
+ 
+subj
+thought(can CREATE)
+mod conj cc
+little(thought) planning(thought) and(thought)
+obj
+interest(can CREATE)
+mod punct
+ superb colourful(interest) ,(interest)
+Negation: False
+
+throughout
+obj
+year(throughout)
+Negation: False
+
+doc id: 4
+sentence id: 3
+Nigel shows how a little thought and planning can CREATE superb , colourful interest throughout the year whether using terracotta pots , tubs , hanging baskets , troughs or window boxes .
+verb: using
+ 
+obj
+pots(using)
+conj compound punct
+tubs(pots) terracotta(pots) ,(pots)
+punct conj
+,(tubs) baskets(tubs)
+amod punct conj
+hanging(baskets) ,(baskets) troughs(baskets)
+cc conj
+or(troughs) boxes(troughs)
+compound
+window(boxes)
+Negation: False
+
+doc id: 4
+sentence id: 3
+Nigel shows how a little thought and planning can CREATE superb , colourful interest throughout the year whether using terracotta pots , tubs , hanging baskets , troughs or window boxes .
+verb: hanging
+ 
+
+doc id: 4
+sentence id: 4
+This led to American charges that inferior quality Champagne had caused the drop in shipments outlined by the ministry which , in turn , CREATED increased domestic interest in Californian sparkling wine .
+verb: led
+ 
+subj
+This(led)
+
+to
+obj
+charges(to)
+mod
+American(charges)
+Negation: False
+
+doc id: 4
+sentence id: 4
+This led to American charges that inferior quality Champagne had caused the drop in shipments outlined by the ministry which , in turn , CREATED increased domestic interest in Californian sparkling wine .
+verb: had caused
+ 
+subj
+Champagne(had caused)
+compound
+quality(Champagne)
+amod
+inferior(quality)
+obj
+drop(had caused)
+prep
+in(drop)
+pobj
+shipments(in)
+acl
+outlined(shipments)
+agent
+by(outlined)
+pobj
+ministry(by)
+det
+the(ministry)
+Negation: False
+
+doc id: 4
+sentence id: 4
+This led to American charges that inferior quality Champagne had caused the drop in shipments outlined by the ministry which , in turn , CREATED increased domestic interest in Californian sparkling wine .
+verb: outlined
+ 
+subj
+by(outlined)
+obj
+ministry(by)
+det
+the(ministry)
+
+doc id: 4
+sentence id: 4
+This led to American charges that inferior quality Champagne had caused the drop in shipments outlined by the ministry which , in turn , CREATED increased domestic interest in Californian sparkling wine .
+verb: CREATED
+ 
+subj
+which(CREATED)
+obj
+interest(CREATED)
+mod prep
+ increased domestic(interest) in(interest)
+pobj
+wine(in)
+amod amod
+Californian(wine) sparkling(wine)
+Negation: False
+
+in
+obj
+turn(in)
+Negation: False
+
+doc id: 4
+sentence id: 4
+This led to American charges that inferior quality Champagne had caused the drop in shipments outlined by the ministry which , in turn , CREATED increased domestic interest in Californian sparkling wine .
+verb: increased
+ 
+
+doc id: 4
+sentence id: 4
+This led to American charges that inferior quality Champagne had caused the drop in shipments outlined by the ministry which , in turn , CREATED increased domestic interest in Californian sparkling wine .
+verb: sparkling
+ 
+
+doc id: 4
+sentence id: 5
+Mental health services must be able to cope with individuals whose mental disorder is so severe that the person CREATES serious disturbance or threat to others .
+verb: must be able
+ 
+subj
+services(must be able)
+mod compound
+Mental(services) health(services)
+
+doc id: 4
+sentence id: 5
+Mental health services must be able to cope with individuals whose mental disorder is so severe that the person CREATES serious disturbance or threat to others .
+verb: to cope
+ 
+
+with
+obj
+individuals(with)
+Negation: False
+
+doc id: 4
+sentence id: 5
+Mental health services must be able to cope with individuals whose mental disorder is so severe that the person CREATES serious disturbance or threat to others .
+verb: is severe
+ 
+subj
+disorder(is severe)
+mod poss
+mental(disorder) whose(disorder)
+
+doc id: 4
+sentence id: 5
+Mental health services must be able to cope with individuals whose mental disorder is so severe that the person CREATES serious disturbance or threat to others .
+verb: CREATES
+ 
+subj
+person(CREATES)
+obj
+disturbance(CREATES)
+mod conj cc
+serious(disturbance) threat(disturbance) or(disturbance)
+prep
+to(threat)
+pobj
+others(to)
+Negation: False
+
+doc id: 4
+sentence id: 6
+The ban was imposed after Dutch fans CREATED a disturbance on a ferry six years ago .
+verb: was imposed
+ 
+subj
+ban(was imposed)
+
+doc id: 4
+sentence id: 6
+The ban was imposed after Dutch fans CREATED a disturbance on a ferry six years ago .
+verb: CREATED
+ 
+subj
+fans(CREATED)
+mod
+Dutch(fans)
+obj
+disturbance(CREATED)
+prep
+on(disturbance)
+pobj
+ferry(on)
+det advmod
+a(ferry) ago(ferry)
+npadvmod
+years(ago)
+nummod
+six(years)
+Negation: False
+
+doc id: 4
+sentence id: 7
+When Rebekah , Potiphar 's wife , or Tamar uses a piece of attire for their own personal ends , they do not CREATE a gratuitous disturbance in the order of things .
+verb: do CREATE
+ 
+subj
+they(do CREATE)
+obj
+disturbance(do CREATE)
+mod
+gratuitous(disturbance)
+Negation: True
+
+in
+obj
+order(in)
+prep
+of(order)
+pobj
+things(of)
+Negation: False
+
+doc id: 4
+sentence id: 7
+When Rebekah , Potiphar 's wife , or Tamar uses a piece of attire for their own personal ends , they do not CREATE a gratuitous disturbance in the order of things .
+verb: uses
+ 
+subj
+Rebekah(uses)
+conj punct
+wife(Rebekah) ,(Rebekah)
+poss punct cc conj
+Potiphar(wife) ,(wife) or(wife) Tamar(wife)
+case
+'s(Potiphar)
+obj
+piece(uses)
+prep
+of(piece)
+pobj
+attire(of)
+Negation: False
+
+for
+obj
+ends(for)
+mod poss
+ own personal(ends) their(ends)
+Negation: False
+
+doc id: 4
+sentence id: 8
+Each of these problems is similar enough to fall under the same broad heading but distinct enough to CREATE confusion as the problem-solving proceeds .
+verb: is similar
+ 
+subj
+Each(is similar)
+prep
+of(Each)
+pobj
+problems(of)
+det
+these(problems)
+
+doc id: 4
+sentence id: 8
+Each of these problems is similar enough to fall under the same broad heading but distinct enough to CREATE confusion as the problem-solving proceeds .
+verb: to fall
+ 
+
+under
+obj
+heading(under)
+mod
+ same broad(heading)
+Negation: False
+
+doc id: 4
+sentence id: 8
+Each of these problems is similar enough to fall under the same broad heading but distinct enough to CREATE confusion as the problem-solving proceeds .
+verb: to CREATE
+ 
+obj
+confusion(to CREATE)
+Negation: False
+
+as
+obj
+proceeds(as)
+mod
+solving(proceeds)
+npadvmod punct
+problem(solving) -(solving)
+Negation: False
+
+doc id: 4
+sentence id: 8
+Each of these problems is similar enough to fall under the same broad heading but distinct enough to CREATE confusion as the problem-solving proceeds .
+verb: solving
+ 
+
+doc id: 4
+sentence id: 9
+Finally , Faculty examinations are unnecessary because they would CREATE confusion in the minds of the general public and fragment the tax profession , at a time when there is a premium on cooperation .
+verb: are unnecessary
+ 
+subj
+examinations(are unnecessary)
+compound
+Faculty(examinations)
+
+doc id: 4
+sentence id: 9
+Finally , Faculty examinations are unnecessary because they would CREATE confusion in the minds of the general public and fragment the tax profession , at a time when there is a premium on cooperation .
+verb: would CREATE
+ 
+subj
+they(would CREATE)
+obj
+confusion(would CREATE)
+Negation: False
+
+in
+obj
+minds(in)
+prep
+of(minds)
+pobj
+public(of)
+det amod
+the(public) general(public)
+Negation: False
+
+doc id: 4
+sentence id: 9
+Finally , Faculty examinations are unnecessary because they would CREATE confusion in the minds of the general public and fragment the tax profession , at a time when there is a premium on cooperation .
+verb: fragment
+ 
+subj
+they(fragment)
+obj
+profession(fragment)
+compound
+tax(profession)
+Negation: False
+
+at
+obj
+time(at)
+Negation: False
+
+doc id: 4
+sentence id: 9
+Finally , Faculty examinations are unnecessary because they would CREATE confusion in the minds of the general public and fragment the tax profession , at a time when there is a premium on cooperation .
+verb: is
+ 
+subj
+there(is)
+obj
+premium(is)
+prep
+on(premium)
+pobj
+cooperation(on)
+Negation: False
+
+doc id: 4
+sentence id: 10
+He was to set out with the three French patrols , drive the hundred-odd miles to the Gabes Gap and pass through it as quickly as possible to CREATE confusion in the enemy rear areas .
+verb: was to set out,  drive
+ 
+subj
+He(was to set out,  drive)
+obj
+miles(was to set out,  drive)
+mod
+hundred(miles)
+punct amod
+-(hundred) odd(hundred)
+Negation: False
+
+with
+obj
+patrols(with)
+mod mod
+three(patrols) French(patrols)
+Negation: False
+
+doc id: 4
+sentence id: 10
+He was to set out with the three French patrols , drive the hundred-odd miles to the Gabes Gap and pass through it as quickly as possible to CREATE confusion in the enemy rear areas .
+verb: pass
+ 
+subj
+He(pass)
+
+through
+obj
+it(through)
+Negation: False
+
+doc id: 4
+sentence id: 10
+He was to set out with the three French patrols , drive the hundred-odd miles to the Gabes Gap and pass through it as quickly as possible to CREATE confusion in the enemy rear areas .
+verb: to CREATE
+ 
+obj
+confusion(to CREATE)
+prep
+in(confusion)
+pobj
+areas(in)
+det nmod amod
+the(areas) enemy(areas) rear(areas)
+Negation: False
+
+doc id: 4
+sentence id: 11
+Because chromatic notes have this power to CREATE tension as they approach points of resolution , they are frequently used by improvisors to highlight the transition between two adjacent chords .
+verb: are used to highlight
+ 
+subj
+ they by(are used to highlight)
+obj
+improvisors( they by)
+obj
+transition(are used to highlight)
+prep
+between(transition)
+pobj
+chords(between)
+nummod amod
+two(chords) adjacent(chords)
+Negation: False
+
+doc id: 4
+sentence id: 11
+Because chromatic notes have this power to CREATE tension as they approach points of resolution , they are frequently used by improvisors to highlight the transition between two adjacent chords .
+verb: have
+ 
+subj
+notes(have)
+mod
+chromatic(notes)
+obj
+power(have)
+Negation: False
+
+doc id: 4
+sentence id: 11
+Because chromatic notes have this power to CREATE tension as they approach points of resolution , they are frequently used by improvisors to highlight the transition between two adjacent chords .
+verb: to CREATE
+ 
+obj
+tension(to CREATE)
+Negation: False
+
+doc id: 4
+sentence id: 11
+Because chromatic notes have this power to CREATE tension as they approach points of resolution , they are frequently used by improvisors to highlight the transition between two adjacent chords .
+verb: approach
+ 
+subj
+they(approach)
+obj
+points(approach)
+prep
+of(points)
+pobj
+resolution(of)
+Negation: False
+
+doc id: 4
+sentence id: 12
+In educational drama it is up to the teacher to CREATE and build the tension .
+verb: is to CREATE,  build
+ 
+subj
+it(is to CREATE,  build)
+obj
+tension(is to CREATE,  build)
+Negation: False
+
+In
+obj
+drama(In)
+mod
+educational(drama)
+Negation: False
+
+doc id: 4
+sentence id: 13
+The arrival of new management can CREATE tensions within any work-force .
+verb: can CREATE
+ 
+subj
+arrival(can CREATE)
+prep
+of(arrival)
+pobj
+management(of)
+amod
+new(management)
+obj
+tensions(can CREATE)
+prep
+within(tensions)
+pobj
+force(within)
+det compound punct
+any(force) work(force) -(force)
+Negation: False
+
+doc id: 4
+sentence id: 14
+Part of the art is to avoid CREATING a permanent conflict with a section of the community .
+verb: is to avoid
+ 
+subj
+Part(is to avoid)
+prep
+of(Part)
+pobj
+art(of)
+det
+the(art)
+
+doc id: 4
+sentence id: 14
+Part of the art is to avoid CREATING a permanent conflict with a section of the community .
+verb: CREATING
+ 
+obj
+conflict(CREATING)
+mod
+permanent(conflict)
+Negation: False
+
+doc id: 4
+sentence id: 15
+All of which CREATE some interesting conflicts of interest .
+verb: CREATE
+ 
+subj
+All(CREATE)
+prep
+of(All)
+pobj
+which(of)
+obj
+conflicts(CREATE)
+mod prep
+interesting(conflicts) of(conflicts)
+pobj
+interest(of)
+Negation: False
+
+doc id: 4
+sentence id: 16
+It is continually concerned about its narrow class base , and about how women 's different class interests CREATE conflicts for feminism .
+verb: is concerned
+ 
+subj
+It(is concerned)
+
+about
+obj
+base(about)
+mod poss compound
+narrow(base) its(base) class(base)
+Negation: False
+
+doc id: 4
+sentence id: 16
+It is continually concerned about its narrow class base , and about how women 's different class interests CREATE conflicts for feminism .
+verb: CREATE
+ 
+subj
+interests(CREATE)
+mod poss compound
+different(interests) women(interests) class(interests)
+case
+'s(women)
+obj
+conflicts(CREATE)
+Negation: False
+
+doc id: 4
+sentence id: 17
+Nigel , 34 , and his girl-friend Brix Smith both CREATED a stir when they arrived for the ceremony .
+verb: CREATED
+ 
+subj
+Nigel(CREATED)
+appos conj cc punct
+34(Nigel) Smith(Nigel) and(Nigel)  , ,(Nigel)
+poss compound compound appos
+his(Smith) friend(Smith) Brix(Smith) both(Smith)
+compound punct
+girl(friend) -(friend)
+obj
+stir(CREATED)
+Negation: False
+
+doc id: 4
+sentence id: 17
+Nigel , 34 , and his girl-friend Brix Smith both CREATED a stir when they arrived for the ceremony .
+verb: arrived
+ 
+subj
+they(arrived)
+
+for
+obj
+ceremony(for)
+Negation: False
+
+doc id: 4
+sentence id: 18
+They had a variety of musical instruments , including violins , and my Grandfather Tallentire CREATED quite a stir locally in later years by travelling all the way to Manchester to hear the Brothers Hamburg play .
+verb: had
+ 
+subj
+They(had)
+obj
+variety(had)
+prep
+of(variety)
+pobj
+instruments(of)
+amod punct prep
+musical(instruments) ,(instruments) including(instruments)
+pobj
+violins(including)
+Negation: False
+
+doc id: 4
+sentence id: 18
+They had a variety of musical instruments , including violins , and my Grandfather Tallentire CREATED quite a stir locally in later years by travelling all the way to Manchester to hear the Brothers Hamburg play .
+verb: including
+ 
+obj
+violins(including)
+Negation: False
+
+doc id: 4
+sentence id: 18
+They had a variety of musical instruments , including violins , and my Grandfather Tallentire CREATED quite a stir locally in later years by travelling all the way to Manchester to hear the Brothers Hamburg play .
+verb: CREATED
+ 
+subj
+Tallentire(CREATED)
+poss compound
+my(Tallentire) Grandfather(Tallentire)
+obj
+stir(CREATED)
+predet
+quite(stir)
+Negation: False
+
+in
+obj
+years(in)
+mod
+later(years)
+Negation: False
+
+doc id: 4
+sentence id: 18
+They had a variety of musical instruments , including violins , and my Grandfather Tallentire CREATED quite a stir locally in later years by travelling all the way to Manchester to hear the Brothers Hamburg play .
+verb: travelling
+ 
+obj
+way(travelling)
+predet
+all(way)
+Negation: False
+
+doc id: 4
+sentence id: 18
+They had a variety of musical instruments , including violins , and my Grandfather Tallentire CREATED quite a stir locally in later years by travelling all the way to Manchester to hear the Brothers Hamburg play .
+verb: to hear
+ 
+obj
+play(to hear)
+compound
+Hamburg(play)
+compound
+Brothers(Hamburg)
+Negation: False
+
+doc id: 4
+sentence id: 19
+Unfortunately , at the present time , there appears to be a marked lack of systematic attempts to CREATE a focus on community and rural development within formal education .
+verb: appears to be
+ 
+subj
+there(appears to be)
+obj
+lack(appears to be)
+mod prep
+marked(lack) of(lack)
+pobj
+attempts(of)
+amod acl
+systematic(attempts) to CREATE(attempts)
+dobj prep
+focus(to CREATE) within(to CREATE)
+det prep pobj
+a(focus) on(focus) education(within)
+pobj amod
+development(on) formal(education)
+nmod
+community(development)
+cc conj
+and(community) rural(community)
+Negation: False
+
+at
+obj
+time(at)
+mod
+present(time)
+Negation: False
+
+doc id: 4
+sentence id: 19
+Unfortunately , at the present time , there appears to be a marked lack of systematic attempts to CREATE a focus on community and rural development within formal education .
+verb: to CREATE
+ 
+obj
+focus(to CREATE)
+prep
+on(focus)
+pobj
+development(on)
+nmod
+community(development)
+cc conj
+and(community) rural(community)
+Negation: False
+
+within
+obj
+education(within)
+mod
+formal(education)
+Negation: False
+
+doc id: 4
+sentence id: 20
+Polyacetylene has CREATED a lot of technological interest because it , like other semiconductors , can be doped to improve its conductivity , which can be increased ten million , million times .
+verb: has CREATED
+ 
+subj
+Polyacetylene(has CREATED)
+obj
+lot(has CREATED)
+prep
+of(lot)
+pobj
+interest(of)
+amod
+technological(interest)
+Negation: False
+
+doc id: 4
+sentence id: 20
+Polyacetylene has CREATED a lot of technological interest because it , like other semiconductors , can be doped to improve its conductivity , which can be increased ten million , million times .
+verb: can be doped
+ 
+subj
+it(can be doped)
+
+like
+obj
+semiconductors(like)
+mod
+other(semiconductors)
+Negation: False
+
+doc id: 4
+sentence id: 20
+Polyacetylene has CREATED a lot of technological interest because it , like other semiconductors , can be doped to improve its conductivity , which can be increased ten million , million times .
+verb: to improve
+ 
+obj
+conductivity(to improve)
+poss punct
+its(conductivity) ,(conductivity)
+Negation: False
+
+doc id: 4
+sentence id: 20
+Polyacetylene has CREATED a lot of technological interest because it , like other semiconductors , can be doped to improve its conductivity , which can be increased ten million , million times .
+verb: can be increased
+ 
+subj
+conductivity(can be increased)
+poss punct
+its(conductivity) ,(conductivity)
+
+doc id: 4
+sentence id: 21
+Sterling 's forced departure from the ERM has CREATED a vacuum in the Government 's economic policy , leaving the entire business world anxious and confused
+verb: has CREATED
+ 
+subj
+departure(has CREATED)
+mod poss prep
+forced(departure) Sterling(departure) from(departure)
+case pobj
+'s(Sterling) ERM(from)
+det
+the(ERM)
+obj
+vacuum(has CREATED)
+prep
+in(vacuum)
+pobj
+policy(in)
+poss amod
+Government(policy) economic(policy)
+det case
+the(Government) 's(Government)
+Negation: False
+
+doc id: 4
+sentence id: 21
+Sterling 's forced departure from the ERM has CREATED a vacuum in the Government 's economic policy , leaving the entire business world anxious and confused
+verb: forced
+ 
+
+doc id: 4
+sentence id: 21
+Sterling 's forced departure from the ERM has CREATED a vacuum in the Government 's economic policy , leaving the entire business world anxious and confused
+verb: leaving
+ 
+obj
+ world anxious(leaving)
+mod conj cc compound
+entire( world anxious) confused( world anxious) and( world anxious) business( world anxious)
+Negation: False
+
+doc id: 4
+sentence id: 22
+If the sciences were less subordinate to theology at the time of Newton than at the time of Copernicus , had the Reformation in religion CREATED favorable conditions for a reformation in science ?
+verb: had
+ 
+obj
+Reformation(had)
+prep
+in(Reformation)
+pobj
+religion(in)
+Negation: False
+
+doc id: 4
+sentence id: 22
+If the sciences were less subordinate to theology at the time of Newton than at the time of Copernicus , had the Reformation in religion CREATED favorable conditions for a reformation in science ?
+verb: were subordinate
+ 
+subj
+sciences(were subordinate)
+
+at
+obj
+time(at)
+prep
+of(time)
+pobj
+Newton(of)
+Negation: False
+
+doc id: 4
+sentence id: 22
+If the sciences were less subordinate to theology at the time of Newton than at the time of Copernicus , had the Reformation in religion CREATED favorable conditions for a reformation in science ?
+verb: CREATED
+ 
+obj
+conditions(CREATED)
+mod
+favorable(conditions)
+Negation: False
+
+doc id: 4
+sentence id: 23
+It pulled together four very big organizations to make an even bigger one -- and then CREATED many smaller businesses out of the merger .
+verb: pulled ... to make
+ 
+subj
+It(pulled ... to make)
+obj
+organizations(pulled ... to make)
+mod mod
+four(organizations) big(organizations)
+advmod
+very(big)
+Negation: False
+
+to make
+obj
+one(to make)
+mod
+bigger(one)
+advmod
+even(bigger)
+Negation: False
+
+doc id: 4
+sentence id: 23
+It pulled together four very big organizations to make an even bigger one -- and then CREATED many smaller businesses out of the merger .
+verb: CREATED
+ 
+subj
+It(CREATED)
+obj
+businesses(CREATED)
+mod
+ many smaller(businesses)
+Negation: False
+
+doc id: 4
+sentence id: 24
+This negative response CREATED great distress to Mrs X as she has her heart set on becoming an embalmer .
+verb: CREATED
+ 
+subj
+response(CREATED)
+mod
+negative(response)
+obj
+distress(CREATED)
+mod
+great(distress)
+Negation: False
+
+to
+obj
+X(to)
+compound
+Mrs(X)
+Negation: False
+
+doc id: 4
+sentence id: 24
+This negative response CREATED great distress to Mrs X as she has her heart set on becoming an embalmer .
+verb: has
+ 
+subj
+she(has)
+
+doc id: 4
+sentence id: 24
+This negative response CREATED great distress to Mrs X as she has her heart set on becoming an embalmer .
+verb: set
+ 
+subj
+heart(set)
+poss
+her(heart)
+
+doc id: 4
+sentence id: 24
+This negative response CREATED great distress to Mrs X as she has her heart set on becoming an embalmer .
+verb: becoming
+ 
+obj
+embalmer(becoming)
+Negation: False
+
+doc id: 4
+sentence id: 25
+The county council is CREATING a traffic problem which wasn't there before . 
+verb: is CREATING
+ 
+subj
+council(is CREATING)
+compound
+county(council)
+obj
+problem(is CREATING)
+compound
+traffic(problem)
+Negation: False
+
+doc id: 4
+sentence id: 25
+The county council is CREATING a traffic problem which wasn't there before . 
+verb: was
+ 
+subj
+problem(was)
+compound
+traffic(problem)
+
+doc id: 4
+sentence id: 26
+How then is one to decide what is , and what is not an acceptable regulatory response to the problems CREATED by conglomeration ?
+verb: is
+ 
+obj
+one(is)
+Negation: False
+
+doc id: 4
+sentence id: 26
+How then is one to decide what is , and what is not an acceptable regulatory response to the problems CREATED by conglomeration ?
+verb: to decide
+ 
+subj
+one(to decide)
+obj
+is(to decide)
+subj
+what(is)
+Negation: False
+
+doc id: 4
+sentence id: 26
+How then is one to decide what is , and what is not an acceptable regulatory response to the problems CREATED by conglomeration ?
+verb: is
+ 
+subj
+what(is)
+
+doc id: 4
+sentence id: 26
+How then is one to decide what is , and what is not an acceptable regulatory response to the problems CREATED by conglomeration ?
+verb: is
+ 
+subj
+what(is)
+obj
+response(is)
+mod
+ acceptable regulatory(response)
+Negation: True
+
+doc id: 4
+sentence id: 26
+How then is one to decide what is , and what is not an acceptable regulatory response to the problems CREATED by conglomeration ?
+verb: CREATED
+ 
+subj
+by(CREATED)
+obj
+conglomeration(by)
+
+doc id: 4
+sentence id: 27
+This CREATED something of a diplomatic flurry between London and Washington , as the Americans sought assurances that the British were not trying to sabotage their plans .
+verb: CREATED
+ 
+subj
+This(CREATED)
+obj
+something(CREATED)
+prep
+of(something)
+pobj
+flurry(of)
+det amod prep
+a(flurry) diplomatic(flurry) between(flurry)
+pobj
+London(between)
+cc conj
+and(London) Washington(London)
+Negation: False
+
+doc id: 4
+sentence id: 27
+This CREATED something of a diplomatic flurry between London and Washington , as the Americans sought assurances that the British were not trying to sabotage their plans .
+verb: sought
+ 
+subj
+Americans(sought)
+obj
+assurances(sought)
+Negation: False
+
+doc id: 4
+sentence id: 27
+This CREATED something of a diplomatic flurry between London and Washington , as the Americans sought assurances that the British were not trying to sabotage their plans .
+verb: were trying to sabotage
+ 
+subj
+British(were trying to sabotage)
+obj
+plans(were trying to sabotage)
+poss
+their(plans)
+Negation: True
+
+doc id: 4
+sentence id: 28
+In the 1890s , Theodor Herzl ( 1860 - 1904 ) worked to organize a movement , Zionism , to CREATE a Jewish state .
+verb: worked
+ 
+subj
+Herzl(worked)
+appos compound punct
+1860(Herzl) Theodor(Herzl)  ( )(Herzl)
+prep
+1904(1860)
+punct
+-(1904)
+
+In
+obj
+1890s(In)
+Negation: False
+
+doc id: 4
+sentence id: 28
+In the 1890s , Theodor Herzl ( 1860 - 1904 ) worked to organize a movement , Zionism , to CREATE a Jewish state .
+verb: to organize
+ 
+obj
+movement(to organize)
+punct
+,(movement)
+Negation: False
+
+doc id: 4
+sentence id: 28
+In the 1890s , Theodor Herzl ( 1860 - 1904 ) worked to organize a movement , Zionism , to CREATE a Jewish state .
+verb: to CREATE
+ 
+subj
+Zionism(to CREATE)
+obj
+state(to CREATE)
+mod
+Jewish(state)
+Negation: False
+
+doc id: 4
+sentence id: 29
+Not only did it CREATE jobs , but it also created Lake Mead , the massive reservoir that today provides water to all of southern Nevada .
+verb: did CREATE
+ 
+subj
+it(did CREATE)
+obj
+jobs(did CREATE)
+Negation: False
+
+doc id: 4
+sentence id: 29
+Not only did it CREATE jobs , but it also created Lake Mead , the massive reservoir that today provides water to all of southern Nevada .
+verb: created
+ 
+subj
+it(created)
+obj
+Mead(created)
+appos compound punct
+reservoir(Mead) Lake(Mead) ,(Mead)
+det amod relcl
+the(reservoir) massive(reservoir) provides(reservoir)
+nsubj npadvmod dobj dative
+that(provides) today(provides) water(provides) to(provides)
+pobj
+all(to)
+prep
+of(all)
+pobj
+Nevada(of)
+amod
+southern(Nevada)
+Negation: False
+
+doc id: 4
+sentence id: 29
+Not only did it CREATE jobs , but it also created Lake Mead , the massive reservoir that today provides water to all of southern Nevada .
+verb: provides
+ 
+subj
+reservoir(provides)
+mod
+massive(reservoir)
+obj
+water(provides)
+Negation: False
+
